@@ -3,15 +3,25 @@
 ticket_id: "CIDSD-87"
 title: "Add "Request Created" process phase after 6A/L6/L4 creation"
 status: "Closed"
+original_status: ""
 created: "2022-02-02"
+scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-87"
+assignee: ""
+reporter: ""
 project: "cidsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
+tags:
   - jira
   - ticket
   - cidsd
   - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"---
+updated: "2025-11-15T09:16"
+last_synced: "2025-11-15T09:16"
+---
 
 
 
@@ -45,5 +55,5 @@ No comments available.
 - **Source**: JSON export from Jira Service Management
 
 ---
-
 *This file was automatically generated from JSON data*
+

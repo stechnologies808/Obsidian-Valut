@@ -1,36 +1,59 @@
 ---
-ticket_id: CITSD-871
-title: 'INC0305123: ARD620: Character case-sensitive filters affecting LVM Calculations
-  (Portal Apps)'
-status: Under Review
-created: '2025-07-25'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-871
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-871"
+title: "INC0305123: ARD620: Character case-sensitive filters affecting LVM Calculations (Portal Apps)"
+status: "Under Review"
+original_status: ""
+created: "2025-07-25"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-871"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- citsd
-- under-review
-updated: 2025-11-15T08:12
-last_synced: 2025-11-15T08:12
+  - jira
+  - ticket
+  - citsd
+  - under-review
+updated: "2025-11-15T09:17"
+last_synced: "2025-11-15T09:17"
 ---
 
+
+
 # }:}
+
 ## Overview
+
 - **Status**: Under Review
 - **Created**: 2025-07-25
 - **Project**: citsd
 - **Request Type**: Unknown
-bucket:"" # External / Internal / LVM 
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-871)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

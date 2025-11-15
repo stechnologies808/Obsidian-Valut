@@ -3,15 +3,25 @@
 ticket_id: "HESD-423"
 title: "ARD672: Transition:  "Edit" user action is not available for transitioned amendments when it should be"
 status: "Awaiting Deployment"
+original_status: ""
 created: "2024-06-07"
+scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-423"
+assignee: ""
+reporter: ""
 project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
+tags:
   - jira
   - ticket
   - awaiting-deployment
   - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"---
+updated: "2025-11-15T09:17"
+last_synced: "2025-11-15T09:17"
+---
 
 
 
@@ -45,5 +55,5 @@ No comments available.
 - **Source**: JSON export from Jira Service Management
 
 ---
-
 *This file was automatically generated from JSON data*
+

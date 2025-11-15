@@ -1,35 +1,59 @@
 ---
-ticket_id: HESD-509
-title: 'INC0309200: CIT/CID Milestone tab shows HE Internal email addresses'
-status: Awaiting Deployment
-created: '2024-10-10'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-509
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-509"
+title: "INC0309200: CIT/CID Milestone tab shows HE Internal email addresses"
+status: "Awaiting Deployment"
+original_status: ""
+created: "2024-10-10"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-509"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- awaiting-deployment
-- hesd
-updated: 2025-11-15T08:12
-last_synced: 2025-11-15T08:12
+  - jira
+  - ticket
+  - awaiting-deployment
+  - hesd
+updated: "2025-11-15T09:17"
+last_synced: "2025-11-15T09:17"
 ---
 
+
+
 # }:}
+
 ## Overview
+
 - **Status**: Awaiting Deployment
 - **Created**: 2024-10-10
 - **Project**: hesd
 - **Request Type**: Unknown
-bucket:"" # External / Internal / LVM 
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-509)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

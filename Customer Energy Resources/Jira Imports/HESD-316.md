@@ -3,15 +3,25 @@
 ticket_id: "HESD-316"
 title: "The "Revision Accepted" (revision passed) email in CIT Prod is being sent from "noreply@gridunity.com" and is in plain text instead of html."
 status: "Closed"
+original_status: ""
 created: "2024-02-26"
+scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-316"
+assignee: ""
+reporter: ""
 project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
+tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"---
+updated: "2025-11-15T09:17"
+last_synced: "2025-11-15T09:17"
+---
 
 
 
@@ -45,5 +55,5 @@ No comments available.
 - **Source**: JSON export from Jira Service Management
 
 ---
-
 *This file was automatically generated from JSON data*
+
