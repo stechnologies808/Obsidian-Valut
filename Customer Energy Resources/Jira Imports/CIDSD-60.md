@@ -1,42 +1,59 @@
 ---
-ticket_id: CIDSD-60
-title: Additional Field to support 6A planner's name without the (xxx) to support
-  email template
-status: Resolved
-created: '2022-01-03'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-60
-project: cidsd
+# Dataview Properties
+ticket_id: "CIDSD-60"
+title: "Additional Field to support 6A planner's name without the (xxx) to support email template"
+status: "Resolved"
+original_status: ""
+created: "2022-01-03"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-60"
+assignee: ""
+reporter: ""
+project: "cidsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+  - jira
+  - ticket
+  - cidsd
+  - resolved
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# CIDSD-60: Additional Field to support 6A planner's name without the (xxx) to support email template
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Resolved
 - **Created**: 2022-01-03
 - **Project**: cidsd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-60)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

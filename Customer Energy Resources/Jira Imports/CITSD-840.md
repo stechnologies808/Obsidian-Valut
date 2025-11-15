@@ -1,41 +1,59 @@
 ---
-ticket_id: CITSD-840
-title: 'DFCT0011256 Modified inverter list does not save when uploaded '
-status: In Test
-created: '2025-03-27'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-840
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-840"
+title: "DFCT0011256 Modified inverter list does not save when uploaded "
+status: "In Test"
+original_status: ""
+created: "2025-03-27"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-840"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- citsd
-- in-test
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+  - jira
+  - ticket
+  - citsd
+  - in-test
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# CITSD-840: DFCT0011256 Modified inverter list does not save when uploaded 
+
+
+# }:}
+
 ## Overview
+
 - **Status**: In Test
 - **Created**: 2025-03-27
 - **Project**: citsd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-840)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

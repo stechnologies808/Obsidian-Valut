@@ -1,42 +1,59 @@
 ---
-ticket_id: HESD-415
-title: 'ARD731 - Post Go-Live: Error message when trying to open meter photo in Completeness
-  Review'
-status: Triaged (Backlog)
-created: '2024-06-06'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-415
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-415"
+title: "ARD731 - Post Go-Live: Error message when trying to open meter photo in Completeness Review"
+status: "Triaged (Backlog)"
+original_status: ""
+created: "2024-06-06"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-415"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- triaged-(backlog)
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+  - jira
+  - ticket
+  - hesd
+  - triaged-(backlog)
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# HESD-415: ARD731 - Post Go-Live: Error message when trying to open meter photo in Completeness Review
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Triaged (Backlog)
 - **Created**: 2024-06-06
 - **Project**: hesd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-415)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

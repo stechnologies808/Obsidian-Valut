@@ -3,38 +3,57 @@
 ticket_id: "CITSD-158"
 title: "Received error message saying "Please complete fields on Contact Information Page". However, fields on the Contact Information Page are completed"
 status: "Resolved"
+original_status: ""
 created: "2022-12-19"
+scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-158"
+assignee: ""
+reporter: ""
 project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
+tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T07:16"
-last_synced: "2025-11-15T07:16"---
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
+---
 
-# CITSD-158: Received error message saying "Please complete fields on Contact Information Page". However, fields on the Contact Information Page are completed
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Resolved
 - **Created**: 2022-12-19
 - **Project**: citsd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-158)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

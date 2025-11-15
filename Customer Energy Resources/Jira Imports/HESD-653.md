@@ -1,41 +1,59 @@
 ---
-ticket_id: HESD-653
-title: 'INC0329398: PROD Application P-AMD-25-1085681, need Revision'
-status: Triaged (Backlog)
-created: '2025-10-30'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-653
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-653"
+title: "INC0329398: PROD Application P-AMD-25-1085681, need Revision"
+status: "Triaged (Backlog)"
+original_status: ""
+created: "2025-10-30"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-653"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- triaged-(backlog)
-updated: 2025-11-15T07:17
-last_synced: 2025-11-15T07:17
+  - jira
+  - ticket
+  - hesd
+  - triaged-(backlog)
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# HESD-653: INC0329398: PROD Application P-AMD-25-1085681, need Revision
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Triaged (Backlog)
 - **Created**: 2025-10-30
 - **Project**: hesd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-653)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

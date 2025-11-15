@@ -1,42 +1,59 @@
 ---
-ticket_id: HESD-358
-title: Contractor can't see hyperlinks or application
-status: Closed
-created: '2024-04-18'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-358
-project: hesd
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+# Dataview Properties
+ticket_id: "HESD-358"
+title: "Contractor can't see hyperlinks or application"
+status: "Closed"
+original_status: ""
+created: "2024-04-18"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-358"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- closed
-- hesd
-- watchlist
+  - jira
+  - ticket
+  - closed
+  - hesd
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# HESD-358: Contractor can't see hyperlinks or application
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Closed
 - **Created**: 2024-04-18
 - **Project**: hesd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-358)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

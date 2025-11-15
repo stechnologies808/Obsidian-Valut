@@ -1,41 +1,59 @@
 ---
-ticket_id: HESD-167
-title: '349785: Start Project Validation chevron, no Save and Continue button '
-status: Closed
-created: '2022-11-28'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-167
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-167"
+title: "349785: Start Project Validation chevron, no Save and Continue button "
+status: "Closed"
+original_status: ""
+created: "2022-11-28"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-167"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- closed
-- hesd
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+  - jira
+  - ticket
+  - closed
+  - hesd
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# HESD-167: 349785: Start Project Validation chevron, no Save and Continue button 
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Closed
 - **Created**: 2022-11-28
 - **Project**: hesd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-167)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

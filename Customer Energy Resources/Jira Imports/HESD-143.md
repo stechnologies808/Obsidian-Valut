@@ -1,41 +1,59 @@
 ---
-ticket_id: HESD-143
-title: Contractor approval no company listed
-status: Resolved
-created: '2022-09-14'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-143
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-143"
+title: "Contractor approval no company listed"
+status: "Resolved"
+original_status: ""
+created: "2022-09-14"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-143"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- resolved
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+  - jira
+  - ticket
+  - hesd
+  - resolved
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# HESD-143: Contractor approval no company listed
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Resolved
 - **Created**: 2022-09-14
 - **Project**: hesd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-143)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

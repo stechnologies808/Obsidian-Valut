@@ -1,41 +1,59 @@
 ---
-ticket_id: CITSD-107
-title: Update SDP Fields User Action - For older amendments
-status: Resolved
-created: '2022-10-06'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-107
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-107"
+title: "Update SDP Fields User Action - For older amendments"
+status: "Resolved"
+original_status: ""
+created: "2022-10-06"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-107"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- citsd
-- resolved
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+  - jira
+  - ticket
+  - citsd
+  - resolved
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# CITSD-107: Update SDP Fields User Action - For older amendments
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Resolved
 - **Created**: 2022-10-06
 - **Project**: citsd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-107)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+

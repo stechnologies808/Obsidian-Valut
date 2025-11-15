@@ -1,42 +1,59 @@
 ---
-ticket_id: HESD-291
-title: '731376: CIT WORK STOPPAGE ERROR, PLEASE RUSH - CR outcome for CIT application
-  P-AMD-23-731376 did not advance correctly'
-status: Resolved
-created: '2023-12-19'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-291
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-291"
+title: "731376: CIT WORK STOPPAGE ERROR, PLEASE RUSH - CR outcome for CIT application P-AMD-23-731376 did not advance correctly"
+status: "Resolved"
+original_status: ""
+created: "2023-12-19"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-291"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- resolved
-updated: 2025-11-15T07:16
-last_synced: 2025-11-15T07:16
+  - jira
+  - ticket
+  - hesd
+  - resolved
+updated: "2025-11-15T08:12"
+last_synced: "2025-11-15T08:12"
 ---
 
-# HESD-291: 731376: CIT WORK STOPPAGE ERROR, PLEASE RUSH - CR outcome for CIT application P-AMD-23-731376 did not advance correctly
+
+
+# }:}
+
 ## Overview
+
 - **Status**: Resolved
 - **Created**: 2023-12-19
 - **Project**: hesd
-- **Request Type**: 
-## People
-- **Assignee**: 
-- **Reporter**: 
-## Business Context
-- **Business Impact**: Not specified
-- **Business Value**: Not specified
-- **HE Project**: Not specified
+- **Request Type**: Unknown
+
+bucket:""             # External / Internal / LVM 
+
 ## Description
+
 No description available
+
 ## Comments
+
 No comments available.
+
+
 ## Links
 - [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-291)
 - Original Summary: 
+
+
 ## Metadata
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
+
 ---
 *This file was automatically generated from JSON data*
+
