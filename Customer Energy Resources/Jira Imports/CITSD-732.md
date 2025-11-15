@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-732"
-title: "ARD540 - BYOD1 no instructions to negotiate start time over 100kW"
-status: "Backlog"
-original_status: ""
-created: "2024-02-05"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-732"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-732
+title: ARD540 - BYOD1 no instructions to negotiate start time over 100kW
+status: Backlog
+created: '2024-02-05'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-732
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

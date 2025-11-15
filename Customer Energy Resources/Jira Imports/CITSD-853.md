@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-853"
-title: "DFCT0011344: CSV Export: Property Accessibility data does not match csv export"
-status: "Queued"
-original_status: ""
-created: "2025-05-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-853"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-853
+title: 'DFCT0011344: CSV Export: Property Accessibility data does not match csv export'
+status: Queued
+created: '2025-05-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-853
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - queued
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- queued
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

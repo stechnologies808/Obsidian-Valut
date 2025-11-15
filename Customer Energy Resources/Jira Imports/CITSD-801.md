@@ -3,25 +3,15 @@
 ticket_id: "CITSD-801"
 title: "ARD543 - [DD Update] PVRIntSigSummary_enum should not be editable, "Disabled Always""
 status: "Backlog"
-original_status: ""
 created: "2024-05-16"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-801"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - backlog
   - citsd
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

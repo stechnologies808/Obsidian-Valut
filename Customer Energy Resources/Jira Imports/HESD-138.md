@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-138"
-title: "Missing meter photo on i-info for field ProjectMeterNumber_fld"
-status: "Resolved"
-original_status: ""
-created: "2022-08-20"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-138"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-138
+title: Missing meter photo on i-info for field ProjectMeterNumber_fld
+status: Resolved
+created: '2022-08-20'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-138
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

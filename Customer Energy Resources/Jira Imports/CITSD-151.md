@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-151"
-title: "Validation Passed email was not sent to customer and contractor"
-status: "Closed"
-original_status: ""
-created: "2022-12-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-151"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-151
+title: Validation Passed email was not sent to customer and contractor
+status: Closed
+created: '2022-12-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-151
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-598"
-title: "External List Contractor email address update: MAUI BUILDERS CIT ACCOUNT"
-status: "Resolved"
-original_status: ""
-created: "2025-06-26"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-598"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-598
+title: 'External List Contractor email address update: MAUI BUILDERS CIT ACCOUNT'
+status: Resolved
+created: '2025-06-26'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-598
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

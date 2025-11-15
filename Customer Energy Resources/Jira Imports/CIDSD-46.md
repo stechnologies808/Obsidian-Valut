@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-46"
-title: "Scrolling window data appears above Menu Tabs"
-status: "Closed"
-original_status: ""
-created: "2021-12-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-46"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-46
+title: Scrolling window data appears above Menu Tabs
+status: Closed
+created: '2021-12-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-46
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

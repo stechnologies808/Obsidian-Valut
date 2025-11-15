@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-320"
-title: "CIT issue;  X-GSP-24-789726: Company identifier not assigned to project"
-status: "Closed"
-original_status: ""
-created: "2024-02-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-320"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-320
+title: 'CIT issue;  X-GSP-24-789726: Company identifier not assigned to project'
+status: Closed
+created: '2024-02-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-320
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

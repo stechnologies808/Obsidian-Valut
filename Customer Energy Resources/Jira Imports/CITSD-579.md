@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-579"
-title: "ARD308 - Begin revison URL number is different from when we continue with the revison"
-status: "Closed"
-original_status: ""
-created: "2023-11-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-579"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-579
+title: ARD308 - Begin revison URL number is different from when we continue with the
+  revison
+status: Closed
+created: '2023-11-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-579
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-357"
-title: "ARD058 - Clarification/Enhancement: What is the default ordering of documents on the Documents Tab? Preference is most recent upload at top."
-status: "Closed"
-original_status: ""
-created: "2023-06-23"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-357"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-357
+title: 'ARD058 - Clarification/Enhancement: What is the default ordering of documents
+  on the Documents Tab? Preference is most recent upload at top.'
+status: Closed
+created: '2023-06-23'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-357
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

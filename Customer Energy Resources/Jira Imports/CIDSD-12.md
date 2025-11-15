@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-12"
-title: "Kibana/Index: New Field-Requestor Type not in application-index*"
-status: "Resolved"
-original_status: ""
-created: "2021-09-10"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-12"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-12
+title: 'Kibana/Index: New Field-Requestor Type not in application-index*'
+status: Resolved
+created: '2021-09-10'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-12
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

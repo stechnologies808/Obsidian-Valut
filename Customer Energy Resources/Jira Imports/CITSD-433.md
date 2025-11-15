@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-433"
-title: "DEV Project Validation Non Export Settings Visibility"
-status: "Resolved"
-original_status: ""
-created: "2023-08-24"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-433"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-433
+title: DEV Project Validation Non Export Settings Visibility
+status: Resolved
+created: '2023-08-24'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-433
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

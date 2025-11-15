@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-586"
-title: "ARD323 - [UI Styling] All Footer Changes from AS2 project are gone."
-status: "Resolved"
-original_status: ""
-created: "2023-11-23"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-586"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-586
+title: ARD323 - [UI Styling] All Footer Changes from AS2 project are gone.
+status: Resolved
+created: '2023-11-23'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-586
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

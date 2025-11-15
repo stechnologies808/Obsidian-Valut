@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-580"
-title: "ARD311 - Start Revision is not an option from the drop down menu in the (...) in the queue view"
-status: "Resolved"
-original_status: ""
-created: "2023-11-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-580"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-580
+title: ARD311 - Start Revision is not an option from the drop down menu in the (...)
+  in the queue view
+status: Resolved
+created: '2023-11-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-580
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

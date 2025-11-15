@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-153"
-title: "Revision received email to customer/contractor does not include attachment."
-status: "Resolved"
-original_status: ""
-created: "2022-12-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-153"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-153
+title: Revision received email to customer/contractor does not include attachment.
+status: Resolved
+created: '2022-12-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-153
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

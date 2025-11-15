@@ -3,25 +3,15 @@
 ticket_id: "CITSD-172"
 title: "Regression: "Battery Bonus" is missing from Queue View column list"
 status: "Resolved"
-original_status: ""
 created: "2023-01-03"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-172"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - resolved
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-90"
-title: "Need to revert gu_status of CID apps that were set to Archive"
-status: "Resolved"
-original_status: ""
-created: "2022-06-02"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-90"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-90
+title: Need to revert gu_status of CID apps that were set to Archive
+status: Resolved
+created: '2022-06-02'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-90
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

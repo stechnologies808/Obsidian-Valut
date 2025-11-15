@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-380"
-title: "ARD092 - W-9 Received Date is required to be filled out in order to proceed forward"
-status: "Resolved"
-original_status: ""
-created: "2023-06-30"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-380"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-380
+title: ARD092 - W-9 Received Date is required to be filled out in order to proceed
+  forward
+status: Resolved
+created: '2023-06-30'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-380
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

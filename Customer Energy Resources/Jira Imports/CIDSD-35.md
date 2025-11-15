@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-35"
-title: "Requesting User Action for UtilAdmin to modify registered user email accounts and usernames"
-status: "Resolved"
-original_status: ""
-created: "2021-12-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-35"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-35
+title: Requesting User Action for UtilAdmin to modify registered user email accounts
+  and usernames
+status: Resolved
+created: '2021-12-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-35
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-354"
-title: "ARD621 - Node Penetration Calculation for application P-GSP-24-806933 is not correct"
-status: "Closed"
-original_status: ""
-created: "2024-04-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-354"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-354
+title: ARD621 - Node Penetration Calculation for application P-GSP-24-806933 is not
+  correct
+status: Closed
+created: '2024-04-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-354
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

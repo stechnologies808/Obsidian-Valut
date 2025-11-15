@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-152"
-title: "Archie CID application should be accessible to the CID clerks"
-status: "Closed"
-original_status: ""
-created: "2022-10-12"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-152"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-152
+title: Archie CID application should be accessible to the CID clerks
+status: Closed
+created: '2022-10-12'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-152
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

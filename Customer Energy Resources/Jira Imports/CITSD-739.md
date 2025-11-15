@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-739"
-title: "ARD533 - Manual Override Energy Storage field not calculating correctly"
-status: "Closed"
-original_status: ""
-created: "2024-02-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-739"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-739
+title: ARD533 - Manual Override Energy Storage field not calculating correctly
+status: Closed
+created: '2024-02-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-739
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

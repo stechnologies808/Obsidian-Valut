@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-297"
-title: "Reporting: Error message when trying to export csv data: Error exporting the applications. Please try again."
-status: "Closed"
-original_status: ""
-created: "2024-01-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-297"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-297
+title: 'Reporting: Error message when trying to export csv data: Error exporting the
+  applications. Please try again.'
+status: Closed
+created: '2024-01-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-297
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

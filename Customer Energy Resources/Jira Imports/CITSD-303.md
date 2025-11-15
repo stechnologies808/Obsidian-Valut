@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-303"
-title: "ALM126 UAT [UI Styling] Top Border missing for sections without card header"
-status: "Resolved"
-original_status: ""
-created: "2023-04-23"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-303"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-303
+title: ALM126 UAT [UI Styling] Top Border missing for sections without card header
+status: Resolved
+created: '2023-04-23'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-303
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

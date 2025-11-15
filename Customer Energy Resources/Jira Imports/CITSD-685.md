@@ -3,25 +3,15 @@
 ticket_id: "CITSD-685"
 title: "ARD488 - Validation Submittal - System Components incorrectly label different panels as "PV Panels #1" even though there are 7"
 status: "Closed"
-original_status: ""
 created: "2024-01-31"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-685"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - closed
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

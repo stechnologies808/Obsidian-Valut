@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-527"
-title: "ARD257 - Contractor PTO Email is doubled in body"
-status: "Closed"
-original_status: ""
-created: "2023-09-30"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-527"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-527
+title: ARD257 - Contractor PTO Email is doubled in body
+status: Closed
+created: '2023-09-30'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-527
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

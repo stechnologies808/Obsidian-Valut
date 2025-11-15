@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-887"
-title: "DFCT0011463 Q4 Regression: CIT includes reference to Oahu for Maui project in ITR screen"
-status: "Under Review"
-original_status: ""
-created: "2025-11-12"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-887"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-887
+title: 'DFCT0011463 Q4 Regression: CIT includes reference to Oahu for Maui project
+  in ITR screen'
+status: Under Review
+created: '2025-11-12'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-887
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - under-review
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- under-review
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

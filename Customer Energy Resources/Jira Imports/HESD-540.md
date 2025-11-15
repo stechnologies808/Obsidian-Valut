@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-540"
-title: "INC0312790: Status for CIT application M-CSS-23-733599 will not advance to Pending Execution"
-status: "Closed"
-original_status: ""
-created: "2024-12-31"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-540"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-540
+title: 'INC0312790: Status for CIT application M-CSS-23-733599 will not advance to
+  Pending Execution'
+status: Closed
+created: '2024-12-31'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-540
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

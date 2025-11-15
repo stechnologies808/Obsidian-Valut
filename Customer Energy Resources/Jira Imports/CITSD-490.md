@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-490"
-title: "ARD210 - Verification Submittal - Unable to save progress in Project Verification submittal page"
-status: "Resolved"
-original_status: ""
-created: "2023-09-25"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-490"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-490
+title: ARD210 - Verification Submittal - Unable to save progress in Project Verification
+  submittal page
+status: Resolved
+created: '2023-09-25'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-490
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

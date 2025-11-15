@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-638"
-title: "ARD415 - PV Panel Quantity should not have a 1000 value limit"
-status: "Resolved"
-original_status: ""
-created: "2024-01-10"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-638"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-638
+title: ARD415 - PV Panel Quantity should not have a 1000 value limit
+status: Resolved
+created: '2024-01-10'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-638
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-76"
-title: "Change/Modify field isSDP to Yes or No in Queue View for filtering"
-status: "Closed"
-original_status: ""
-created: "2022-03-08"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-76"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-76
+title: Change/Modify field isSDP to Yes or No in Queue View for filtering
+status: Closed
+created: '2022-03-08'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-76
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

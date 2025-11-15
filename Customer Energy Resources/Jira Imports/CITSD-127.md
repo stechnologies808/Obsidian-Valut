@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-127"
-title: "Existing Agreement Edit/Revision Summary Page"
-status: "Resolved"
-original_status: ""
-created: "2022-11-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-127"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-127
+title: Existing Agreement Edit/Revision Summary Page
+status: Resolved
+created: '2022-11-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-127
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

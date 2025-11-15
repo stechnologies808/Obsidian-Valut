@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-106"
-title: "Environment TEST: Unable to submit Electrical Request - spinning blue wheel"
-status: "Resolved"
-original_status: ""
-created: "2022-06-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-106"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-106
+title: 'Environment TEST: Unable to submit Electrical Request - spinning blue wheel'
+status: Resolved
+created: '2022-06-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-106
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

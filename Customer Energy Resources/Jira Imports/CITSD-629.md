@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-629"
-title: "ARD396 - Validation as Contractor: Flag and Comment fields should not be available, clickable or editable"
-status: "Resolved"
-original_status: ""
-created: "2024-01-09"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-629"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-629
+title: 'ARD396 - Validation as Contractor: Flag and Comment fields should not be available,
+  clickable or editable'
+status: Resolved
+created: '2024-01-09'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-629
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

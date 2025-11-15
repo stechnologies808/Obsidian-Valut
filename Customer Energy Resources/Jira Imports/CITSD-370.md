@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-370"
-title: "ARD087 - Contents on Application Summary Page document overlapping"
-status: "Resolved"
-original_status: ""
-created: "2023-06-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-370"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-370
+title: ARD087 - Contents on Application Summary Page document overlapping
+status: Resolved
+created: '2023-06-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-370
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

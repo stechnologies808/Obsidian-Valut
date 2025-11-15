@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-406"
-title: "Data Dictionary version 8.4.2023 Reformatted field-level conditions"
-status: "Closed"
-original_status: ""
-created: "2023-08-05"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-406"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-406
+title: Data Dictionary version 8.4.2023 Reformatted field-level conditions
+status: Closed
+created: '2023-08-05'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-406
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

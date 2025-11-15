@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-855"
-title: "DFCT0011346: BYOD Committed Capacity accepted alpha characters."
-status: "Resolved"
-original_status: ""
-created: "2025-05-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-855"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-855
+title: 'DFCT0011346: BYOD Committed Capacity accepted alpha characters.'
+status: Resolved
+created: '2025-05-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-855
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

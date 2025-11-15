@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-743"
-title: "ARD519 - Missing Revision Summary in Documents, logged in as contractor IF AMD"
-status: "Closed"
-original_status: ""
-created: "2024-02-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-743"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-743
+title: ARD519 - Missing Revision Summary in Documents, logged in as contractor IF
+  AMD
+status: Closed
+created: '2024-02-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-743
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

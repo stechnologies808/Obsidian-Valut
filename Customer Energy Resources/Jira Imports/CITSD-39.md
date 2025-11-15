@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-39"
-title: "No Equipment Change Amendments - Validation and Additional Information & Drawings chevrons"
-status: "Closed"
-original_status: ""
-created: "2022-02-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-39"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-39
+title: No Equipment Change Amendments - Validation and Additional Information & Drawings
+  chevrons
+status: Closed
+created: '2022-02-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-39
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

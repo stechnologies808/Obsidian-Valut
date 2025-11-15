@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-308"
-title: "H-AMD-23-699217:Contractor stating they cannot submit validation stage."
-status: "Closed"
-original_status: ""
-created: "2024-01-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-308"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-308
+title: H-AMD-23-699217:Contractor stating they cannot submit validation stage.
+status: Closed
+created: '2024-01-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-308
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-93"
-title: "Route the user to the Project Summary page after 6A L4/L6 creation"
-status: "Resolved"
-original_status: ""
-created: "2022-02-10"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-93"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-93
+title: Route the user to the Project Summary page after 6A L4/L6 creation
+status: Resolved
+created: '2022-02-10'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-93
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-102"
-title: "Change Account Type labels on Registration for an Account page"
-status: "Closed"
-original_status: ""
-created: "2022-02-24"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-102"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-102
+title: Change Account Type labels on Registration for an Account page
+status: Closed
+created: '2022-02-24'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-102
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

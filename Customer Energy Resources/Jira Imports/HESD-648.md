@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-648"
-title: "Reverse Withdrawal P-AMD-22-458238"
-status: "Closed"
-original_status: ""
-created: "2025-10-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-648"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-648
+title: Reverse Withdrawal P-AMD-22-458238
+status: Closed
+created: '2025-10-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-648
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

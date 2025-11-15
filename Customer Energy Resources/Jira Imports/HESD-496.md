@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-496"
-title: "Users unable to log in to forms.hawaiianelectric.com/login"
-status: "Closed"
-original_status: ""
-created: "2024-08-27"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-496"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-496
+title: Users unable to log in to forms.hawaiianelectric.com/login
+status: Closed
+created: '2024-08-27'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-496
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

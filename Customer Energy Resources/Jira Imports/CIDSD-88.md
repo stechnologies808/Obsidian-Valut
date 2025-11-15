@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-88"
-title: "Display milestones in numerical order"
-status: "Resolved"
-original_status: ""
-created: "2022-02-02"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-88"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-88
+title: Display milestones in numerical order
+status: Resolved
+created: '2022-02-02'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-88
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

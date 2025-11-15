@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-292"
-title: "Email reminders are being sent to customer with Executed Agreements."
-status: "Resolved"
-original_status: ""
-created: "2023-12-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-292"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-292
+title: Email reminders are being sent to customer with Executed Agreements.
+status: Resolved
+created: '2023-12-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-292
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

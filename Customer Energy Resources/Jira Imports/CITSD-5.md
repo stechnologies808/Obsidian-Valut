@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-5"
-title: "Administration Actions: Sarah Change Field Values TEST vs. PROD"
-status: "Closed"
-original_status: ""
-created: "2021-12-07"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-5"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-5
+title: 'Administration Actions: Sarah Change Field Values TEST vs. PROD'
+status: Closed
+created: '2021-12-07'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-5
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

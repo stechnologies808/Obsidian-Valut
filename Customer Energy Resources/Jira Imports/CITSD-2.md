@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-2"
-title: "Unable to Register - Error invalid email address"
-status: "Closed"
-original_status: ""
-created: "2021-12-03"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-2"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-2
+title: Unable to Register - Error invalid email address
+status: Closed
+created: '2021-12-03'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-2
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

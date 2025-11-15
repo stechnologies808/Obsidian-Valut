@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-290"
-title: "ALM 113 TEST - Dashboard missing H1 header [ADA]"
-status: "Resolved"
-original_status: ""
-created: "2023-04-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-290"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-290
+title: ALM 113 TEST - Dashboard missing H1 header [ADA]
+status: Resolved
+created: '2023-04-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-290
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

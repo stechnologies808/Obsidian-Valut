@@ -3,25 +3,15 @@
 ticket_id: "CITSD-102"
 title: "Unable to complete registration in TEST for test users "Hecoprocessor"
 status: "Closed"
-original_status: ""
 created: "2022-09-28"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-102"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - closed
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-583"
-title: "ARD315 - Interim DER programs - SR defects"
-status: "Resolved"
-original_status: ""
-created: "2023-11-21"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-583"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-583
+title: ARD315 - Interim DER programs - SR defects
+status: Resolved
+created: '2023-11-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-583
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

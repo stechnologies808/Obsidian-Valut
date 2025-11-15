@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-210"
-title: "ALM 30 UAT TEST > CID - Items from application not included in the Application Summary's Project Details"
-status: "Closed"
-original_status: ""
-created: "2023-03-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-210"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-210
+title: ALM 30 UAT TEST > CID - Items from application not included in the Application
+  Summary's Project Details
+status: Closed
+created: '2023-03-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-210
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-614"
-title: "DMND0001590:  LTC Payment should not appear as a user action."
-status: "Ready for HE Testing"
-original_status: ""
-created: "2025-08-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-614"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-614
+title: 'DMND0001590:  LTC Payment should not appear as a user action.'
+status: Ready for HE Testing
+created: '2025-08-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-614
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - ready-for-he-testing
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- ready-for-he-testing
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

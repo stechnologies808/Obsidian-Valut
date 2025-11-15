@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-517"
-title: "ARD261 - BB Verification Submittal Error - Application is stuck"
-status: "Resolved"
-original_status: ""
-created: "2023-09-30"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-517"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-517
+title: ARD261 - BB Verification Submittal Error - Application is stuck
+status: Resolved
+created: '2023-09-30'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-517
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

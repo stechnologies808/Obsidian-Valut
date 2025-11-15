@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-594"
-title: "INC0321574: CIT PROD - Please generate Agreement document for P-AMD-24-851238. Please expedite."
-status: "Closed"
-original_status: ""
-created: "2025-06-13"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-594"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-594
+title: 'INC0321574: CIT PROD - Please generate Agreement document for P-AMD-24-851238.
+  Please expedite.'
+status: Closed
+created: '2025-06-13'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-594
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

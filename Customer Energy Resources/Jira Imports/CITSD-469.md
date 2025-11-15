@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-469"
-title: "ARD196 - 216609 SDE BYOD - Validation complete email to customers not sent upon validation pass. Verification not submitted."
-status: "Resolved"
-original_status: ""
-created: "2023-09-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-469"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-469
+title: ARD196 - 216609 SDE BYOD - Validation complete email to customers not sent
+  upon validation pass. Verification not submitted.
+status: Resolved
+created: '2023-09-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-469
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

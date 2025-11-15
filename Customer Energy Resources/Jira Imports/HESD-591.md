@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-591"
-title: "INC0321373: Unable to approve Contractor"
-status: "Closed"
-original_status: ""
-created: "2025-06-09"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-591"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-591
+title: 'INC0321373: Unable to approve Contractor'
+status: Closed
+created: '2025-06-09'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-591
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

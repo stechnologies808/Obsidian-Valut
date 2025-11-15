@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-250"
-title: "ALM 73 TEST UAT - COMP REV. - TOTAL INVERTER QUANTITY AND TOTAL INVERTER SIZE (KW) FIELDS ARE BLANK"
-status: "Resolved"
-original_status: ""
-created: "2023-04-11"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-250"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-250
+title: ALM 73 TEST UAT - COMP REV. - TOTAL INVERTER QUANTITY AND TOTAL INVERTER SIZE
+  (KW) FIELDS ARE BLANK
+status: Resolved
+created: '2023-04-11'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-250
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

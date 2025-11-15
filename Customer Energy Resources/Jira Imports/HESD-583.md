@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-583"
-title: "INC0319187: LVM files missing for 4/30"
-status: "Closed"
-original_status: ""
-created: "2025-04-30"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-583"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-583
+title: 'INC0319187: LVM files missing for 4/30'
+status: Closed
+created: '2025-04-30'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-583
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

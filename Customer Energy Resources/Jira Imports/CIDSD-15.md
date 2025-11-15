@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-15"
-title: "Error creating account with CDC registration"
-status: "Resolved"
-original_status: ""
-created: "2021-10-25"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-15"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-15
+title: Error creating account with CDC registration
+status: Resolved
+created: '2021-10-25'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-15
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

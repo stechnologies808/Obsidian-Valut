@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-569"
-title: "ARD269 - [DD Update] Need System Owner name regardless if the system is leased or not"
-status: "Closed"
-original_status: ""
-created: "2023-11-04"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-569"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-569
+title: ARD269 - [DD Update] Need System Owner name regardless if the system is leased
+  or not
+status: Closed
+created: '2023-11-04'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-569
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

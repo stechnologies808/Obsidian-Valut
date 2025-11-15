@@ -1,26 +1,19 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-289"
-title: "739258  that the service address should be 951024 Melokia St Mililani, HI 96789, and that the meter number is MPX000545734.  Please update the CIT record accordingly to reflect this information."
-status: "Closed"
-original_status: ""
-created: "2023-12-18"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-289"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-289
+title: 739258  that the service address should be 951024 Melokia St Mililani, HI 96789,
+  and that the meter number is MPX000545734.  Please update the CIT record accordingly
+  to reflect this information.
+status: Closed
+created: '2023-12-18'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-289
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

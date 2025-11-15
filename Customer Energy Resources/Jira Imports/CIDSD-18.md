@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-18"
-title: "New Queue View Preset Filters"
-status: "Closed"
-original_status: ""
-created: "2021-11-04"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-18"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-18
+title: New Queue View Preset Filters
+status: Closed
+created: '2021-11-04'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-18
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

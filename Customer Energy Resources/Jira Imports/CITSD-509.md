@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-509"
-title: "ARD224 - New AMD applications are not showing up in LVM"
-status: "Resolved"
-original_status: ""
-created: "2023-09-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-509"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-509
+title: ARD224 - New AMD applications are not showing up in LVM
+status: Resolved
+created: '2023-09-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-509
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

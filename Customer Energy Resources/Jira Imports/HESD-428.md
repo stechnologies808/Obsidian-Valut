@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-428"
-title: "ARD741 - Post-Go Live: Previous values do not appear when reviewing revision"
-status: "Resolved"
-original_status: ""
-created: "2024-06-20"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-428"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-428
+title: 'ARD741 - Post-Go Live: Previous values do not appear when reviewing revision'
+status: Resolved
+created: '2024-06-20'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-428
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

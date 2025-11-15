@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-407"
-title: "ARD120 - Application Summary fields missing"
-status: "Closed"
-original_status: ""
-created: "2023-08-07"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-407"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-407
+title: ARD120 - Application Summary fields missing
+status: Closed
+created: '2023-08-07'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-407
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

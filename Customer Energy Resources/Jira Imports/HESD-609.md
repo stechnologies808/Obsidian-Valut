@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-609"
-title: "Contractor Email address update"
-status: "Resolved"
-original_status: ""
-created: "2025-08-02"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-609"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-609
+title: Contractor Email address update
+status: Resolved
+created: '2025-08-02'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-609
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-103"
-title: "DR Request: Applications were Rejected in DR Review; Need way to Re-Review them again"
-status: "Closed"
-original_status: ""
-created: "2022-06-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-103"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-103
+title: 'DR Request: Applications were Rejected in DR Review; Need way to Re-Review
+  them again'
+status: Closed
+created: '2022-06-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-103
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

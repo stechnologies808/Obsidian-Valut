@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-120"
-title: "Project Validation Compliance Clock"
-status: "Closed"
-original_status: ""
-created: "2022-11-04"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-120"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-120
+title: Project Validation Compliance Clock
+status: Closed
+created: '2022-11-04'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-120
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

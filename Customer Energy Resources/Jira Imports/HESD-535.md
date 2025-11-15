@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-535"
-title: "INC0311687: M-SDN-24-924520 is a Hawaii Island project but is being populated as a Maui project in CIT "
-status: "Closed"
-original_status: ""
-created: "2024-12-04"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-535"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-535
+title: 'INC0311687: M-SDN-24-924520 is a Hawaii Island project but is being populated
+  as a Maui project in CIT '
+status: Closed
+created: '2024-12-04'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-535
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-200"
-title: "ALM-13 ICLM UAT: System Components display incorrect values on Project Summary (page before submit)"
-status: "Resolved"
-original_status: ""
-created: "2023-03-21"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-200"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-200
+title: 'ALM-13 ICLM UAT: System Components display incorrect values on Project Summary
+  (page before submit)'
+status: Resolved
+created: '2023-03-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-200
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

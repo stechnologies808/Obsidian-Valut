@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-163"
-title: "Validation passed email not sent to customer/contractor is verification fails and validation passes. Please confirm requirement."
-status: "Closed"
-original_status: ""
-created: "2022-12-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-163"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-163
+title: Validation passed email not sent to customer/contractor is verification fails
+  and validation passes. Please confirm requirement.
+status: Closed
+created: '2022-12-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-163
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

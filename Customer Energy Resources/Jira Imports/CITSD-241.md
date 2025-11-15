@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-241"
-title: "ALM 64 TEST UAT - 'Request CIT Change of Contractor' page allows user to manually jump through steps via side nav"
-status: "Resolved"
-original_status: ""
-created: "2023-04-04"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-241"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-241
+title: ALM 64 TEST UAT - 'Request CIT Change of Contractor' page allows user to manually
+  jump through steps via side nav
+status: Resolved
+created: '2023-04-04'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-241
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

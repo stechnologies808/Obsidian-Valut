@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-222"
-title: "CID Application Modify Existing Service blank page"
-status: "Closed"
-original_status: ""
-created: "2023-04-04"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-222"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-222
+title: CID Application Modify Existing Service blank page
+status: Closed
+created: '2023-04-04'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-222
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-567"
-title: "DMND0001854: GU Export All Data and Metadata from PROD portal"
-status: "Planned"
-original_status: ""
-created: "2025-04-02"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-567"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-567
+title: 'DMND0001854: GU Export All Data and Metadata from PROD portal'
+status: Planned
+created: '2025-04-02'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-567
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - planned
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- planned
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

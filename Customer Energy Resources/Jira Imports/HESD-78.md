@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-78"
-title: "Prod/CIT Workflow: Contractor unable to make corrections to app 347250; gets redirected to the home page"
-status: "Resolved"
-original_status: ""
-created: "2022-05-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-78"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-78
+title: 'Prod/CIT Workflow: Contractor unable to make corrections to app 347250; gets
+  redirected to the home page'
+status: Resolved
+created: '2022-05-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-78
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

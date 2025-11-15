@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-672"
-title: "ARD486 - Holding Queue for Oahu SDE turned back on since 1/10"
-status: "Closed"
-original_status: ""
-created: "2024-01-25"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-672"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-672
+title: ARD486 - Holding Queue for Oahu SDE turned back on since 1/10
+status: Closed
+created: '2024-01-25'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-672
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

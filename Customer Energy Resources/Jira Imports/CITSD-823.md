@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-823"
-title: "DFCT0010767: AMD application should not have the automate AMI meter notification option. "
-status: "Closed"
-original_status: ""
-created: "2024-09-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-823"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-823
+title: 'DFCT0010767: AMD application should not have the automate AMI meter notification
+  option. '
+status: Closed
+created: '2024-09-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-823
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

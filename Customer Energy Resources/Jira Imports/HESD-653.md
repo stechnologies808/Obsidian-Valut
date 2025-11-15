@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-653"
-title: "INC0329398: PROD Application P-AMD-25-1085681, need Revision"
-status: "Triaged (Backlog)"
-original_status: ""
-created: "2025-10-30"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-653"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-653
+title: 'INC0329398: PROD Application P-AMD-25-1085681, need Revision'
+status: Triaged (Backlog)
+created: '2025-10-30'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-653
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - triaged-(backlog)
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- triaged-(backlog)
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

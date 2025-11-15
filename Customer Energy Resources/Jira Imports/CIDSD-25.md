@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-25"
-title: "Added Stakeholder (after registering) does not have access to Project"
-status: "Resolved"
-original_status: ""
-created: "2021-11-18"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-25"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-25
+title: Added Stakeholder (after registering) does not have access to Project
+status: Resolved
+created: '2021-11-18'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-25
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-118"
-title: "TEST: Unable to start new Electrical and New Renewable Application"
-status: "Closed"
-original_status: ""
-created: "2022-07-14"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-118"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-118
+title: 'TEST: Unable to start new Electrical and New Renewable Application'
+status: Closed
+created: '2022-07-14'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-118
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

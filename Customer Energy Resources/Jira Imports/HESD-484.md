@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-484"
-title: "INC0305561: 812122: NMP application stuck on Project system components page. Error loading drop down list for both AC Disconnect and Inverter"
-status: "Closed"
-original_status: ""
-created: "2024-08-09"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-484"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-484
+title: 'INC0305561: 812122: NMP application stuck on Project system components page.
+  Error loading drop down list for both AC Disconnect and Inverter'
+status: Closed
+created: '2024-08-09'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-484
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

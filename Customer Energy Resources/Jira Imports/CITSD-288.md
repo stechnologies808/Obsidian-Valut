@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-288"
-title: "ALM 111 TEST - CID Dashboard Contact Information wrong"
-status: "Resolved"
-original_status: ""
-created: "2023-04-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-288"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-288
+title: ALM 111 TEST - CID Dashboard Contact Information wrong
+status: Resolved
+created: '2023-04-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-288
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-755"
-title: "ARD572: STAGE ONLY: Queue view search return error when using the quick search and the column searches"
-status: "Resolved"
-original_status: ""
-created: "2024-02-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-755"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-755
+title: 'ARD572: STAGE ONLY: Queue view search return error when using the quick search
+  and the column searches'
+status: Resolved
+created: '2024-02-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-755
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

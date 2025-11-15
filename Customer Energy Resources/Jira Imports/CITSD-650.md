@@ -3,25 +3,15 @@
 ticket_id: "CITSD-650"
 title: "ARD389 - User unable to review full text of "Details" column."
 status: "Resolved"
-original_status: ""
 created: "2024-01-18"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-650"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - resolved
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

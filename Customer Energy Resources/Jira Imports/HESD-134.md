@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-134"
-title: "AMEND applications sending out wrong template; using existing program type instead of AMEND"
-status: "Resolved"
-original_status: ""
-created: "2022-08-18"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-134"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-134
+title: AMEND applications sending out wrong template; using existing program type
+  instead of AMEND
+status: Resolved
+created: '2022-08-18'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-134
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

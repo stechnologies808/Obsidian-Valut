@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-448"
-title: "ARD166 - Internal Application Submitted: time stamp UI overlapping"
-status: "Resolved"
-original_status: ""
-created: "2023-09-12"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-448"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-448
+title: 'ARD166 - Internal Application Submitted: time stamp UI overlapping'
+status: Resolved
+created: '2023-09-12'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-448
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-596"
-title: "ARD336 -BPEM API failed upon Execution"
-status: "Closed"
-original_status: ""
-created: "2023-12-08"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-596"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-596
+title: ARD336 -BPEM API failed upon Execution
+status: Closed
+created: '2023-12-08'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-596
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

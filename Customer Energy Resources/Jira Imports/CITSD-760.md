@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-760"
-title: "ARD538 - ENHANCEMENT (CR): CIT to DRMS Enrollment Integration: .xml field Device Installation Date is not populated"
-status: "Resolved"
-original_status: ""
-created: "2024-03-07"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-760"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-760
+title: 'ARD538 - ENHANCEMENT (CR): CIT to DRMS Enrollment Integration: .xml field
+  Device Installation Date is not populated'
+status: Resolved
+created: '2024-03-07'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-760
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

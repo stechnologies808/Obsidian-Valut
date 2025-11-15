@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-426"
-title: "Enumeration BYOD_W9 promote down "
-status: "Resolved"
-original_status: ""
-created: "2024-06-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-426"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-426
+title: 'Enumeration BYOD_W9 promote down '
+status: Resolved
+created: '2024-06-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-426
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

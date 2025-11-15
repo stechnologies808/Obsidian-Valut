@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-259"
-title: "ALM 83 TEST UAT - Renewable Energy Program Application - Project Location Submit"
-status: "Closed"
-original_status: ""
-created: "2023-04-11"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-259"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-259
+title: ALM 83 TEST UAT - Renewable Energy Program Application - Project Location Submit
+status: Closed
+created: '2023-04-11'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-259
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

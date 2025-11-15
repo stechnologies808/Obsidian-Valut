@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-487"
-title: "M-AMD-24-863374: CR corrections required email was sent but the PDF was not attached to the email"
-status: "Closed"
-original_status: ""
-created: "2024-08-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-487"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-487
+title: 'M-AMD-24-863374: CR corrections required email was sent but the PDF was not
+  attached to the email'
+status: Closed
+created: '2024-08-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-487
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

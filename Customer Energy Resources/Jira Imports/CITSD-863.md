@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-863"
-title: "DFCT0011365: No equipment email sent (Not Vital to BYOD+)"
-status: "Closed"
-original_status: ""
-created: "2025-06-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-863"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-863
+title: 'DFCT0011365: No equipment email sent (Not Vital to BYOD+)'
+status: Closed
+created: '2025-06-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-863
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

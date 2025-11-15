@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-555"
-title: "ARD299 - Milestones are not displayed in the correct order"
-status: "Resolved"
-original_status: ""
-created: "2023-10-31"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-555"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-555
+title: ARD299 - Milestones are not displayed in the correct order
+status: Resolved
+created: '2023-10-31'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-555
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

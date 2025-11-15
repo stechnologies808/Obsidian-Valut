@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-854"
-title: "DFCT0011345: Project Details Page does not correctly show the name of the System Owner"
-status: "In Test"
-original_status: ""
-created: "2025-05-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-854"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-854
+title: 'DFCT0011345: Project Details Page does not correctly show the name of the
+  System Owner'
+status: In Test
+created: '2025-05-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-854
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - in-test
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- in-test
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

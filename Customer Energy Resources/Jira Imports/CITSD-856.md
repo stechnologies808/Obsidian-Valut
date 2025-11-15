@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-856"
-title: "DFCT0011348: No reupload option/button appears after file too large error message"
-status: "Closed"
-original_status: ""
-created: "2025-06-01"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-856"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-856
+title: 'DFCT0011348: No reupload option/button appears after file too large error
+  message'
+status: Closed
+created: '2025-06-01'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-856
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-99"
-title: "Disable Send Email functionality in the User Action dropdown"
-status: "Resolved"
-original_status: ""
-created: "2022-02-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-99"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-99
+title: Disable Send Email functionality in the User Action dropdown
+status: Resolved
+created: '2022-02-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-99
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

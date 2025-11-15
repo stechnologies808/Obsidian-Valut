@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-125"
-title: "Project Summary/Landing Page does not appear (P-AMD-22-173224)"
-status: "Resolved"
-original_status: ""
-created: "2022-11-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-125"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-125
+title: Project Summary/Landing Page does not appear (P-AMD-22-173224)
+status: Resolved
+created: '2022-11-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-125
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

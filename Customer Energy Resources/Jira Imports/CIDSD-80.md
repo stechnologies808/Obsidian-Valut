@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-80"
-title: "Temporary Service:  Installation Fee Payer fields not enforced when Other is selected"
-status: "Resolved"
-original_status: ""
-created: "2022-01-27"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-80"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-80
+title: 'Temporary Service:  Installation Fee Payer fields not enforced when Other
+  is selected'
+status: Resolved
+created: '2022-01-27'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-80
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-513"
-title: "INC0309506: Meter number and zip code are not populating service address when creating a new application in CIT "
-status: "Closed"
-original_status: ""
-created: "2024-10-21"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-513"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-513
+title: 'INC0309506: Meter number and zip code are not populating service address when
+  creating a new application in CIT '
+status: Closed
+created: '2024-10-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-513
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

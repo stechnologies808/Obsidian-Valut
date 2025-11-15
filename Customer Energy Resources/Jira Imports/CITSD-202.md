@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-202"
-title: "ALM-33 ICLM UAT Completeness Review Property Owner Phone number not masked"
-status: "Closed"
-original_status: ""
-created: "2023-03-21"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-202"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-202
+title: ALM-33 ICLM UAT Completeness Review Property Owner Phone number not masked
+status: Closed
+created: '2023-03-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-202
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

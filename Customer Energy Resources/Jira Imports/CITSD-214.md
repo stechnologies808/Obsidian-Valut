@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-214"
-title: "alm-41 TEST UAT External User starts AMEND from User Action in Queue View, error message on last page"
-status: "Resolved"
-original_status: ""
-created: "2023-03-23"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-214"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-214
+title: alm-41 TEST UAT External User starts AMEND from User Action in Queue View,
+  error message on last page
+status: Resolved
+created: '2023-03-23'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-214
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

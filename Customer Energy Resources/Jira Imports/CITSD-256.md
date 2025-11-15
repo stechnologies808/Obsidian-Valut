@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-256"
-title: "ALM 80 TEST UAT - No PTCFC section displayed"
-status: "Resolved"
-original_status: ""
-created: "2023-04-11"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-256"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-256
+title: ALM 80 TEST UAT - No PTCFC section displayed
+status: Resolved
+created: '2023-04-11'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-256
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

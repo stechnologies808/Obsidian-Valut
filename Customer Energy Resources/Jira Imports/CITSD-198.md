@@ -3,25 +3,15 @@
 ticket_id: "CITSD-198"
 title: "ALM 31 TEST UAT Reports - Reporting > Exports > SDP Amendment display as TRUE instead of "This Amendment is for Battery Bonus.""
 status: "Closed"
-original_status: ""
 created: "2023-03-21"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-198"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - closed
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

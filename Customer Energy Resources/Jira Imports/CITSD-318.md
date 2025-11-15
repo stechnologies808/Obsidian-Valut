@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-318"
-title: "ALM 140 TEST UAT - [ADA] Unable to navigate to last tab in Applications Details using a keyboard"
-status: "Resolved"
-original_status: ""
-created: "2023-05-08"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-318"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-318
+title: ALM 140 TEST UAT - [ADA] Unable to navigate to last tab in Applications Details
+  using a keyboard
+status: Resolved
+created: '2023-05-08'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-318
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

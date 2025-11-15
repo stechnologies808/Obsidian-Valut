@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-246"
-title: "ALM 70 TEST UAT [UI Styling] Table colors [ADA]"
-status: "Resolved"
-original_status: ""
-created: "2023-04-05"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-246"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-246
+title: ALM 70 TEST UAT [UI Styling] Table colors [ADA]
+status: Resolved
+created: '2023-04-05'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-246
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

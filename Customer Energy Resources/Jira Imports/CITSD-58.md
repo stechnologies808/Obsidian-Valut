@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-58"
-title: "Question: Is this a possible solution? Amend_ExistingAgreementProgram added to the Action: Sarah Change Field Value"
-status: "Resolved"
-original_status: ""
-created: "2022-03-04"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-58"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-58
+title: 'Question: Is this a possible solution? Amend_ExistingAgreementProgram added
+  to the Action: Sarah Change Field Value'
+status: Resolved
+created: '2022-03-04'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-58
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

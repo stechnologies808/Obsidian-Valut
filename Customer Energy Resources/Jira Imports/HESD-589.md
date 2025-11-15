@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-589"
-title: "INC0320946: Production LVM files from GridUnity sftp were missing in the last 2 days."
-status: "Closed"
-original_status: ""
-created: "2025-05-30"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-589"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-589
+title: 'INC0320946: Production LVM files from GridUnity sftp were missing in the last
+  2 days.'
+status: Closed
+created: '2025-05-30'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-589
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

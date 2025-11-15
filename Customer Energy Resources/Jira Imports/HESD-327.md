@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-327"
-title: "ARD589 - Post-Go Live: Existing notes are removed when adding new notes"
-status: "Resolved"
-original_status: ""
-created: "2024-04-03"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-327"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-327
+title: 'ARD589 - Post-Go Live: Existing notes are removed when adding new notes'
+status: Resolved
+created: '2024-04-03'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-327
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

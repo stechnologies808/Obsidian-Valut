@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-777"
-title: "ARD372 - [DD update] Project Validation Final Review statement typo"
-status: "Backlog"
-original_status: ""
-created: "2024-04-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-777"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-777
+title: ARD372 - [DD update] Project Validation Final Review statement typo
+status: Backlog
+created: '2024-04-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-777
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

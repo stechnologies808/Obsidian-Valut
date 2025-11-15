@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-216"
-title: "ALM-43 TEST UAT: Project Summary Details PDF Formatting the System Components large space"
-status: "Resolved"
-original_status: ""
-created: "2023-03-24"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-216"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-216
+title: 'ALM-43 TEST UAT: Project Summary Details PDF Formatting the System Components
+  large space'
+status: Resolved
+created: '2023-03-24'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-216
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

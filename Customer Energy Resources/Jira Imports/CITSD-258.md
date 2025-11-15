@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-258"
-title: "ALM 82 TEST UAT - [UI Styling] Top border of section missing"
-status: "Resolved"
-original_status: ""
-created: "2023-04-11"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-258"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-258
+title: ALM 82 TEST UAT - [UI Styling] Top border of section missing
+status: Resolved
+created: '2023-04-11'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-258
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

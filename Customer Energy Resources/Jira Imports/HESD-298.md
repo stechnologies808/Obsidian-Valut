@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-298"
-title: "WORK STOPPAGE, PLEASE RUSH-- M-GSP-24-658393 Cannot process completeness review, receiving error message"
-status: "Closed"
-original_status: ""
-created: "2024-01-18"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-298"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-298
+title: WORK STOPPAGE, PLEASE RUSH-- M-GSP-24-658393 Cannot process completeness review,
+  receiving error message
+status: Closed
+created: '2024-01-18'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-298
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

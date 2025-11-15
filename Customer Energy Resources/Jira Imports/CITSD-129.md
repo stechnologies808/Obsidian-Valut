@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-129"
-title: "Revision Summary Page - System Owner information "
-status: "Resolved"
-original_status: ""
-created: "2022-11-18"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-129"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-129
+title: 'Revision Summary Page - System Owner information '
+status: Resolved
+created: '2022-11-18'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-129
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-474"
-title: "ARD807: Application Stuck; Not progressing forward"
-status: "Closed"
-original_status: ""
-created: "2024-07-31"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-474"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-474
+title: 'ARD807: Application Stuck; Not progressing forward'
+status: Closed
+created: '2024-07-31'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-474
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

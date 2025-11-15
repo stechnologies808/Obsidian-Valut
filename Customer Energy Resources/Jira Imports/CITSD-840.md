@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-840"
-title: "DFCT0011256 Modified inverter list does not save when uploaded "
-status: "In Test"
-original_status: ""
-created: "2025-03-27"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-840"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-840
+title: 'DFCT0011256 Modified inverter list does not save when uploaded '
+status: In Test
+created: '2025-03-27'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-840
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - in-test
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- in-test
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

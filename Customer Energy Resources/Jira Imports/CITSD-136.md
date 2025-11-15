@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-136"
-title: "REGRESSION - Revision Summary attachment misaligned starting from the components"
-status: "Closed"
-original_status: ""
-created: "2022-11-23"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-136"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-136
+title: REGRESSION - Revision Summary attachment misaligned starting from the components
+status: Closed
+created: '2022-11-23'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-136
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-177"
-title: "Completeness Review Unflagged Comments for ITR Bypass Customers"
-status: "Resolved"
-original_status: ""
-created: "2023-01-25"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-177"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-177
+title: Completeness Review Unflagged Comments for ITR Bypass Customers
+status: Resolved
+created: '2023-01-25'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-177
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

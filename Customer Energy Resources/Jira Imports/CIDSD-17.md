@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-17"
-title: "The Project Summary page does not display the correct customer in the Customer section."
-status: "Resolved"
-original_status: ""
-created: "2021-11-03"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-17"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-17
+title: The Project Summary page does not display the correct customer in the Customer
+  section.
+status: Resolved
+created: '2021-11-03'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-17
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

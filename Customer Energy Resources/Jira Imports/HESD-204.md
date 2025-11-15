@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-204"
-title: "405753: Unable to Review Submitted Revision"
-status: "Resolved"
-original_status: ""
-created: "2023-02-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-204"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-204
+title: '405753: Unable to Review Submitted Revision'
+status: Resolved
+created: '2023-02-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-204
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

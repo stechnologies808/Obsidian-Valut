@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-135"
-title: "reCAPTCHA error for site owner: Invalid domain for site key"
-status: "Closed"
-original_status: ""
-created: "2022-11-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-135"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-135
+title: 'reCAPTCHA error for site owner: Invalid domain for site key'
+status: Closed
+created: '2022-11-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-135
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

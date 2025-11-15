@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-30"
-title: "Sys Admin not able to edit archived project record"
-status: "Resolved"
-original_status: ""
-created: "2021-11-24"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-30"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-30
+title: Sys Admin not able to edit archived project record
+status: Resolved
+created: '2021-11-24'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-30
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-497"
-title: "ARD227 - Compliance clock should not be visible for external users"
-status: "Resolved"
-original_status: ""
-created: "2023-09-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-497"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-497
+title: ARD227 - Compliance clock should not be visible for external users
+status: Resolved
+created: '2023-09-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-497
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

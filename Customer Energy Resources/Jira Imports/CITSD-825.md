@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-825"
-title: "DFCT0010766: Check mark and X do not appear to "
-status: "Resolved"
-original_status: ""
-created: "2024-09-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-825"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-825
+title: 'DFCT0010766: Check mark and X do not appear to '
+status: Resolved
+created: '2024-09-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-825
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

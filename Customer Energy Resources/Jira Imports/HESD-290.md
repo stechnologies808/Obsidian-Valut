@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-290"
-title: "724546: Contractor stating they are not able to progress application past the Contact Information page of the Apply for Interconnection sectio"
-status: "Resolved"
-original_status: ""
-created: "2023-12-18"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-290"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-290
+title: '724546: Contractor stating they are not able to progress application past
+  the Contact Information page of the Apply for Interconnection sectio'
+status: Resolved
+created: '2023-12-18'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-290
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

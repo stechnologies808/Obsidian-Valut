@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-604"
-title: "ARD343 - CID dashboard shows CIT dashboard alert when CID dashboard alert is not active but CIT dashboard alert is active"
-status: "Resolved"
-original_status: ""
-created: "2023-12-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-604"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-604
+title: ARD343 - CID dashboard shows CIT dashboard alert when CID dashboard alert is
+  not active but CIT dashboard alert is active
+status: Resolved
+created: '2023-12-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-604
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

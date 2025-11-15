@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-821"
-title: "Lower threshold for the project due date so HE can test the Submit Extension request"
-status: "Closed"
-original_status: ""
-created: "2024-08-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-821"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-821
+title: Lower threshold for the project due date so HE can test the Submit Extension
+  request
+status: Closed
+created: '2024-08-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-821
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

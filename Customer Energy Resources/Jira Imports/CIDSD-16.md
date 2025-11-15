@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-16"
-title: "Adding step indicators at the top of registration screens"
-status: "Closed"
-original_status: ""
-created: "2021-10-25"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-16"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-16
+title: Adding step indicators at the top of registration screens
+status: Closed
+created: '2021-10-25'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-16
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

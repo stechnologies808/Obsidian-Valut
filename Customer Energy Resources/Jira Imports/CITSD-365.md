@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-365"
-title: "ARD078 - [UI Styling] Extra/excess spacing between the meter number / zip code instructions and the meter number input field"
-status: "Resolved"
-original_status: ""
-created: "2023-06-27"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-365"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-365
+title: ARD078 - [UI Styling] Extra/excess spacing between the meter number / zip code
+  instructions and the meter number input field
+status: Resolved
+created: '2023-06-27'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-365
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

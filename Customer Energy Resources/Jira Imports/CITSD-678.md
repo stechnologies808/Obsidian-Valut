@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-678"
-title: "ARD491 - ENHANCEMENT (CR): Update DRMS Enrollment Rate"
-status: "Resolved"
-original_status: ""
-created: "2024-01-26"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-678"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-678
+title: 'ARD491 - ENHANCEMENT (CR): Update DRMS Enrollment Rate'
+status: Resolved
+created: '2024-01-26'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-678
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

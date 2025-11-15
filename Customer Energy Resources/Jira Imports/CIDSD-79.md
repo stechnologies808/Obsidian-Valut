@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-79"
-title: "Stage-Defect 310 - Won’t submit after correcting Additional Equipment selection"
-status: "Resolved"
-original_status: ""
-created: "2022-01-27"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-79"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-79
+title: Stage-Defect 310 - Won’t submit after correcting Additional Equipment selection
+status: Resolved
+created: '2022-01-27'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-79
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

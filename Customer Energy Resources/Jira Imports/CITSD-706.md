@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-706"
-title: "ARD536 - IRS required email not sent to the DERProcessing inbox"
-status: "Resolved"
-original_status: ""
-created: "2024-02-02"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-706"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-706
+title: ARD536 - IRS required email not sent to the DERProcessing inbox
+status: Resolved
+created: '2024-02-02'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-706
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

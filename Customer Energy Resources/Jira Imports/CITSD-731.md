@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-731"
-title: "ARD564 - When changing planner in L6 it didnt update CIT"
-status: "Closed"
-original_status: ""
-created: "2024-02-05"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-731"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-731
+title: ARD564 - When changing planner in L6 it didnt update CIT
+status: Closed
+created: '2024-02-05'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-731
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

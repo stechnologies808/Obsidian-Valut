@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-655"
-title: "INC0329121: 1077020; Initiated Status; Stuck on System Components page"
-status: "Waiting for customer"
-original_status: ""
-created: "2025-11-03"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-655"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-655
+title: 'INC0329121: 1077020; Initiated Status; Stuck on System Components page'
+status: Waiting for customer
+created: '2025-11-03'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-655
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - waiting-for-customer
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- waiting-for-customer
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-758"
-title: "ARD477 - Email Template: PTO does not cc System Owner"
-status: "Resolved"
-original_status: ""
-created: "2024-03-02"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-758"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-758
+title: 'ARD477 - Email Template: PTO does not cc System Owner'
+status: Resolved
+created: '2024-03-02'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-758
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

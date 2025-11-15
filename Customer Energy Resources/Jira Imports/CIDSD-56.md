@@ -3,25 +3,15 @@
 ticket_id: "CIDSD-56"
 title: "Email Template "CID Request Registration" Assistance with Field name"
 status: "Closed"
-original_status: ""
 created: "2021-12-21"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-56"
-assignee: ""
-reporter: ""
 project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - cidsd
   - closed
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

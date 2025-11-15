@@ -3,25 +3,15 @@
 ticket_id: "CITSD-6"
 title: "The "Company" and "Suffix" fields in the multiple system owner section show as a required field. "
 status: "Resolved"
-original_status: ""
 created: "2022-01-12"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-6"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - resolved
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-730"
-title: "ARD563 - Should flagged comments show only comment text at validation resubmittal?"
-status: "Backlog"
-original_status: ""
-created: "2024-02-03"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-730"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-730
+title: ARD563 - Should flagged comments show only comment text at validation resubmittal?
+status: Backlog
+created: '2024-02-03'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-730
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

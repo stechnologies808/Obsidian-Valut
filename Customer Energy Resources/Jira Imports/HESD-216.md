@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-216"
-title: "Project M-AMD-22-542335; Review Project Validation link in progress tab just takes me back to the home screen "
-status: "Closed"
-original_status: ""
-created: "2023-03-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-216"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-216
+title: 'Project M-AMD-22-542335; Review Project Validation link in progress tab just
+  takes me back to the home screen '
+status: Closed
+created: '2023-03-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-216
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

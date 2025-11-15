@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-420"
-title: "ARD736 - Post-Go Live: Unable to update inverter information when resubmitting failed application"
-status: "Resolved"
-original_status: ""
-created: "2024-06-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-420"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-420
+title: 'ARD736 - Post-Go Live: Unable to update inverter information when resubmitting
+  failed application'
+status: Resolved
+created: '2024-06-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-420
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-260"
-title: "412767: Unable to proceed to Project Execution"
-status: "Closed"
-original_status: ""
-created: "2023-08-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-260"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-260
+title: '412767: Unable to proceed to Project Execution'
+status: Closed
+created: '2023-08-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-260
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

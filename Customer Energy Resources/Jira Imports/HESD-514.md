@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-514"
-title: "INC0308072: CIT M-AMD-24-802173 - Hyperlinks not available"
-status: "Closed"
-original_status: ""
-created: "2024-10-23"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-514"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-514
+title: 'INC0308072: CIT M-AMD-24-802173 - Hyperlinks not available'
+status: Closed
+created: '2024-10-23'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-514
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

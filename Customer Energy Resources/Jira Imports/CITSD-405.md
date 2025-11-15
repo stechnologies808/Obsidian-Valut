@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-405"
-title: "ARD118 - In Queue View, the Program Type column is blank for SDE and SDN"
-status: "Resolved"
-original_status: ""
-created: "2023-08-03"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-405"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-405
+title: ARD118 - In Queue View, the Program Type column is blank for SDE and SDN
+status: Resolved
+created: '2023-08-03'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-405
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

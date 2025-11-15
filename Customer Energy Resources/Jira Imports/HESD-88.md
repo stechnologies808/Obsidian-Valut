@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-88"
-title: "Application Summary option not populated"
-status: "Resolved"
-original_status: ""
-created: "2022-05-26"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-88"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-88
+title: Application Summary option not populated
+status: Resolved
+created: '2022-05-26'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-88
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

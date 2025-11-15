@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-322"
-title: "768563 CIT WORK STOPPAGE ERROR, PLEASE RUSH - CR outcome for CIT application P-AMD-24-768563 did not advance correctly"
-status: "Resolved"
-original_status: ""
-created: "2024-03-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-322"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-322
+title: 768563 CIT WORK STOPPAGE ERROR, PLEASE RUSH - CR outcome for CIT application
+  P-AMD-24-768563 did not advance correctly
+status: Resolved
+created: '2024-03-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-322
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

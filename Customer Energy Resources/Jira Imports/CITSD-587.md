@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-587"
-title: "ARD320 - Dashboards not displaying"
-status: "Resolved"
-original_status: ""
-created: "2023-11-24"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-587"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-587
+title: ARD320 - Dashboards not displaying
+status: Resolved
+created: '2023-11-24'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-587
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

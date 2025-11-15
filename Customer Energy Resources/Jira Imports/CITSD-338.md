@@ -3,25 +3,15 @@
 ticket_id: "CITSD-338"
 title: "ARD035 - For Amendment, "Solar" was not checked for "What technology are you installing?" when moving to System Type page"
 status: "Closed"
-original_status: ""
 created: "2023-06-20"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-338"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - closed
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

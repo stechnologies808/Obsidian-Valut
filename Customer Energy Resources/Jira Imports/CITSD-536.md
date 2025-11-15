@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-536"
-title: "ARD289 - Unable to veiw CID Documents after upload or from Documents tab"
-status: "Resolved"
-original_status: ""
-created: "2023-10-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-536"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-536
+title: ARD289 - Unable to veiw CID Documents after upload or from Documents tab
+status: Resolved
+created: '2023-10-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-536
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

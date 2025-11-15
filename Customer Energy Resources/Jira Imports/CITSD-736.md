@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-736"
-title: "ARD375 - [DD Update] Post Installation Photos Cont section heading should be part of Post Installation Photos section"
-status: "Backlog"
-original_status: ""
-created: "2024-02-05"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-736"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-736
+title: ARD375 - [DD Update] Post Installation Photos Cont section heading should be
+  part of Post Installation Photos section
+status: Backlog
+created: '2024-02-05'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-736
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

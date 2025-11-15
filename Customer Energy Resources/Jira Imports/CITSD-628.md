@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-628"
-title: "ARD414 - Interim program: Unable to start Project Validation - hyperlinks not available"
-status: "Resolved"
-original_status: ""
-created: "2024-01-09"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-628"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-628
+title: 'ARD414 - Interim program: Unable to start Project Validation - hyperlinks
+  not available'
+status: Resolved
+created: '2024-01-09'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-628
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

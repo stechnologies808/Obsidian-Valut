@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-44"
-title: "Need assistance creating user accounts in STAGE for Jared Timmerman; Error message that his email address is invalid"
-status: "Closed"
-original_status: ""
-created: "2021-12-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-44"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-44
+title: Need assistance creating user accounts in STAGE for Jared Timmerman; Error
+  message that his email address is invalid
+status: Closed
+created: '2021-12-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-44
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-299"
-title: "ALM122: TEST UAT: Panel Spec Sheet required when selecting on list panels"
-status: "Resolved"
-original_status: ""
-created: "2023-04-21"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-299"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-299
+title: 'ALM122: TEST UAT: Panel Spec Sheet required when selecting on list panels'
+status: Resolved
+created: '2023-04-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-299
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

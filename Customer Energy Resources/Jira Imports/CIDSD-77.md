@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-77"
-title: "Stage - Defect 307 - Renewable energy selection and large equip fields should be required"
-status: "Resolved"
-original_status: ""
-created: "2022-01-26"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-77"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-77
+title: Stage - Defect 307 - Renewable energy selection and large equip fields should
+  be required
+status: Resolved
+created: '2022-01-26'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-77
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

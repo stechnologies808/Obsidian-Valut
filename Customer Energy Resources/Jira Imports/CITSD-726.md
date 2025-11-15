@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-726"
-title: "ARD559 - Project Extension error message is incorrect or not helpful"
-status: "Closed"
-original_status: ""
-created: "2024-02-03"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-726"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-726
+title: ARD559 - Project Extension error message is incorrect or not helpful
+status: Closed
+created: '2024-02-03'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-726
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

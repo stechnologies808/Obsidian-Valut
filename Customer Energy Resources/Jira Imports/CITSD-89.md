@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-89"
-title: "Amendment Application that passed HQ screen still in HQ status"
-status: "Resolved"
-original_status: ""
-created: "2022-03-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-89"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-89
+title: Amendment Application that passed HQ screen still in HQ status
+status: Resolved
+created: '2022-03-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-89
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-852"
-title: "DFCT0011342: Trainingforms and STAGE email template not rendering correctly."
-status: "Closed"
-original_status: ""
-created: "2025-05-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-852"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-852
+title: 'DFCT0011342: Trainingforms and STAGE email template not rendering correctly.'
+status: Closed
+created: '2025-05-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-852
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

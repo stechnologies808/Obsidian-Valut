@@ -3,25 +3,15 @@
 ticket_id: "CITSD-14"
 title: ""PV Contractor Needed?" question should only appear for Amendments"
 status: "Resolved"
-original_status: ""
 created: "2022-01-25"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-14"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - resolved
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

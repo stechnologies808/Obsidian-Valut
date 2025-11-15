@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-644"
-title: "INC0327382:  Revision - Battery Bonus project P-AMD-24-755557"
-status: "Resolved"
-original_status: ""
-created: "2025-10-01"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-644"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-644
+title: 'INC0327382:  Revision - Battery Bonus project P-AMD-24-755557'
+status: Resolved
+created: '2025-10-01'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-644
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

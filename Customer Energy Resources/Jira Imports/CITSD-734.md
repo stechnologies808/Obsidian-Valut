@@ -3,25 +3,15 @@
 ticket_id: "CITSD-734"
 title: "ARD542 -  "Solar" check box was not pre-checked"
 status: "Closed"
-original_status: ""
 created: "2024-02-05"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-734"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - closed
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

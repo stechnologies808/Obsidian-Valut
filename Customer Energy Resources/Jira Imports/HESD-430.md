@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-430"
-title: "ARD744 - Post-Go Live: Application status remains in PI/Conditional Approval status after Validation submitted"
-status: "Closed"
-original_status: ""
-created: "2024-06-20"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-430"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-430
+title: 'ARD744 - Post-Go Live: Application status remains in PI/Conditional Approval
+  status after Validation submitted'
+status: Closed
+created: '2024-06-20'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-430
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-281"
-title: "ALM 72 TEST UAT - AMEND COMPONENTS - (ADD) TOTAL PANEL RATING DOES NOT AUTO POPULATE"
-status: "Resolved"
-original_status: ""
-created: "2023-04-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-281"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-281
+title: ALM 72 TEST UAT - AMEND COMPONENTS - (ADD) TOTAL PANEL RATING DOES NOT AUTO
+  POPULATE
+status: Resolved
+created: '2023-04-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-281
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

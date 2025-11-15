@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-167"
-title: "Most recent Revision Summary document is not displayed as primary version on documents tab"
-status: "Closed"
-original_status: ""
-created: "2022-12-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-167"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-167
+title: Most recent Revision Summary document is not displayed as primary version on
+  documents tab
+status: Closed
+created: '2022-12-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-167
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

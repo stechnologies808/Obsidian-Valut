@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-457"
-title: "ARD171 - Queue View Filter by multiselect not visable"
-status: "Resolved"
-original_status: ""
-created: "2023-09-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-457"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-457
+title: ARD171 - Queue View Filter by multiselect not visable
+status: Resolved
+created: '2023-09-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-457
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

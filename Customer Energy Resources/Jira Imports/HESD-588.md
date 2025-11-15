@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-588"
-title: "HE SSO Update to Entra"
-status: "Waiting for customer"
-original_status: ""
-created: "2025-05-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-588"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-588
+title: HE SSO Update to Entra
+status: Waiting for customer
+created: '2025-05-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-588
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - waiting-for-customer
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- waiting-for-customer
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

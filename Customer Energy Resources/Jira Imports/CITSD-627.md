@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-627"
-title: "ARD382 - Revision: Show only fields with different values toggle does not include revised single line drawing upload"
-status: "Resolved"
-original_status: ""
-created: "2024-01-08"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-627"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-627
+title: 'ARD382 - Revision: Show only fields with different values toggle does not
+  include revised single line drawing upload'
+status: Resolved
+created: '2024-01-08'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-627
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

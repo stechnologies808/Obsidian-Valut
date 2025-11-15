@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-691"
-title: "SysCompTLD_doc i-info text PROMOTE DOWN"
-status: "Closed"
-original_status: ""
-created: "2024-02-01"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-691"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-691
+title: SysCompTLD_doc i-info text PROMOTE DOWN
+status: Closed
+created: '2024-02-01'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-691
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

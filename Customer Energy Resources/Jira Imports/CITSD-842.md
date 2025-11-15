@@ -1,26 +1,19 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-842"
-title: "DFCT0011261: Queue View search does not return results when searching with unit number.  However, expected results say this is an informal expectation. Feel free to close/ignore."
-status: "Backlog"
-original_status: ""
-created: "2025-03-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-842"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-842
+title: 'DFCT0011261: Queue View search does not return results when searching with
+  unit number.  However, expected results say this is an informal expectation. Feel
+  free to close/ignore.'
+status: Backlog
+created: '2025-03-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-842
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

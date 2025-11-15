@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-347"
-title: "ARD612 - Post-Go Live: Unable to review submitted Extention request"
-status: "Closed"
-original_status: ""
-created: "2024-04-08"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-347"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-347
+title: 'ARD612 - Post-Go Live: Unable to review submitted Extention request'
+status: Closed
+created: '2024-04-08'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-347
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

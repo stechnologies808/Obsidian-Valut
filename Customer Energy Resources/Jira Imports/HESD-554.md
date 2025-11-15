@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-554"
-title: "INC0312539 - Error on OnSite Compliance"
-status: "Awaiting Deployment"
-original_status: ""
-created: "2025-03-20"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-554"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-554
+title: INC0312539 - Error on OnSite Compliance
+status: Awaiting Deployment
+created: '2025-03-20'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-554
+project: hesd
 tags:
-  - jira
-  - ticket
-  - awaiting-deployment
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- awaiting-deployment
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

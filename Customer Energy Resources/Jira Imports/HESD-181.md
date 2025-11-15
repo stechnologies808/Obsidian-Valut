@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-181"
-title: "376821: 6a not populating after passing Completeness Review"
-status: "Closed"
-original_status: ""
-created: "2023-01-21"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-181"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-181
+title: '376821: 6a not populating after passing Completeness Review'
+status: Closed
+created: '2023-01-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-181
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

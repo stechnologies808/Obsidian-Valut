@@ -3,25 +3,15 @@
 ticket_id: "CITSD-394"
 title: "ARD109 - "Will a dispatch agent be used for BYOD enrollment" should be Required field"
 status: "Resolved"
-original_status: ""
 created: "2023-07-27"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-394"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - resolved
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

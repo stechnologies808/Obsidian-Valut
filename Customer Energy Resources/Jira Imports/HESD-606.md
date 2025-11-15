@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-606"
-title: "INC0323697: CID Customers stating that they are not able to move beyond page one, Basic Project Info"
-status: "Resolved"
-original_status: ""
-created: "2025-07-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-606"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-606
+title: 'INC0323697: CID Customers stating that they are not able to move beyond page
+  one, Basic Project Info'
+status: Resolved
+created: '2025-07-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-606
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

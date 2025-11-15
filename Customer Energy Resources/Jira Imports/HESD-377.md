@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-377"
-title: "ARD674 > CIT/CID > Most data records missing from Production"
-status: "Resolved"
-original_status: ""
-created: "2024-05-13"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-377"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-377
+title: ARD674 > CIT/CID > Most data records missing from Production
+status: Resolved
+created: '2024-05-13'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-377
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

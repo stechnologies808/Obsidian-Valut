@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-41"
-title: "Need assistance on identifying variable names for populating email templates"
-status: "Resolved"
-original_status: ""
-created: "2021-12-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-41"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-41
+title: Need assistance on identifying variable names for populating email templates
+status: Resolved
+created: '2021-12-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-41
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

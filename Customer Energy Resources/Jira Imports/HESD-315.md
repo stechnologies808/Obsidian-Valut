@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-315"
-title: "No hyperlink to next process phase (Initial Tech Review)"
-status: "Closed"
-original_status: ""
-created: "2024-02-26"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-315"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-315
+title: No hyperlink to next process phase (Initial Tech Review)
+status: Closed
+created: '2024-02-26'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-315
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

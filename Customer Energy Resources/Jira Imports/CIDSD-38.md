@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-38"
-title: "Project Summary page is displaying incorrect 6A and L6 numbers"
-status: "Closed"
-original_status: ""
-created: "2021-12-12"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-38"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-38
+title: Project Summary page is displaying incorrect 6A and L6 numbers
+status: Closed
+created: '2021-12-12'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-38
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

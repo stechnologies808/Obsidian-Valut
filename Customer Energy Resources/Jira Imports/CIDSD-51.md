@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-51"
-title: "Requestor, Customer, and Stakeholder(s) are not being sent email notification of Initial Deposit Letter  "
-status: "Closed"
-original_status: ""
-created: "2021-12-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-51"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-51
+title: 'Requestor, Customer, and Stakeholder(s) are not being sent email notification
+  of Initial Deposit Letter  '
+status: Closed
+created: '2021-12-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-51
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

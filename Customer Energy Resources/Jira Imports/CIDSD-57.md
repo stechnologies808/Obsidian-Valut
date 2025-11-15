@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-57"
-title: "TEST: Email template field ${application.CID_Zipcode} not appearing"
-status: "Closed"
-original_status: ""
-created: "2021-12-22"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-57"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-57
+title: 'TEST: Email template field ${application.CID_Zipcode} not appearing'
+status: Closed
+created: '2021-12-22'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-57
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

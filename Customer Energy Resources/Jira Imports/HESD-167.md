@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-167"
-title: "349785: Start Project Validation chevron, no Save and Continue button "
-status: "Closed"
-original_status: ""
-created: "2022-11-28"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-167"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-167
+title: '349785: Start Project Validation chevron, no Save and Continue button '
+status: Closed
+created: '2022-11-28'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-167
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

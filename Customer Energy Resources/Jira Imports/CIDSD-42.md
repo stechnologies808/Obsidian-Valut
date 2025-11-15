@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-42"
-title: "Some of the column fields in the Applications queue view are missing in Stage"
-status: "Closed"
-original_status: ""
-created: "2021-12-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-42"
-assignee: ""
-reporter: ""
-project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CIDSD-42
+title: Some of the column fields in the Applications queue view are missing in Stage
+status: Closed
+created: '2021-12-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-42
+project: cidsd
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- cidsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

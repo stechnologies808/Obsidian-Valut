@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-371"
-title: "ARD656 - Post-go live: add Schedule P to the Battery Bonus Completeness Review field for rate schedule"
-status: "Closed"
-original_status: ""
-created: "2024-05-02"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-371"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-371
+title: 'ARD656 - Post-go live: add Schedule P to the Battery Bonus Completeness Review
+  field for rate schedule'
+status: Closed
+created: '2024-05-02'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-371
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

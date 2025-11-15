@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-120"
-title: "CIT Workflow: Remove file type restrictions on SDP document uploads in Project Verification"
-status: "Closed"
-original_status: ""
-created: "2022-07-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-120"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-120
+title: 'CIT Workflow: Remove file type restrictions on SDP document uploads in Project
+  Verification'
+status: Closed
+created: '2022-07-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-120
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

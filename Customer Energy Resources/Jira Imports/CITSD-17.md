@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-17"
-title: "504 Gateway Time-out on Trainingforms while uploading CSS_Panels External list"
-status: "Closed"
-original_status: ""
-created: "2022-01-31"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-17"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-17
+title: 504 Gateway Time-out on Trainingforms while uploading CSS_Panels External list
+status: Closed
+created: '2022-01-31'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-17
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

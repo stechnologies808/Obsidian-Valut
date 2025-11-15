@@ -3,25 +3,15 @@
 ticket_id: "CITSD-124"
 title: "Lease company, BB incentive recipient, etc. information fields do not appear when "yes" is selected for corresponding question"
 status: "Resolved"
-original_status: ""
 created: "2022-11-17"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-124"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
   - resolved
 updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
----
+last_synced: "2025-11-15T08:12"---
 
 
 

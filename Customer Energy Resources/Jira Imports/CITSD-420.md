@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-420"
-title: "Data dictionary S-071"
-status: "Resolved"
-original_status: ""
-created: "2023-08-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-420"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-420
+title: Data dictionary S-071
+status: Resolved
+created: '2023-08-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-420
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

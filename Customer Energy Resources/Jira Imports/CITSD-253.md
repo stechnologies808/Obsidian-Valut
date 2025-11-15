@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-253"
-title: "ALM 76 TEST UAT - VAL SUBMITTAL: FINAL REVIEW - INFORMATION IS IN WEIRD FORMAT"
-status: "Resolved"
-original_status: ""
-created: "2023-04-11"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-253"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-253
+title: 'ALM 76 TEST UAT - VAL SUBMITTAL: FINAL REVIEW - INFORMATION IS IN WEIRD FORMAT'
+status: Resolved
+created: '2023-04-11'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-253
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-473"
-title: "ARD806: CID Comments field is erroring with characters used prior to 7/24/2024 deployment"
-status: "Resolved"
-original_status: ""
-created: "2024-07-31"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-473"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-473
+title: 'ARD806: CID Comments field is erroring with characters used prior to 7/24/2024
+  deployment'
+status: Resolved
+created: '2024-07-31'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-473
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

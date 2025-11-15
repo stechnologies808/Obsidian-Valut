@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-157"
-title: "Received error message and apply for interconnection hyperlinks unclickable as contractor"
-status: "Closed"
-original_status: ""
-created: "2022-12-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-157"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-157
+title: Received error message and apply for interconnection hyperlinks unclickable
+  as contractor
+status: Closed
+created: '2022-12-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-157
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

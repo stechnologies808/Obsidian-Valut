@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-85"
-title: "STAGE: Look and Feel updates for 3.0"
-status: "Resolved"
-original_status: ""
-created: "2022-03-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-85"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-85
+title: 'STAGE: Look and Feel updates for 3.0'
+status: Resolved
+created: '2022-03-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-85
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

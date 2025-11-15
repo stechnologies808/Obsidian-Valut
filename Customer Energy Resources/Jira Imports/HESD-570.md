@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-570"
-title: "INC0318200: H-NMP-24-799912. System Owner information is not showing up on the Pending Execution Link "
-status: "Closed"
-original_status: ""
-created: "2025-04-13"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-570"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-570
+title: 'INC0318200: H-NMP-24-799912. System Owner information is not showing up on
+  the Pending Execution Link '
+status: Closed
+created: '2025-04-13'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-570
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

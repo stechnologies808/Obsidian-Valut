@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-272"
-title: "671269: Error message appears when contractor selects System Component Page"
-status: "Resolved"
-original_status: ""
-created: "2023-10-25"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-272"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-272
+title: '671269: Error message appears when contractor selects System Component Page'
+status: Resolved
+created: '2023-10-25'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-272
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- hesd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

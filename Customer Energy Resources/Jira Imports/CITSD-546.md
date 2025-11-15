@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-546"
-title: "ARD279 - AMEND SDP CR: Property Ownership Change & System Owner Change fields should be removed"
-status: "Resolved"
-original_status: ""
-created: "2023-10-12"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-546"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-546
+title: 'ARD279 - AMEND SDP CR: Property Ownership Change & System Owner Change fields
+  should be removed'
+status: Resolved
+created: '2023-10-12'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-546
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-505"
-title: "CIT Glitch - 803000; PV; Action for Customer, no Val. hyperlinks"
-status: "Closed"
-original_status: ""
-created: "2024-09-26"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-505"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-505
+title: CIT Glitch - 803000; PV; Action for Customer, no Val. hyperlinks
+status: Closed
+created: '2024-09-26'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-505
+project: hesd
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-updated: "2025-11-15T08:12"
-last_synced: "2025-11-15T08:12"
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T08:12
+last_synced: 2025-11-15T08:12
 ---
 
 
