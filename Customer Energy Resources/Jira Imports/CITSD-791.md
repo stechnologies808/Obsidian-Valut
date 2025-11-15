@@ -1,0 +1,42 @@
+---
+ticket_id: CITSD-791
+title: ARD664 - Progression Tests for CR009 - Customer Transformer Calculations are
+  blank when NonExportCount/ NonExportkW are zero
+status: Closed
+created: '2024-05-10'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-791
+project: citsd
+tags:
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T07:16
+last_synced: 2025-11-15T07:16
+---
+
+# CITSD-791: ARD664 - Progression Tests for CR009 - Customer Transformer Calculations are blank when NonExportCount/ NonExportkW are zero
+## Overview
+- **Status**: Closed
+- **Created**: 2024-05-10
+- **Project**: citsd
+- **Request Type**: 
+## People
+- **Assignee**: 
+- **Reporter**: 
+## Business Context
+- **Business Impact**: Not specified
+- **Business Value**: Not specified
+- **HE Project**: Not specified
+## Description
+No description available
+## Comments
+No comments available.
+## Links
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-791)
+- Original Summary: 
+## Metadata
+- **Scraped**: Unknown
+- **Source**: JSON export from Jira Service Management
+---
+*This file was automatically generated from JSON data*

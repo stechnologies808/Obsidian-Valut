@@ -1,0 +1,41 @@
+---
+ticket_id: CITSD-681
+title: ARD510 - External List of Inverters Needs an Update for SE10KUS
+status: Closed
+created: '2024-01-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-681
+project: citsd
+tags:
+- jira
+- ticket
+- citsd
+- closed
+updated: 2025-11-15T07:16
+last_synced: 2025-11-15T07:16
+---
+
+# CITSD-681: ARD510 - External List of Inverters Needs an Update for SE10KUS
+## Overview
+- **Status**: Closed
+- **Created**: 2024-01-29
+- **Project**: citsd
+- **Request Type**: 
+## People
+- **Assignee**: 
+- **Reporter**: 
+## Business Context
+- **Business Impact**: Not specified
+- **Business Value**: Not specified
+- **HE Project**: Not specified
+## Description
+No description available
+## Comments
+No comments available.
+## Links
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-681)
+- Original Summary: 
+## Metadata
+- **Scraped**: Unknown
+- **Source**: JSON export from Jira Service Management
+---
+*This file was automatically generated from JSON data*

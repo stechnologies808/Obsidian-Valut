@@ -1,0 +1,41 @@
+---
+ticket_id: HESD-596
+title: 'INC0320725: CIT; 988799; Start Project Validation - cannot progress'
+status: Closed
+created: '2025-06-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-596
+project: hesd
+tags:
+- jira
+- ticket
+- closed
+- hesd
+updated: 2025-11-15T07:17
+last_synced: 2025-11-15T07:17
+---
+
+# HESD-596: INC0320725: CIT; 988799; Start Project Validation - cannot progress
+## Overview
+- **Status**: Closed
+- **Created**: 2025-06-21
+- **Project**: hesd
+- **Request Type**: 
+## People
+- **Assignee**: 
+- **Reporter**: 
+## Business Context
+- **Business Impact**: Not specified
+- **Business Value**: Not specified
+- **HE Project**: Not specified
+## Description
+No description available
+## Comments
+No comments available.
+## Links
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-596)
+- Original Summary: 
+## Metadata
+- **Scraped**: Unknown
+- **Source**: JSON export from Jira Service Management
+---
+*This file was automatically generated from JSON data*

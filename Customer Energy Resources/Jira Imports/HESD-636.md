@@ -1,0 +1,40 @@
+---
+# Dataview Properties
+ticket_id: "HESD-636"
+title: "DMND0001924-SP-078: Auto archive "initiated" CID apps quarterly instead of yearly."
+status: "Under Review"
+created: "2025-09-20"
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-636"
+project: "hesd"
+  - jira
+  - ticket
+  - hesd
+  - under-review
+updated: "2025-11-15T07:17"
+last_synced: "2025-11-15T07:17"---
+
+# HESD-636: DMND0001924-SP-078: Auto archive "initiated" CID apps quarterly instead of yearly.
+## Overview
+- **Status**: Under Review
+- **Created**: 2025-09-20
+- **Project**: hesd
+- **Request Type**: 
+## People
+- **Assignee**: 
+- **Reporter**: 
+## Business Context
+- **Business Impact**: Not specified
+- **Business Value**: Not specified
+- **HE Project**: Not specified
+## Description
+No description available
+## Comments
+No comments available.
+## Links
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-636)
+- Original Summary: 
+## Metadata
+- **Scraped**: Unknown
+- **Source**: JSON export from Jira Service Management
+---
+*This file was automatically generated from JSON data*

@@ -1,0 +1,41 @@
+---
+ticket_id: CITSD-225
+title: '[UI Styling] Header Bar Color'
+status: Resolved
+created: '2023-03-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-225
+project: citsd
+tags:
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-15T07:16
+last_synced: 2025-11-15T07:16
+---
+
+# CITSD-225: [UI Styling] Header Bar Color
+## Overview
+- **Status**: Resolved
+- **Created**: 2023-03-29
+- **Project**: citsd
+- **Request Type**: 
+## People
+- **Assignee**: 
+- **Reporter**: 
+## Business Context
+- **Business Impact**: Not specified
+- **Business Value**: Not specified
+- **HE Project**: Not specified
+## Description
+No description available
+## Comments
+No comments available.
+## Links
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-225)
+- Original Summary: 
+## Metadata
+- **Scraped**: Unknown
+- **Source**: JSON export from Jira Service Management
+---
+*This file was automatically generated from JSON data*

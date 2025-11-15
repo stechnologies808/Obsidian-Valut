@@ -1,0 +1,41 @@
+---
+ticket_id: CITSD-800
+title: ARD435 - [DD Update]  Validation Submittal - Non-Export Settings upload field
+status: Backlog
+created: '2024-05-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-800
+project: citsd
+tags:
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-15T07:16
+last_synced: 2025-11-15T07:16
+---
+
+# CITSD-800: ARD435 - [DD Update] Validation Submittal - Non-Export Settings upload field
+## Overview
+- **Status**: Backlog
+- **Created**: 2024-05-16
+- **Project**: citsd
+- **Request Type**: 
+## People
+- **Assignee**: 
+- **Reporter**: 
+## Business Context
+- **Business Impact**: Not specified
+- **Business Value**: Not specified
+- **HE Project**: Not specified
+## Description
+No description available
+## Comments
+No comments available.
+## Links
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-800)
+- Original Summary: 
+## Metadata
+- **Scraped**: Unknown
+- **Source**: JSON export from Jira Service Management
+---
+*This file was automatically generated from JSON data*

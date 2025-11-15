@@ -1,0 +1,41 @@
+---
+ticket_id: CIDSD-52
+title: Users not prevented from using email addresses already in use
+status: Resolved
+created: '2021-12-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-52
+project: cidsd
+tags:
+- jira
+- ticket
+- cidsd
+- resolved
+updated: 2025-11-15T07:16
+last_synced: 2025-11-15T07:16
+---
+
+# CIDSD-52: Users not prevented from using email addresses already in use
+## Overview
+- **Status**: Resolved
+- **Created**: 2021-12-17
+- **Project**: cidsd
+- **Request Type**: 
+## People
+- **Assignee**: 
+- **Reporter**: 
+## Business Context
+- **Business Impact**: Not specified
+- **Business Value**: Not specified
+- **HE Project**: Not specified
+## Description
+No description available
+## Comments
+No comments available.
+## Links
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-52)
+- Original Summary: 
+## Metadata
+- **Scraped**: Unknown
+- **Source**: JSON export from Jira Service Management
+---
+*This file was automatically generated from JSON data*
