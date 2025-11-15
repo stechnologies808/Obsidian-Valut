@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-310"
-title: "CIT issue; User ID Kelley Burke"
-status: "Resolved"
+ticket_id: HESD-310
+title: CIT issue; User ID Kelley Burke
+status: Resolved
 original_status: ""
-created: "2024-02-06"
+created: 2024-02-06
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-310"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-310
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-434"
+ticket_id: CITSD-434
 title: "Devforms Project Validation: Pets field, and trouble continuing"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2023-08-26"
+created: 2023-08-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-434"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-434
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-265"
-title: "CR-10 ARD216 LVM-Circuit Report AMENDkW Calculation"
-status: "Planned"
+ticket_id: HESD-265
+title: CR-10 ARD216 LVM-Circuit Report AMENDkW Calculation
+status: Planned
 original_status: ""
-created: "2023-09-15"
+created: 2023-09-15
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-265"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-265
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - planned
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

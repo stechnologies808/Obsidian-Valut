@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-504"
+ticket_id: CITSD-504
 title: "ARD231 - Project Validation Review: Only Customer Reference Header should be visible for External users"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2023-09-29"
+created: 2023-09-29
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-504"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-504
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

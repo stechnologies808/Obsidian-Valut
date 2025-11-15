@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-60"
-title: "Multiple issues with External Lists"
-status: "Closed"
+ticket_id: HESD-60
+title: Multiple issues with External Lists
+status: Closed
 original_status: ""
-created: "2022-04-28"
+created: 2022-04-28
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-60"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-60
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-296"
-title: "CIT-Changes in HELCO TMK-Circuit mapping file nomenclature causes problems for LVM calcs and customer application records"
-status: "Closed"
+ticket_id: HESD-296
+title: CIT-Changes in HELCO TMK-Circuit mapping file nomenclature causes problems for LVM calcs and customer application records
+status: Closed
 original_status: ""
-created: "2023-12-21"
+created: 2023-12-21
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-296"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-296
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

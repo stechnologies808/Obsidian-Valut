@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-537"
-title: "INC0312121Communication was not transmitted for CIT project M-AMD-24-803000"
-status: "Closed"
+ticket_id: HESD-537
+title: INC0312121Communication was not transmitted for CIT project M-AMD-24-803000
+status: Closed
 original_status: ""
-created: "2024-12-12"
+created: 2024-12-12
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-537"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-537
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

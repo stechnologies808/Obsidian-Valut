@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-510"
-title: "Requirements for S-025"
-status: "Planned"
+ticket_id: HESD-510
+title: Requirements for S-025
+status: Planned
 original_status: ""
-created: "2024-10-11"
+created: 2024-10-11
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-510"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-510
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - planned
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

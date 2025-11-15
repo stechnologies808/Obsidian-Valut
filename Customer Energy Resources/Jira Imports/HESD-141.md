@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-141"
-title: "Nonascii character in Project P-CSS-22-359057. Unable to move app forward"
-status: "Closed"
+ticket_id: HESD-141
+title: Nonascii character in Project P-CSS-22-359057. Unable to move app forward
+status: Closed
 original_status: ""
-created: "2022-09-08"
+created: 2022-09-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-141"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-141
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

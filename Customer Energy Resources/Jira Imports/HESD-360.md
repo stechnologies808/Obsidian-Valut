@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-360"
+ticket_id: HESD-360
 title: "ARD626 - Post-Go Live: Missing Fields in Completeness Review (System Owner contact info) and Application Summary (SAP account holder)"
-status: "Deferred"
+status: Deferred
 original_status: ""
-created: "2024-04-19"
+created: 2024-04-19
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-360"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-360
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - deferred
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

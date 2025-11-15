@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-43"
+ticket_id: HESD-43
 title: "Unable to approve withdrawal; progress phase: Withdrawn"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2022-04-06"
+created: 2022-04-06
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-43"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-43
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

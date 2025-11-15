@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-293"
+ticket_id: HESD-293
 title: "CIT WORK STOPPAGE ERROR, PLEASE RUSH - Project P-GSP-23-709497 did not move to PI correctly "
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2023-12-19"
+created: 2023-12-19
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-293"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-293
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

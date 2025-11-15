@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-255"
+ticket_id: CITSD-255
 title: "ALM 78 TEST UAT - REVISION REVIEW - UPON CLICKING “VIEW REVISION” FROM THE ACTIONS TAB, ROUTED TO THE REVISION (SUBMITTAL): REVIEW CHANGERS PAGE. UNABLE TO PROCESS/REVIEW THE REVISION SUBMITTED."
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2023-04-11"
+created: 2023-04-11
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-255"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-255
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

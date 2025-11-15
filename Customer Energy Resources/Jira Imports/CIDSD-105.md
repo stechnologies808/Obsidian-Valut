@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-105"
-title: "Lanai and Molokai zip codes are not being recognized by the Tool"
-status: "Resolved"
+ticket_id: CIDSD-105
+title: Lanai and Molokai zip codes are not being recognized by the Tool
+status: Resolved
 original_status: ""
-created: "2022-02-26"
+created: 2022-02-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-105"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-105
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - resolved
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

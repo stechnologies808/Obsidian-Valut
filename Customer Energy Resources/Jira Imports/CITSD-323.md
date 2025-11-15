@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-323"
-title: "ALM 145 TEST UAT - DASHBOARD - Values on pie chart do not match values when filtering in the queue view"
-status: "Closed"
+ticket_id: CITSD-323
+title: ALM 145 TEST UAT - DASHBOARD - Values on pie chart do not match values when filtering in the queue view
+status: Closed
 original_status: ""
-created: "2023-05-12"
+created: 2023-05-12
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-323"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-323
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

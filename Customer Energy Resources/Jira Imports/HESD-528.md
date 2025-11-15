@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-528"
+ticket_id: HESD-528
 title: "INC0289840: CIT incorrectly populating 100kW for a 10kW inverter:  Project ID M-NMP-23-695556; SE10kUS w/Export Meter populates 100.0 Inverter AC Output Rating (kW) when trying to fill out equipment specs on revision. Please modify if can."
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-11-04"
+created: 2024-11-04
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-528"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-528
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

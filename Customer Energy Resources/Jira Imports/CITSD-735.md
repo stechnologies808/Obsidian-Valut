@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-735"
-title: "ARD512 -  Add Inverter button needs clarification"
-status: "Closed"
+ticket_id: CITSD-735
+title: ARD512 -  Add Inverter button needs clarification
+status: Closed
 original_status: ""
-created: "2024-02-05"
+created: 2024-02-05
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-735"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-735
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

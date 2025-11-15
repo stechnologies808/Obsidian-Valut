@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-355"
-title: "ARD622 - Applications that “skipped through ITR” during the CR are currently not included in the lvm-applications-* file, but they should be."
-status: "In Progress"
+ticket_id: HESD-355
+title: ARD622 - Applications that “skipped through ITR” during the CR are currently not included in the lvm-applications-* file, but they should be.
+status: In Progress
 original_status: ""
-created: "2024-04-16"
+created: 2024-04-16
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-355"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-355
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - hesd
   - in-progress
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

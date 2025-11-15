@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-74"
+ticket_id: HESD-74
 title: "Environment TEST - Regression Testing: External Contractor Queue View Filter Options not returning expected results"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2022-05-10"
+created: 2022-05-10
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-74"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-74
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

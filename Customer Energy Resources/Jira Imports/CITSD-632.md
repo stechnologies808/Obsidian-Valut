@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-632"
-title: "ARD418 - Action failed when clicking on the submittals link"
-status: "Closed"
+ticket_id: CITSD-632
+title: ARD418 - Action failed when clicking on the submittals link
+status: Closed
 original_status: ""
-created: "2024-01-10"
+created: 2024-01-10
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-632"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-632
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

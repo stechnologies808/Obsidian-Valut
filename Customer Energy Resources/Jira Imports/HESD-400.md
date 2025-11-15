@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-400"
+ticket_id: HESD-400
 title: "ARD706:Post-Go Live: [HOTFIX REQUESTED] Status not updated and email not sent after Validation Submittal"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-05-23"
+created: 2024-05-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-400"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-400
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

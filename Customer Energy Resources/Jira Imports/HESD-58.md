@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-58"
+ticket_id: HESD-58
 title: "CSV Export: Panel Manf. / Model missing for some records"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2021-03-23"
+created: 2021-03-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-58"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-58
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

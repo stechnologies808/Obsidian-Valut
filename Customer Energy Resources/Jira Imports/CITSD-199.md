@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-199"
-title: "Welcome Page > White space is missing in the banner between the greeting and the username."
-status: "Closed"
+ticket_id: CITSD-199
+title: Welcome Page > White space is missing in the banner between the greeting and the username.
+status: Closed
 original_status: ""
-created: "2023-03-21"
+created: 2023-03-21
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-199"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-199
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

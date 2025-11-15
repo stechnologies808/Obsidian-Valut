@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-239"
+ticket_id: HESD-239
 title: " Work Stoppage Error - Status and communication did not advance correctly for CIT application P-AMD-23-620079"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2023-05-26"
+created: 2023-05-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-239"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-239
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

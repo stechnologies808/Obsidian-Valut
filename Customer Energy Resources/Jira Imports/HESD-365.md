@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-365"
-title: "ARD642 - Missing Service Order for 6E replacement/relocation notification"
-status: "Closed"
+ticket_id: HESD-365
+title: ARD642 - Missing Service Order for 6E replacement/relocation notification
+status: Closed
 original_status: ""
-created: "2024-04-25"
+created: 2024-04-25
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-365"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-365
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

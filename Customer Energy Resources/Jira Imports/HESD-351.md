@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-351"
+ticket_id: HESD-351
 title: "ARD615 - Post-Go Live: Unable to Pass CR w/Comments"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-04-08"
+created: 2024-04-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-351"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-351
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

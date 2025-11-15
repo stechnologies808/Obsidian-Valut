@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-539"
+ticket_id: HESD-539
 title: "INC0312792: Project location incorrect on two executed agreements"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-12-31"
+created: 2024-12-31
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-539"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-539
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

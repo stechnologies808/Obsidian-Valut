@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-67"
-title: "Stage - Defect 290 - First Time New User Login - Redirect to Application Page"
-status: "Resolved"
+ticket_id: CIDSD-67
+title: Stage - Defect 290 - First Time New User Login - Redirect to Application Page
+status: Resolved
 original_status: ""
-created: "2022-01-11"
+created: 2022-01-11
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-67"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-67
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - resolved
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

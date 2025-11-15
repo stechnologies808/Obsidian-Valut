@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-82"
-title: "Contractor Registration Rejection email omits reason.(HPALM 318)"
-status: "Closed"
+ticket_id: CIDSD-82
+title: Contractor Registration Rejection email omits reason.(HPALM 318)
+status: Closed
 original_status: ""
-created: "2022-01-29"
+created: 2022-01-29
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-82"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-82
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - closed
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

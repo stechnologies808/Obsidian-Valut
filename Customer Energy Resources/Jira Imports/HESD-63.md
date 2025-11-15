@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-63"
-title: "Unable to make corrections, redirects user back to home page"
-status: "Closed"
+ticket_id: HESD-63
+title: Unable to make corrections, redirects user back to home page
+status: Closed
 original_status: ""
-created: "2022-04-30"
+created: 2022-04-30
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-63"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-63
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

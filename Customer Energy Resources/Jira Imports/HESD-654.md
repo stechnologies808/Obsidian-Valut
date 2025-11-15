@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-654"
+ticket_id: HESD-654
 title: "INC0329472: CIT ISSUE; 1098123; PE Status; Internal Server Error when uploading PDF agreement"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2025-11-03"
+created: 2025-11-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-654"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-654
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

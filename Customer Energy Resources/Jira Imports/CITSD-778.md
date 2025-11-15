@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-778"
+ticket_id: CITSD-778
 title: "ARD359 - [DD update] Application Submittal: BYOD dispatch agent fields should be hidden for BYOD1"
-status: "Backlog"
+status: Backlog
 original_status: ""
-created: "2024-04-17"
+created: 2024-04-17
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-778"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-778
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - backlog
   - citsd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

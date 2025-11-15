@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-359"
-title: "ARD070 - Application assigned to Utility after revision rejected"
-status: "Closed"
+ticket_id: CITSD-359
+title: ARD070 - Application assigned to Utility after revision rejected
+status: Closed
 original_status: ""
-created: "2023-06-23"
+created: 2023-06-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-359"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-359
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

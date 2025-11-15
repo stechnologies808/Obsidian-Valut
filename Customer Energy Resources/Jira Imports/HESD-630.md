@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-630"
+ticket_id: HESD-630
 title: "DMND0001938: SP-125: Application banner for projects >= 100kW"
-status: "Waiting for customer"
+status: Waiting for customer
 original_status: ""
-created: "2025-09-12"
+created: 2025-09-12
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-630"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-630
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - waiting-for-customer
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

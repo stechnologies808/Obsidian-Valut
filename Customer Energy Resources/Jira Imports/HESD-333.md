@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-333"
+ticket_id: HESD-333
 title: "ARD374 - Post Installation Info: Revised Electrical Drawings field prompts do not match STAGE"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2024-04-03"
+created: 2024-04-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-333"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-333
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - hesd
   - resolved
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-208"
+ticket_id: HESD-208
 title: "STAGE: Project Execution Rule 31 not showing view/download options"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2023-03-08"
+created: 2023-03-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-208"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-208
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

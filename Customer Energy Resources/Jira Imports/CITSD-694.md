@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-694"
+ticket_id: CITSD-694
 title: "ARD532 - CIT to DRMS Enrollment Integration: BYOD .xml enrollment file <gs-program-name> is invalid"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2024-02-01"
+created: 2024-02-01
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-694"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-694
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

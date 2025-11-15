@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-867"
+ticket_id: CITSD-867
 title: "STAGE: Integration - Point to SAP DEV"
-status: "Waiting for Customer"
+status: Waiting for Customer
 original_status: ""
-created: "2025-06-30"
+created: 2025-06-30
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-867"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-867
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - waiting-for-customer
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

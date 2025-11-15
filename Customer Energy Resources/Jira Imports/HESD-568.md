@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-568"
-title: "INC0273904: CIT application P-AMD-22-491008 did not include COI field for validation	"
-status: "Planned"
+ticket_id: HESD-568
+title: "INC0273904: CIT application P-AMD-22-491008 did not include COI field for validation\t"
+status: Planned
 original_status: ""
-created: "2025-04-04"
+created: 2025-04-04
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-568"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-568
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - planned
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

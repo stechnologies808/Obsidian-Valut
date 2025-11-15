@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-97"
+ticket_id: CITSD-97
 title: "Change made to STAGE on field: isReadyToExport added Reporting caption"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2022-03-22"
+created: 2022-03-22
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-97"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-97
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

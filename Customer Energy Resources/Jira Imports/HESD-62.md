@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-62"
-title: "Multiple approved users are being directed back to the home page when they try and start a new electrical service request"
-status: "Resolved"
+ticket_id: HESD-62
+title: Multiple approved users are being directed back to the home page when they try and start a new electrical service request
+status: Resolved
 original_status: ""
-created: "2022-04-30"
+created: 2022-04-30
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-62"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-62
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

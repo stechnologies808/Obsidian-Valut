@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-707"
-title: "ARD429 - Remove uppercase validation from SLACA data - causes error in MECO ITR Aggregate DG on Circuit field"
-status: "Closed"
+ticket_id: CITSD-707
+title: ARD429 - Remove uppercase validation from SLACA data - causes error in MECO ITR Aggregate DG on Circuit field
+status: Closed
 original_status: ""
-created: "2024-02-03"
+created: 2024-02-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-707"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-707
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

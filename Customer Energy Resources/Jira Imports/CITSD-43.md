@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-43"
-title: "Viewable/Editable Existing Agreement information during Revision"
-status: "Closed"
+ticket_id: CITSD-43
+title: Viewable/Editable Existing Agreement information during Revision
+status: Closed
 original_status: ""
-created: "2022-02-24"
+created: 2022-02-24
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-43"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-43
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-110"
-title: "Customer resubmitted application for review RC, now contractor unable to view project 428825"
-status: "Closed"
+ticket_id: HESD-110
+title: Customer resubmitted application for review RC, now contractor unable to view project 428825
+status: Closed
 original_status: ""
-created: "2022-06-30"
+created: 2022-06-30
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-110"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-110
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

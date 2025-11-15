@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-339"
+ticket_id: HESD-339
 title: "ARD600 - Smoke Testing: The AC Disconnect Spec Sheet upload field appears when it shouldn't in App Submittal"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-04-03"
+created: 2024-04-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-339"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-339
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-839"
-title: "DFCT0011254 Regression Queue View pop up error on last page"
-status: "Skip to:Skip to Main ContentGridUnity Help Center90GridUnity Help CenterHE CIT Acceptance Testing PortalCITSD-839DFCT0011254 Regression Queue View pop up error on last pageSarah Tajima raised this on 26/Mar/25 7:57 AMShow detailsActivitySarah Tajima26/Mar/25 7:57 AMOpen    Automatic response26/Mar/25 10:35 AMYour request status has changed to Under Review.Automatic response26/Mar/25 10:40 AMYour request status has changed to Queued.Add a commentSaveStatusQueuedNotifications onClose IssueRequest typeCIT Report a BugShared withSarah TajimaCreatorHE CITSharePowered by  Jira Service Management"
+ticket_id: CITSD-839
+title: DFCT0011254 Regression Queue View pop up error on last page
+status: Skip to:Skip to Main ContentGridUnity Help Center90GridUnity Help CenterHE CIT Acceptance Testing PortalCITSD-839DFCT0011254 Regression Queue View pop up error on last pageSarah Tajima raised this on 26/Mar/25 7:57 AMShow detailsActivitySarah Tajima26/Mar/25 7:57 AMOpen    Automatic response26/Mar/25 10:35 AMYour request status has changed to Under Review.Automatic response26/Mar/25 10:40 AMYour request status has changed to Queued.Add a commentSaveStatusQueuedNotifications onClose IssueRequest typeCIT Report a BugShared withSarah TajimaCreatorHE CITSharePowered by  Jira Service Management
 original_status: ""
-created: "2025-03-26"
+created: 2025-03-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-839"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-839
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - skip-to:skip-to-main-contentgridunity-help-center90gridunity-help-centerhe-cit-acceptance-testing-portalcitsd-839dfct0011254-regression-queue-view-pop-up-error-on-last-pagesarah-tajima-raised-this-on-26/mar/25-7:57-amshow-detailsactivitysarah-tajima26/mar/25-7:57-amopen----automatic-response26/mar/25-10:35-amyour-request-status-has-changed-to-under-review.automatic-response26/mar/25-10:40-amyour-request-status-has-changed-to-queued.add-a-commentsavestatusqueuednotifications-onclose-issuerequest-typecit-report-a-bugshared-withsarah-tajimacreatorhe-citsharepowered-by--jira-service-management
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

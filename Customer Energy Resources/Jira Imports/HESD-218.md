@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-218"
-title: "Conditional Email not sent to customer"
-status: "Closed"
+ticket_id: HESD-218
+title: Conditional Email not sent to customer
+status: Closed
 original_status: ""
-created: "2023-03-27"
+created: 2023-03-27
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-218"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-218
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

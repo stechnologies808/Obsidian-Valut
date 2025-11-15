@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-846"
+ticket_id: CITSD-846
 title: "DFCT0011336: lvm-nodes-YYYYMMDD.csv file was not updated correctly for SND BYOD +"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2025-05-23"
+created: 2025-05-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-846"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-846
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

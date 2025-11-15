@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-624"
-title: "ARD378 - SR minor defect - DPS - ITR Result Summary update"
-status: "Resolved"
+ticket_id: CITSD-624
+title: ARD378 - SR minor defect - DPS - ITR Result Summary update
+status: Resolved
 original_status: ""
-created: "2024-01-08"
+created: 2024-01-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-624"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-624
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

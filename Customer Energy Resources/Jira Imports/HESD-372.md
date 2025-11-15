@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-372"
-title: "ARD650 - ITR Result Summary Table - Supplemental Review - Downtown Network Value"
-status: "Resolved"
+ticket_id: HESD-372
+title: ARD650 - ITR Result Summary Table - Supplemental Review - Downtown Network Value
+status: Resolved
 original_status: ""
-created: "2024-05-03"
+created: 2024-05-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-372"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-372
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

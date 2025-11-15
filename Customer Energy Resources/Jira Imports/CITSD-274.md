@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-274"
-title: "ALM 97 TEST UAT - DOCUMENT VERSIONS - UNABLE TO VIEW PREVIOUS VERSIONS OF THE SAME DOCUMENT"
-status: "Resolved"
+ticket_id: CITSD-274
+title: ALM 97 TEST UAT - DOCUMENT VERSIONS - UNABLE TO VIEW PREVIOUS VERSIONS OF THE SAME DOCUMENT
+status: Resolved
 original_status: ""
-created: "2023-04-13"
+created: 2023-04-13
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-274"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-274
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

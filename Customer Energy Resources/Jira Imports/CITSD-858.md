@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-858"
+ticket_id: CITSD-858
 title: "DFCT0011350: Values are blank for Max Site Load without generation"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2025-06-01"
+created: 2025-06-01
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-858"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-858
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

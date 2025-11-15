@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-509"
+ticket_id: HESD-509
 title: "INC0309200: CIT/CID Milestone tab shows HE Internal email addresses"
-status: "Awaiting Deployment"
+status: Awaiting Deployment
 original_status: ""
-created: "2024-10-10"
+created: 2024-10-10
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-509"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-509
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - awaiting-deployment
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

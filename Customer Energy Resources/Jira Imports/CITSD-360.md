@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-360"
-title: "ARD071 - ISE and GSP inverter dropdowns linking to CSS_Inverter instead of CGS_Inverter external list."
-status: "Resolved"
+ticket_id: CITSD-360
+title: ARD071 - ISE and GSP inverter dropdowns linking to CSS_Inverter instead of CGS_Inverter external list.
+status: Resolved
 original_status: ""
-created: "2023-06-24"
+created: 2023-06-24
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-360"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-360
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

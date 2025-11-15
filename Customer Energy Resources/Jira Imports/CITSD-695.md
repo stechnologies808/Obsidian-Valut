@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-695"
+ticket_id: CITSD-695
 title: "ARD432 - Internal Revision: Customer Reference Header repeated on all pages, missing space between sections on Project Location page"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-02-01"
+created: 2024-02-01
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-695"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-695
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-54"
-title: "After making changes to one email template, Unable to Submit CID application"
-status: "Closed"
+ticket_id: CIDSD-54
+title: After making changes to one email template, Unable to Submit CID application
+status: Closed
 original_status: ""
-created: "2021-12-20"
+created: 2021-12-20
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-54"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-54
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - closed
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-4"
-title: "Unable to select PV Contractor when submitting paper application as HEProcessor"
-status: "Closed"
+ticket_id: CITSD-4
+title: Unable to select PV Contractor when submitting paper application as HEProcessor
+status: Closed
 original_status: ""
-created: "2021-12-04"
+created: 2021-12-04
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-4"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-4
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

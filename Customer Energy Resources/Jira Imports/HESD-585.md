@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-585"
+ticket_id: HESD-585
 title: "INC0319470: CIT Defect: Prod BYOD1 minimum incentive calculation is incorrect and doesn't match STAGE."
-status: "Queued"
+status: Queued
 original_status: ""
-created: "2025-05-07"
+created: 2025-05-07
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-585"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-585
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - queued
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

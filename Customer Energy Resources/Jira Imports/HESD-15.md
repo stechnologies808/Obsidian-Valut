@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-15"
-title: "Change Island and Tax Jurisdiction Codes for Maui and Hawaii Island to match SAP"
-status: "Closed"
+ticket_id: HESD-15
+title: Change Island and Tax Jurisdiction Codes for Maui and Hawaii Island to match SAP
+status: Closed
 original_status: ""
-created: "2022-03-15"
+created: 2022-03-15
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-15"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-15
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

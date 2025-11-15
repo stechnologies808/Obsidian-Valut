@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-24"
-title: "Reporting - CID Management Dashboard not found, displaying Kibana list of dashboards"
-status: "Resolved"
+ticket_id: HESD-24
+title: Reporting - CID Management Dashboard not found, displaying Kibana list of dashboards
+status: Resolved
 original_status: ""
-created: "2022-03-20"
+created: 2022-03-20
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-24"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-24
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-363"
-title: "ARD635 - Drop down for Reviewer name errors out"
-status: "Closed"
+ticket_id: HESD-363
+title: ARD635 - Drop down for Reviewer name errors out
+status: Closed
 original_status: ""
-created: "2024-04-23"
+created: 2024-04-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-363"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-363
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - closed
   - hesd
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

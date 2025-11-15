@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-47"
-title: "C&C Release field in Project Summary remains blank"
-status: "Resolved"
+ticket_id: CIDSD-47
+title: C&C Release field in Project Summary remains blank
+status: Resolved
 original_status: ""
-created: "2021-12-17"
+created: 2021-12-17
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-47"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-47
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - resolved
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

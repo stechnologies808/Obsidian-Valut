@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-133"
-title: "Revision Submitted email to customer does not contain Revision Summary Document"
-status: "Closed"
+ticket_id: CITSD-133
+title: Revision Submitted email to customer does not contain Revision Summary Document
+status: Closed
 original_status: ""
-created: "2022-11-22"
+created: 2022-11-22
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-133"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-133
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

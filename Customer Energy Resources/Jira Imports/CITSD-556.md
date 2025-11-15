@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-556"
-title: "ARD301 - Internal Server Error - Save Mailing Address"
-status: "Resolved"
+ticket_id: CITSD-556
+title: ARD301 - Internal Server Error - Save Mailing Address
+status: Resolved
 original_status: ""
-created: "2023-11-02"
+created: 2023-11-02
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-556"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-556
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

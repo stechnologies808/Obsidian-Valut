@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-647"
+ticket_id: HESD-647
 title: "TASK0356338: Requesting from GU a prod map of which data fields the  current external lists map to, with the intention of including these  mappings in the HECO-owned data dictionary."
-status: "Under Review"
+status: Under Review
 original_status: ""
-created: "2025-10-15"
+created: 2025-10-15
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-647"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-647
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - under-review
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-203"
+ticket_id: HESD-203
 title: "482392: During Revision system Owner field appear blank"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2023-02-14"
+created: 2023-02-14
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-203"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-203
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

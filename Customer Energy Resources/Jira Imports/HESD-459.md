@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-459"
+ticket_id: HESD-459
 title: "ARD786: Agreement not generating at PE"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-07-21"
+created: 2024-07-21
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-459"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-459
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - closed
   - hesd
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-868"
-title: "Stageforms does not display menu option for Smart DER"
-status: "Closed"
+ticket_id: CITSD-868
+title: Stageforms does not display menu option for Smart DER
+status: Closed
 original_status: ""
-created: "2025-07-14"
+created: 2025-07-14
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-868"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-868
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

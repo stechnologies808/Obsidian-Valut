@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-632"
-title: "CID User Unable to Start New Electrical Service Application"
-status: "Queued"
+ticket_id: HESD-632
+title: CID User Unable to Start New Electrical Service Application
+status: Queued
 original_status: ""
-created: "2025-09-18"
+created: 2025-09-18
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-632"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-632
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - queued
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

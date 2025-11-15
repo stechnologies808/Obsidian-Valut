@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-595"
-title: "ARD334 - Revision Review/Summary poor aesthetics (revision field lines do not match to original)"
-status: "Resolved"
+ticket_id: CITSD-595
+title: ARD334 - Revision Review/Summary poor aesthetics (revision field lines do not match to original)
+status: Resolved
 original_status: ""
-created: "2023-12-05"
+created: 2023-12-05
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-595"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-595
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

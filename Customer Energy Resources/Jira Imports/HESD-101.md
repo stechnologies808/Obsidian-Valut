@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-101"
-title: "1st Light Contractor Company phone number change"
-status: "Resolved"
+ticket_id: HESD-101
+title: 1st Light Contractor Company phone number change
+status: Resolved
 original_status: ""
-created: "2022-06-16"
+created: 2022-06-16
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-101"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-101
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

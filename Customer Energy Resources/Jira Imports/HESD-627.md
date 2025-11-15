@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-627"
+ticket_id: HESD-627
 title: "DMND0001931:SP-111: Recieved W9 for Battery Bonus and BYOD customers"
-status: "Waiting for customer"
+status: Waiting for customer
 original_status: ""
-created: "2025-09-10"
+created: 2025-09-10
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-627"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-627
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - waiting-for-customer
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

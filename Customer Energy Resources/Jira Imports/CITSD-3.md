@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-3"
-title: "My Account has changed - no longer able to use the Menu option Request Change of Contractor"
-status: "Resolved"
+ticket_id: CITSD-3
+title: My Account has changed - no longer able to use the Menu option Request Change of Contractor
+status: Resolved
 original_status: ""
-created: "2021-12-03"
+created: 2021-12-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-3"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-3
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

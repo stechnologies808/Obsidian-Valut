@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-619"
+ticket_id: HESD-619
 title: "DMND0001586: ALM162: ENHANCEMENT: Reference Header: Text wrapping for Circuit"
-status: "Won't Do"
+status: Won't Do
 original_status: ""
-created: "2025-09-04"
+created: 2025-09-04
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-619"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-619
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - won't-do
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

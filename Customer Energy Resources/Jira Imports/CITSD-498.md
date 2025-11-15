@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-498"
-title: "ARD225 - Completeness Review Document sent to customer; the header does not match the header in the Completeness Review"
-status: "Resolved"
+ticket_id: CITSD-498
+title: ARD225 - Completeness Review Document sent to customer; the header does not match the header in the Completeness Review
+status: Resolved
 original_status: ""
-created: "2023-09-28"
+created: 2023-09-28
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-498"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-498
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

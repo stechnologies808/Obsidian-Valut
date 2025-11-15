@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-155"
-title: "The Total Amendment Change should be a negative value since the Total Remove Size is negative"
-status: "Closed"
+ticket_id: CITSD-155
+title: The Total Amendment Change should be a negative value since the Total Remove Size is negative
+status: Closed
 original_status: ""
-created: "2022-12-19"
+created: 2022-12-19
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-155"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-155
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

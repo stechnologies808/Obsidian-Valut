@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-358"
-title: "Contractor can't see hyperlinks or application"
-status: "Closed"
+ticket_id: HESD-358
+title: Contractor can't see hyperlinks or application
+status: Closed
 original_status: ""
-created: "2024-04-18"
+created: 2024-04-18
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-358"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-358
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - closed
   - hesd
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

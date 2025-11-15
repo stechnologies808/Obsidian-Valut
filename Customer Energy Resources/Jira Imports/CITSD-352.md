@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-352"
-title: "ARD056 - Project Validation Review Failed Fields document includes unflagged comments from Completeness Review. Only for fields that appear on both Completeness Review and Validation Review workflows, such as system components."
-status: "Closed"
+ticket_id: CITSD-352
+title: ARD056 - Project Validation Review Failed Fields document includes unflagged comments from Completeness Review. Only for fields that appear on both Completeness Review and Validation Review workflows, such as system components.
+status: Closed
 original_status: ""
-created: "2023-06-23"
+created: 2023-06-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-352"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-352
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

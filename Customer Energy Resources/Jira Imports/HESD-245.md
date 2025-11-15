@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-245"
-title: "CIT PROD - Please expedite due to work stoppage. P-ISE-23-595473 Project Validation links locked."
-status: "Resolved"
+ticket_id: HESD-245
+title: CIT PROD - Please expedite due to work stoppage. P-ISE-23-595473 Project Validation links locked.
+status: Resolved
 original_status: ""
-created: "2023-07-10"
+created: 2023-07-10
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-245"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-245
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

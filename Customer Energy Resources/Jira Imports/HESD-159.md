@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-159"
-title: "377561 Completeness Review is stuck, with no links or ways to process further."
-status: "Closed"
+ticket_id: HESD-159
+title: 377561 Completeness Review is stuck, with no links or ways to process further.
+status: Closed
 original_status: ""
-created: "2022-11-03"
+created: 2022-11-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-159"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-159
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

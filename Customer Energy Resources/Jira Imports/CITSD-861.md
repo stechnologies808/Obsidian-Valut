@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-861"
+ticket_id: CITSD-861
 title: "DFCT0011355: KPI Dashboard blank"
-status: "Queued"
+status: Queued
 original_status: ""
-created: "2025-06-09"
+created: 2025-06-09
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-861"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-861
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - queued
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

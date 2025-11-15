@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-82"
+ticket_id: HESD-82
 title: "PROD: Contractor unable to make correction when project is in RC/CAR."
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2022-05-19"
+created: 2022-05-19
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-82"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-82
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

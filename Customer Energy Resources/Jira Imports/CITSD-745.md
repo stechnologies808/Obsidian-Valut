@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-745"
-title: "ARD569 - Unable to remove C&C Inspection Release from CIT inputted by Suzy (SCUARESM) dated 2/5/24"
-status: "Closed"
+ticket_id: CITSD-745
+title: ARD569 - Unable to remove C&C Inspection Release from CIT inputted by Suzy (SCUARESM) dated 2/5/24
+status: Closed
 original_status: ""
-created: "2024-02-09"
+created: 2024-02-09
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-745"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-745
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

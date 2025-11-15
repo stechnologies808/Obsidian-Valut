@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-25"
-title: "Remove the text when choosing Modify Service CID_ModifyService_TimelineMsg"
-status: "Resolved"
+ticket_id: CITSD-25
+title: Remove the text when choosing Modify Service CID_ModifyService_TimelineMsg
+status: Resolved
 original_status: ""
-created: "2022-02-04"
+created: 2022-02-04
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-25"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-25
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-280"
+ticket_id: HESD-280
 title: "728382: Unable to pass CR Pop up message says AgreementID zip code does not match amendment zip coe"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2023-12-08"
+created: 2023-12-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-280"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-280
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

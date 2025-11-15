@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-522"
-title: "INC0278732:Contractor stating they cannot pull up application M-ISE-23-522204 on their end."
-status: "Closed"
+ticket_id: HESD-522
+title: INC0278732:Contractor stating they cannot pull up application M-ISE-23-522204 on their end.
+status: Closed
 original_status: ""
-created: "2024-10-24"
+created: 2024-10-24
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-522"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-522
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

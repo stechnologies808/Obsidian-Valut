@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-728"
-title: "ARD561 - Phone number and Email  is not being auto filled for CIT applications"
-status: "Backlog"
+ticket_id: CITSD-728
+title: ARD561 - Phone number and Email  is not being auto filled for CIT applications
+status: Backlog
 original_status: ""
-created: "2024-02-03"
+created: 2024-02-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-728"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-728
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - backlog
   - citsd
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

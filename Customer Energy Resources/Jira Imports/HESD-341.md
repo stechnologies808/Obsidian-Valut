@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-341"
+ticket_id: HESD-341
 title: "ARD595 - (PROD) IIP: SSIS Package IIP-LVM FAILED"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2024-04-04"
+created: 2024-04-04
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-341"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-341
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

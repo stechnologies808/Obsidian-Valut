@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-278"
-title: "ALM 101 TEST - ITR workflow > Customer Transformer screen pass/fail malfunctions"
-status: "Closed"
+ticket_id: CITSD-278
+title: ALM 101 TEST - ITR workflow > Customer Transformer screen pass/fail malfunctions
+status: Closed
 original_status: ""
-created: "2023-04-15"
+created: 2023-04-15
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-278"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-278
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

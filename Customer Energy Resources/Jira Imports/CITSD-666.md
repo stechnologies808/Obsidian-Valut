@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-666"
-title: "Weekly Ticket Sync 3/18/24-3/22/24"
-status: "Closed"
+ticket_id: CITSD-666
+title: Weekly Ticket Sync 3/18/24-3/22/24
+status: Closed
 original_status: ""
-created: "2024-01-23"
+created: 2024-01-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-666"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-666
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

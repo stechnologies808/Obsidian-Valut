@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-874"
+ticket_id: CITSD-874
 title: "INC0325115: CIT - Defect in HQ behavior for BYOD+ Applications"
-status: "Waiting for customer"
+status: Waiting for customer
 original_status: ""
-created: "2025-08-27"
+created: 2025-08-27
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-874"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-874
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - waiting-for-customer
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

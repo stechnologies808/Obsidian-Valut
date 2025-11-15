@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-494"
-title: "ARD195 - 	Insurance expiration date field is the only required validation field that does not automatically remove the red markers when the required information is input. User must attempt to hit save and continue to trigger recheck."
-status: "Resolved"
+ticket_id: CITSD-494
+title: ARD195 - 	Insurance expiration date field is the only required validation field that does not automatically remove the red markers when the required information is input. User must attempt to hit save and continue to trigger recheck.
+status: Resolved
 original_status: ""
-created: "2023-09-26"
+created: 2023-09-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-494"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-494
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

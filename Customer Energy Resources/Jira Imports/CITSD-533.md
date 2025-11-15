@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-533"
-title: "ARD273 - Application Intake Links are not enabled and does not allow for corrections to be made."
-status: "Closed"
+ticket_id: CITSD-533
+title: ARD273 - Application Intake Links are not enabled and does not allow for corrections to be made.
+status: Closed
 original_status: ""
-created: "2023-10-04"
+created: 2023-10-04
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-533"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-533
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

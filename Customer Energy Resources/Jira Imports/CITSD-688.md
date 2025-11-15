@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-688"
+ticket_id: CITSD-688
 title: "ARD495 - Project System Components: Inverter Quantity should not have 1000 limit"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2024-01-31"
+created: 2024-01-31
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-688"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-688
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - citsd
   - resolved
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

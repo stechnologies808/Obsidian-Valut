@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-549"
+ticket_id: HESD-549
 title: "DMND0001783: CIT/CID Process applications in the order received"
-status: "Awaiting Deployment"
+status: Awaiting Deployment
 original_status: ""
-created: "2025-02-14"
+created: 2025-02-14
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-549"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-549
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - awaiting-deployment
   - hesd
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

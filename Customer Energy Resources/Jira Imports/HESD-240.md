@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-240"
-title: "P-CSS-22-518533  Project address updated with Sarah Change Field Value; change not reflected in application"
-status: "Closed"
+ticket_id: HESD-240
+title: P-CSS-22-518533  Project address updated with Sarah Change Field Value; change not reflected in application
+status: Closed
 original_status: ""
-created: "2023-05-26"
+created: 2023-05-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-240"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-240
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

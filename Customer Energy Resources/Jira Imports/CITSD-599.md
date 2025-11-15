@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-599"
-title: "ARD338 - System Lease fields are required when they should not be"
-status: "Closed"
+ticket_id: CITSD-599
+title: ARD338 - System Lease fields are required when they should not be
+status: Closed
 original_status: ""
-created: "2023-12-14"
+created: 2023-12-14
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-599"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-599
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-40"
+ticket_id: CITSD-40
 title: "Update with latest Amendment Agreement "
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2022-02-22"
+created: 2022-02-22
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-40"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-40
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

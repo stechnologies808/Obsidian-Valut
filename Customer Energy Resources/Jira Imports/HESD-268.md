@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-268"
-title: "GU Cyber Security - Possible Issue with our Hosted Website"
-status: "Deferred"
+ticket_id: HESD-268
+title: GU Cyber Security - Possible Issue with our Hosted Website
+status: Deferred
 original_status: ""
-created: "2023-09-28"
+created: 2023-09-28
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-268"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-268
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - deferred
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

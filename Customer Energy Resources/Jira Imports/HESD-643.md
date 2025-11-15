@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-643"
+ticket_id: HESD-643
 title: "External List Contractor information update: Photonworks Engineering"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2025-10-01"
+created: 2025-10-01
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-643"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-643
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-187"
-title: "User unable to start new CID application. Redirects him to landing page."
-status: "Closed"
+ticket_id: HESD-187
+title: User unable to start new CID application. Redirects him to landing page.
+status: Closed
 original_status: ""
-created: "2023-01-26"
+created: 2023-01-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-187"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-187
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

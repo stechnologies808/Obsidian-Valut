@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-532"
-title: "INC0310701:CIT PROD - P-AMD-24-822786 Pending Execution requiring document incorrectly"
-status: "Queued"
+ticket_id: HESD-532
+title: INC0310701:CIT PROD - P-AMD-24-822786 Pending Execution requiring document incorrectly
+status: Queued
 original_status: ""
-created: "2024-11-12"
+created: 2024-11-12
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-532"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-532
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - queued
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

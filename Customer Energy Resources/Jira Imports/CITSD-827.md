@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-827"
+ticket_id: CITSD-827
 title: "DFCT0010775: Role ExportingPrivs Missing"
-status: "Backlog"
+status: Backlog
 original_status: ""
-created: "2024-10-01"
+created: 2024-10-01
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-827"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-827
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - backlog
   - citsd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

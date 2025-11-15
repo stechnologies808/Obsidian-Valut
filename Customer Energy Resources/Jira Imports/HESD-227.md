@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-227"
-title: "Revision on application 444986."
-status: "Resolved"
+ticket_id: HESD-227
+title: Revision on application 444986.
+status: Resolved
 original_status: ""
-created: "2023-04-21"
+created: 2023-04-21
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-227"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-227
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

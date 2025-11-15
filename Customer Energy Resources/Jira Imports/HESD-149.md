@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-149"
+ticket_id: HESD-149
 title: "PUC Report Urgent: Requesting inverter manf/model, size info from all CIT applications"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2022-10-06"
+created: 2022-10-06
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-149"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-149
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-796"
+ticket_id: CITSD-796
 title: "ARD670 - Transition: Program capacity not removed from totals AFTER transitioned to SDE"
-status: "Queued"
+status: Queued
 original_status: ""
-created: "2024-05-15"
+created: 2024-05-15
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-796"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-796
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - queued
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

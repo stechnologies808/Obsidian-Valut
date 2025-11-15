@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-611"
-title: "BYOD Generated Report includes non BYOD applications"
-status: "In Progress"
+ticket_id: HESD-611
+title: BYOD Generated Report includes non BYOD applications
+status: In Progress
 original_status: ""
-created: "2025-08-07"
+created: 2025-08-07
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-611"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-611
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - in-progress
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

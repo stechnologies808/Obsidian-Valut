@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-109"
-title: "Error message appears when entering non-CIT existing agreement ID during CR"
-status: "Resolved"
+ticket_id: CITSD-109
+title: Error message appears when entering non-CIT existing agreement ID during CR
+status: Resolved
 original_status: ""
-created: "2022-10-20"
+created: 2022-10-20
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-109"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-109
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

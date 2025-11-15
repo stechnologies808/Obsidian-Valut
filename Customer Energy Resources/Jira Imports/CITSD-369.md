@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-369"
-title: "ARD083 - Total Proposed Storage Size inconsistent with storage size entered"
-status: "Closed"
+ticket_id: CITSD-369
+title: ARD083 - Total Proposed Storage Size inconsistent with storage size entered
+status: Closed
 original_status: ""
-created: "2023-06-28"
+created: 2023-06-28
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-369"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-369
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

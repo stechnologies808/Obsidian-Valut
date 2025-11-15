@@ -1,18 +1,15 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-461"
+ticket_id: HESD-461
 title: "INC0304439: GridUnity CIT Platform: Multiple users reporting intermittent issues exporting .csv data in PROD environment"
-status: "In Progress"
+status: In Progress
 original_status: ""
-created: "2024-07-23"
+created: 2024-07-23
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-461"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-461
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
@@ -20,8 +17,8 @@ tags:
   - hesd
   - in-progress
   - watchlist
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

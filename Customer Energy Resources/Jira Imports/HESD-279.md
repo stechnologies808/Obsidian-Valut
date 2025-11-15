@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-279"
+ticket_id: HESD-279
 title: "558642: Application stuck; links not active"
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2023-12-05"
+created: 2023-12-05
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-279"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-279
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

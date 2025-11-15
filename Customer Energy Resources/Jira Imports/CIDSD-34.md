@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-34"
+ticket_id: CIDSD-34
 title: "[PLATFORM] New Queue View export file name not editable"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2021-11-29"
+created: 2021-11-29
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-34"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-34
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - closed
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

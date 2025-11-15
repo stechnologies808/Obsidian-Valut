@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-389"
-title: "Data Dictionary 7.26.2023"
-status: "Resolved"
+ticket_id: CITSD-389
+title: Data Dictionary 7.26.2023
+status: Resolved
 original_status: ""
-created: "2023-07-26"
+created: 2023-07-26
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-389"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-389
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

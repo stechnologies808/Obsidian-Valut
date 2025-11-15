@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-557"
-title: "INC0315571 - Internal server error when entering signature receive date"
-status: "Closed"
+ticket_id: HESD-557
+title: INC0315571 - Internal server error when entering signature receive date
+status: Closed
 original_status: ""
-created: "2025-03-20"
+created: 2025-03-20
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-557"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-557
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

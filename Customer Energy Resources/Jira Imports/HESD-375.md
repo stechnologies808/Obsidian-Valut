@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-375"
-title: "ARD661 - PROD - Program Type Information has Disappearedfor some Applications (in CIT and LVM)"
-status: "Resolved"
+ticket_id: HESD-375
+title: ARD661 - PROD - Program Type Information has Disappearedfor some Applications (in CIT and LVM)
+status: Resolved
 original_status: ""
-created: "2024-05-06"
+created: 2024-05-06
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-375"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-375
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

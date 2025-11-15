@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-86"
-title: "Customer reports that he has no access to his project app 327618."
-status: "Resolved"
+ticket_id: HESD-86
+title: Customer reports that he has no access to his project app 327618.
+status: Resolved
 original_status: ""
-created: "2022-05-24"
+created: 2022-05-24
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-86"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-86
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

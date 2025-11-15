@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-364"
-title: "ARD636 - Unable to Edit Start Time for Battery Bonus Applications"
-status: "Queued"
+ticket_id: HESD-364
+title: ARD636 - Unable to Edit Start Time for Battery Bonus Applications
+status: Queued
 original_status: ""
-created: "2024-04-24"
+created: 2024-04-24
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-364"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-364
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - queued
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

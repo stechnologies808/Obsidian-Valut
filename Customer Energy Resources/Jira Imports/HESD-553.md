@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-553"
-title: "System Error Prod"
-status: "Closed"
+ticket_id: HESD-553
+title: System Error Prod
+status: Closed
 original_status: ""
-created: "2025-03-13"
+created: 2025-03-13
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-553"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-553
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

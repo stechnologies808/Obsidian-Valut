@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-284"
-title: "Contractor cannot make corrections to validation and verification submission for P-AMD-22-421750. No hyperlinks available. See attached."
-status: "Resolved"
+ticket_id: HESD-284
+title: Contractor cannot make corrections to validation and verification submission for P-AMD-22-421750. No hyperlinks available. See attached.
+status: Resolved
 original_status: ""
-created: "2023-12-11"
+created: 2023-12-11
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-284"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-284
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

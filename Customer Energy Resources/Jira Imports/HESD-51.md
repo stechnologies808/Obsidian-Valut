@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-51"
-title: "Unable to Start a New Electrical Service Application"
-status: "Resolved"
+ticket_id: HESD-51
+title: Unable to Start a New Electrical Service Application
+status: Resolved
 original_status: ""
-created: "2022-04-12"
+created: 2022-04-12
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-51"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-51
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-712"
-title: "ARD550 - A Revision has been submitted email sent to Oahu inbox, rather than Maui inbox"
-status: "Resolved"
+ticket_id: CITSD-712
+title: ARD550 - A Revision has been submitted email sent to Oahu inbox, rather than Maui inbox
+status: Resolved
 original_status: ""
-created: "2024-02-03"
+created: 2024-02-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-712"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-712
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

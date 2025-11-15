@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-329"
-title: "ARD009 - Amend Lease Question Prompt Verbiage"
-status: "Closed"
+ticket_id: CITSD-329
+title: ARD009 - Amend Lease Question Prompt Verbiage
+status: Closed
 original_status: ""
-created: "2023-06-16"
+created: 2023-06-16
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-329"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-329
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

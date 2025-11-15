@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-23"
-title: "Entering a Maui & Hawaii Island meter will generate an error message in Stage (Okay in PROD)"
-status: "Closed"
+ticket_id: HESD-23
+title: Entering a Maui & Hawaii Island meter will generate an error message in Stage (Okay in PROD)
+status: Closed
 original_status: ""
-created: "2022-03-18"
+created: 2022-03-18
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-23"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-23
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

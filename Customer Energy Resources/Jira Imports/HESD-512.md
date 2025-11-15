@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-512"
-title: "Reporting Enhancement Requirements"
-status: "Planned"
+ticket_id: HESD-512
+title: Reporting Enhancement Requirements
+status: Planned
 original_status: ""
-created: "2024-10-18"
+created: 2024-10-18
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-512"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-512
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - planned
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

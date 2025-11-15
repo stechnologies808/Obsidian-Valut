@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-552"
+ticket_id: HESD-552
 title: "PUC Requirement: Modification needed for automated BPEM creation function"
-status: "Ready for HE Testing"
+status: Ready for HE Testing
 original_status: ""
-created: "2025-03-08"
+created: 2025-03-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-552"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-552
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - ready-for-he-testing
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

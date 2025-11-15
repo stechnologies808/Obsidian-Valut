@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-128"
-title: "Need to remove nonascii character in Project Description for app 455267"
-status: "Resolved"
+ticket_id: HESD-128
+title: Need to remove nonascii character in Project Description for app 455267
+status: Resolved
 original_status: ""
-created: "2022-08-09"
+created: 2022-08-09
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-128"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-128
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

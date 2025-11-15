@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-381"
-title: "ARD678 - Unable to start application - when Contractor clicks on [Start new application], they are taken back to the homepage"
-status: "Closed"
+ticket_id: HESD-381
+title: ARD678 - Unable to start application - when Contractor clicks on [Start new application], they are taken back to the homepage
+status: Closed
 original_status: ""
-created: "2024-05-14"
+created: 2024-05-14
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-381"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-381
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

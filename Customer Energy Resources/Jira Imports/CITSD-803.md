@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-803"
-title: "ARD340 - [DD Update] System Owner Suffix field missing when 'No' selected for 'Will the system be leased?'"
-status: "Backlog"
+ticket_id: CITSD-803
+title: ARD340 - [DD Update] System Owner Suffix field missing when 'No' selected for 'Will the system be leased?'
+status: Backlog
 original_status: ""
-created: "2024-05-16"
+created: 2024-05-16
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-803"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-803
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - backlog
   - citsd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

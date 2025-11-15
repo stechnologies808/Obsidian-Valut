@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-340"
-title: "ARD037 - Panel STC rating autopopulating incorrect kW"
-status: "Resolved"
+ticket_id: CITSD-340
+title: ARD037 - Panel STC rating autopopulating incorrect kW
+status: Resolved
 original_status: ""
-created: "2023-06-20"
+created: 2023-06-20
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-340"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-340
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

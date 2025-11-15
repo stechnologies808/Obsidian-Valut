@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-682"
-title: "ARD509 - P-AMD-24-255316 Validation passed Verification not complete template email not received. CIT indicates sent."
-status: "Closed"
+ticket_id: CITSD-682
+title: ARD509 - P-AMD-24-255316 Validation passed Verification not complete template email not received. CIT indicates sent.
+status: Closed
 original_status: ""
-created: "2024-01-29"
+created: 2024-01-29
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-682"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-682
 assignee: ""
 reporter: ""
-project: "citsd"
+project: citsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - citsd
   - closed
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

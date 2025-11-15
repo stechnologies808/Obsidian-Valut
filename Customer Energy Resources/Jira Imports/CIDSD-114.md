@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-114"
-title: "Lanai/Molokai Zip Codes not providing correct Main Workcenter in SAP"
-status: "Resolved"
+ticket_id: CIDSD-114
+title: Lanai/Molokai Zip Codes not providing correct Main Workcenter in SAP
+status: Resolved
 original_status: ""
-created: "2022-03-08"
+created: 2022-03-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-114"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-114
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - resolved
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

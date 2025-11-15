@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-600"
+ticket_id: HESD-600
 title: "INC0322825: Address Update in CIT for H-SDE-24-855145"
-status: "Closed"
+status: Closed
 original_status: ""
-created: "2025-07-08"
+created: 2025-07-08
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-600"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-600
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - closed
   - hesd
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

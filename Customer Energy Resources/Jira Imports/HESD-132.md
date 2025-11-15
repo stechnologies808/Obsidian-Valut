@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-132"
-title: "HE Engineer cannot perform ITR, link redirects him to landing page"
-status: "Resolved"
+ticket_id: HESD-132
+title: HE Engineer cannot perform ITR, link redirects him to landing page
+status: Resolved
 original_status: ""
-created: "2022-08-18"
+created: 2022-08-18
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-132"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-132
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

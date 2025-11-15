@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-73"
+ticket_id: CIDSD-73
 title: "Stakeholder and Customer cannot edit project after registering "
-status: "Resolved"
+status: Resolved
 original_status: ""
-created: "2022-01-20"
+created: 2022-01-20
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-73"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-73
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - resolved
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-85"
-title: "Code Vulnerability"
-status: "Resolved"
+ticket_id: CIDSD-85
+title: Code Vulnerability
+status: Resolved
 original_status: ""
-created: "2022-02-01"
+created: 2022-02-01
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-85"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-85
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - resolved
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

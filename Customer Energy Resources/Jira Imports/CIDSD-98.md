@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "CIDSD-98"
-title: "Field to quickly identify CID applications vs. CIT applications"
-status: "Resolved"
+ticket_id: CIDSD-98
+title: Field to quickly identify CID applications vs. CIT applications
+status: Resolved
 original_status: ""
-created: "2022-02-17"
+created: 2022-02-17
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-98"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-98
 assignee: ""
 reporter: ""
-project: "cidsd"
+project: cidsd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - cidsd
   - resolved
-updated: "2025-11-15T09:16"
-last_synced: "2025-11-15T09:16"
+updated: 2025-11-15T11:16
+last_synced: 2025-11-15T11:16
 ---
 
 

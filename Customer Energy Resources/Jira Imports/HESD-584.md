@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-584"
+ticket_id: HESD-584
 title: "INC0319320: CIT Defect: Dashboard is unable to filter IIQ status by TW despite it being a valid IIQ status."
-status: "Queued"
+status: Queued
 original_status: ""
-created: "2025-05-03"
+created: 2025-05-03
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-584"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-584
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - queued
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 

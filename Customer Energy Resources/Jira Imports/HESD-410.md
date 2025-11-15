@@ -1,26 +1,23 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-410"
-title: "ARD354 - Twitter Icon needs to be updated to X in footer"
-status: "Resolved"
+ticket_id: HESD-410
+title: ARD354 - Twitter Icon needs to be updated to X in footer
+status: Resolved
 original_status: ""
-created: "2024-06-05"
+created: 2024-06-05
 scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-410"
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-410
 assignee: ""
 reporter: ""
-project: "hesd"
+project: hesd
 request_type: ""
-business_impact: ""
-business_value: ""
 he_project: ""
 tags:
   - jira
   - ticket
   - hesd
   - resolved
-updated: "2025-11-15T09:17"
-last_synced: "2025-11-15T09:17"
+updated: 2025-11-15T11:17
+last_synced: 2025-11-15T11:17
 ---
 
 
