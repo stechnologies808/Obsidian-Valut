@@ -45,5 +45,5 @@ No comments available.
 - **Source**: JSON export from Jira Service Management
 
 ---
-*This file was automatically generated from JSON data*
 
+*This file was automatically generated from JSON data*

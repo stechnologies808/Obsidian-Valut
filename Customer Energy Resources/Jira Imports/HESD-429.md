@@ -44,6 +44,8 @@ No comments available.
 - **Scraped**: Unknown
 - **Source**: JSON export from Jira Service Management
 
+tags:
+  - watchlist
 ---
-*This file was automatically generated from JSON data*
 
+*This file was automatically generated from JSON data*
