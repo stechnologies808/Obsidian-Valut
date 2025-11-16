@@ -6,15 +6,12 @@ status: In Progress
 created: '2024-07-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-461
 project: hesd
-tags:
-- jira
-- ticket
-- hesd
-- in-progress
-- watchlist
 updated: 2025-11-16T07:20
 last_synced: 2025-11-16T07:20
+tags:
+  - watchlist
 ---
+
 
 
 
@@ -49,4 +46,3 @@ No comments available.
 
 ---
 *This file was automatically generated from JSON data*
-

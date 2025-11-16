@@ -13,7 +13,10 @@ project: "hesd"
   - watchlist
 updated: "2025-11-15T11:17"
 last_synced: "2025-11-15T11:17"
+tags:
+  - watchlist
 ---
+
 
 
 
@@ -48,4 +51,3 @@ No comments available.
 
 ---
 *This file was automatically generated from JSON data*
-

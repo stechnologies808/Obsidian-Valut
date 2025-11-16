@@ -5,15 +5,12 @@ status: Queued
 created: '2023-12-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-603
 project: citsd
-tags:
-- jira
-- ticket
-- citsd
-- queued
-- watchlist
 updated: 2025-11-16T07:20
 last_synced: 2025-11-16T07:20
+tags:
+  - watchlist
 ---
+
 
 
 
@@ -48,4 +45,3 @@ No comments available.
 
 ---
 *This file was automatically generated from JSON data*
-
