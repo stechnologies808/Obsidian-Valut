@@ -1,18 +1,19 @@
 ---
 ticket_id: CITSD-877
-title: 'DFCT0011445 Q4 Regression: CIT emails include additional characters and incorrect
-  hyperlinks'
+title: "DFCT0011445 Q4 Regression: CIT emails include additional characters and incorrect hyperlinks"
 status: Under Review
-created: '2025-11-01'
+created: 2025-11-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-877
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- under-review
+  - jira
+  - ticket
+  - citsd
+  - under-review
 updated: 2025-11-16T07:20
 last_synced: 2025-11-16T07:20
+Focus:
+  - Configuration
 ---
 
 

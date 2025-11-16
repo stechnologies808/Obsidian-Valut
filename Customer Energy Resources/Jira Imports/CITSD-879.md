@@ -1,17 +1,19 @@
 ---
 ticket_id: CITSD-879
-title: 'DFCT0011449 Q4 Regression: Skip ITR Case 3- AMD apps not added to LVM'
+title: "DFCT0011449 Q4 Regression: Skip ITR Case 3- AMD apps not added to LVM"
 status: Under Review
-created: '2025-11-06'
+created: 2025-11-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-879
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- under-review
+  - jira
+  - ticket
+  - citsd
+  - under-review
 updated: 2025-11-16T07:20
 last_synced: 2025-11-16T07:20
+Focus:
+  - LVM
 ---
 
 

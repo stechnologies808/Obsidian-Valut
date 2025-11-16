@@ -1,17 +1,19 @@
 ---
 ticket_id: CITSD-883
-title: 'DFCT0011454 Q4 Regression: Skip ITR - NEW APPS NOT ADDED TO LVM'
+title: "DFCT0011454 Q4 Regression: Skip ITR - NEW APPS NOT ADDED TO LVM"
 status: Under Review
-created: '2025-11-06'
+created: 2025-11-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-883
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- under-review
+  - jira
+  - ticket
+  - citsd
+  - under-review
 updated: 2025-11-16T07:20
 last_synced: 2025-11-16T07:20
+Focus:
+  - LVM
 ---
 
 

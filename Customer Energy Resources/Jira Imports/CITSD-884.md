@@ -1,17 +1,19 @@
 ---
 ticket_id: CITSD-884
-title: 'DFCT0011458: Q4 Regression: Prefill BYOD+ applications System Owner YES'
+title: "DFCT0011458: Q4 Regression: Prefill BYOD+ applications System Owner YES"
 status: Waiting for customer
-created: '2025-11-11'
+created: 2025-11-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-884
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- waiting-for-customer
+  - jira
+  - ticket
+  - citsd
+  - waiting-for-customer
 updated: 2025-11-16T07:20
 last_synced: 2025-11-16T07:20
+Focus:
+  - Configuration
 ---
 
 
