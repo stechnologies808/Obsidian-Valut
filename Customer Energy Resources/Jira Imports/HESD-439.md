@@ -1,17 +1,26 @@
 ---
-ticket_id: HESD-439
-title: 'ARD762 - Transition: Connection Timed Out Error and Summary report not generated'
-status: Triaged (Backlog)
-created: '2024-07-02'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-439
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-439"
+title: "ARD762 - Transition: Connection Timed Out Error and Summary report not generated"
+status: "Triaged (Backlog)"
+original_status: ""
+created: "2024-07-02"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-439"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- triaged-(backlog)
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - triaged-(backlog)
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

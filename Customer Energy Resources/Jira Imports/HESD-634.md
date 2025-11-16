@@ -1,17 +1,26 @@
 ---
-ticket_id: HESD-634
-title: 'INC0326596: Contractor Receiving Error Message on Zip Code & Meter Number'
-status: In Progress
-created: '2025-09-19'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-634
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-634"
+title: "INC0326596: Contractor Receiving Error Message on Zip Code & Meter Number"
+status: "In Progress"
+original_status: ""
+created: "2025-09-19"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-634"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- in-progress
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - in-progress
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

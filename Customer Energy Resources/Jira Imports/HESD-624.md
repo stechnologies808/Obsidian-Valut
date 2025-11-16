@@ -1,18 +1,26 @@
 ---
-ticket_id: HESD-624
-title: 'DMND0001602: Post Installation Information: Revised Electrical Drawings -
-  Site Related Plan Documents field only allows PDF'
-status: Waiting for Review
-created: '2025-09-09'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-624
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-624"
+title: "DMND0001602: Post Installation Information: Revised Electrical Drawings - Site Related Plan Documents field only allows PDF"
+status: "Waiting for Review"
+original_status: ""
+created: "2025-09-09"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-624"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- waiting-for-review
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - waiting-for-review
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

@@ -1,17 +1,26 @@
 ---
-ticket_id: CITSD-873
-title: Grid Unity October Release - Release Notes
-status: In Progress
-created: '2025-08-26'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-873
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-873"
+title: "Grid Unity October Release - Release Notes"
+status: "In Progress"
+original_status: ""
+created: "2025-08-26"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-873"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- citsd
-- in-progress
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - citsd
+  - in-progress
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

@@ -1,18 +1,26 @@
 ---
-ticket_id: HESD-560
-title: 'INC0314738: CIT issue; Application Submittal - Address not showing up, cannot
-  continue application '
-status: Queued
-created: '2025-03-27'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-560
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-560"
+title: "INC0314738: CIT issue; Application Submittal - Address not showing up, cannot continue application "
+status: "Queued"
+original_status: ""
+created: "2025-03-27"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-560"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- queued
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - queued
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

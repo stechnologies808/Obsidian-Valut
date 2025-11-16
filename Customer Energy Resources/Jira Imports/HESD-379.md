@@ -1,17 +1,26 @@
 ---
-ticket_id: HESD-379
-title: ARD676 - SAP/CIT interface not working.
-status: Deferred
-created: '2024-05-13'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-379
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-379"
+title: "ARD676 - SAP/CIT interface not working."
+status: "Deferred"
+original_status: ""
+created: "2024-05-13"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-379"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- deferred
-- hesd
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - deferred
+  - hesd
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

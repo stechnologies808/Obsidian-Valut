@@ -1,17 +1,26 @@
 ---
-ticket_id: CITSD-710
-title: ARD549 - Completeness Review Document includes wrong heading for project components
-status: Queued
-created: '2024-02-03'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-710
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-710"
+title: "ARD549 - Completeness Review Document includes wrong heading for project components"
+status: "Queued"
+original_status: ""
+created: "2024-02-03"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-710"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- citsd
-- queued
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - citsd
+  - queued
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

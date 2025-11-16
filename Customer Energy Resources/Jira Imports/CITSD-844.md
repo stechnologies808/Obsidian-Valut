@@ -1,17 +1,26 @@
 ---
-ticket_id: CITSD-844
-title: 'DFCT0011279: User Profile options inconsistent'
-status: Backlog
-created: '2025-04-07'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-844
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-844"
+title: "DFCT0011279: User Profile options inconsistent"
+status: "Backlog"
+original_status: ""
+created: "2025-04-07"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-844"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- backlog
-- citsd
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - backlog
+  - citsd
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

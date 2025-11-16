@@ -1,17 +1,26 @@
 ---
-ticket_id: CITSD-526
-title: ARD253 - Compliance clock for PV stage is incorrect
-status: Backlog
-created: '2023-09-30'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-526
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-526"
+title: "ARD253 - Compliance clock for PV stage is incorrect"
+status: "Backlog"
+original_status: ""
+created: "2023-09-30"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-526"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- backlog
-- citsd
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - backlog
+  - citsd
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

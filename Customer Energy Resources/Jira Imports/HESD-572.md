@@ -1,17 +1,26 @@
 ---
-ticket_id: HESD-572
-title: 'DMND0001734: CIT - DG Central - PowerBI - Databricks'
-status: Waiting for Review
-created: '2025-04-16'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-572
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-572"
+title: "DMND0001734: CIT - DG Central - PowerBI - Databricks"
+status: "Waiting for Review"
+original_status: ""
+created: "2025-04-16"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-572"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- waiting-for-review
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - waiting-for-review
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

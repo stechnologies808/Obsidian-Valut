@@ -1,17 +1,26 @@
 ---
-ticket_id: CITSD-474
-title: ARD240 Data Dictionary Change Visibility for BYODs
-status: Waiting for Customer
-created: '2023-09-20'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-474
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-474"
+title: "ARD240 Data Dictionary Change Visibility for BYODs"
+status: "Waiting for Customer"
+original_status: ""
+created: "2023-09-20"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-474"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- citsd
-- waiting-for-customer
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - citsd
+  - waiting-for-customer
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

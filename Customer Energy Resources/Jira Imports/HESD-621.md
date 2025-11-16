@@ -1,18 +1,26 @@
 ---
-ticket_id: HESD-621
-title: 'DMND0001598: ALM399: [ENHANCEMENT] Post Installation Information: Building
-  Permit and Certificate of Insurance only accepts PDF file types'
-status: Under Review
-created: '2025-09-06'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-621
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-621"
+title: "DMND0001598: ALM399: [ENHANCEMENT] Post Installation Information: Building Permit and Certificate of Insurance only accepts PDF file types"
+status: "Under Review"
+original_status: ""
+created: "2025-09-06"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-621"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- under-review
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - under-review
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

@@ -1,17 +1,26 @@
 ---
-ticket_id: CITSD-875
-title: 'DMND0001586: ALM162: ENHANCEMENT: Reference Header: Text wrapping for Circuit'
-status: Under Review
-created: '2025-09-04'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-875
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-875"
+title: "DMND0001586: ALM162: ENHANCEMENT: Reference Header: Text wrapping for Circuit"
+status: "Under Review"
+original_status: ""
+created: "2025-09-04"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-875"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- citsd
-- under-review
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - citsd
+  - under-review
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

@@ -1,17 +1,26 @@
 ---
-ticket_id: HESD-359
-title: ARD620 - Character case-sensitive filters affecting LVM Calculations
-status: Deferred
-created: '2024-04-18'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-359
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-359"
+title: "ARD620 - Character case-sensitive filters affecting LVM Calculations"
+status: "Deferred"
+original_status: ""
+created: "2024-04-18"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-359"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- deferred
-- hesd
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - deferred
+  - hesd
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

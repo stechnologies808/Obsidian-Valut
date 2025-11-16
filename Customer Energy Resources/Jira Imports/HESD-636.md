@@ -3,15 +3,24 @@
 ticket_id: "HESD-636"
 title: "DMND0001924-SP-078: Auto archive "initiated" CID apps quarterly instead of yearly."
 status: "Under Review"
+original_status: ""
 created: "2025-09-20"
+scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-636"
+assignee: ""
+reporter: ""
 project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
+tags:
   - jira
   - ticket
   - hesd
   - under-review
-updated: "2025-11-15T11:17"
-last_synced: "2025-11-15T11:17"
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

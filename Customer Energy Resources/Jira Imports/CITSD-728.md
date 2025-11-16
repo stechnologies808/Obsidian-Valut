@@ -1,16 +1,28 @@
 ---
-ticket_id: CITSD-728
-title: ARD561 - Phone number and Email  is not being auto filled for CIT applications
-status: Backlog
-created: '2024-02-03'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-728
-project: citsd
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+# Dataview Properties
+ticket_id: "CITSD-728"
+title: "ARD561 - Phone number and Email  is not being auto filled for CIT applications"
+status: "Backlog"
+original_status: ""
+created: "2024-02-03"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-728"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
+  - jira
+  - ticket
+  - backlog
+  - citsd
   - watchlist
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
-
 
 
 
@@ -45,3 +57,4 @@ No comments available.
 
 ---
 *This file was automatically generated from JSON data*
+

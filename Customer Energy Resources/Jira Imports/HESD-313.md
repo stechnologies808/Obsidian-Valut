@@ -1,18 +1,26 @@
 ---
-ticket_id: HESD-313
-title: 'Prepending CR-023: Project System Components - DC coupled batt, Total Nighttime
-  Generation calculation defect'
-status: Deferred
-created: '2024-02-20'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-313
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-313"
+title: "Prepending CR-023: Project System Components - DC coupled batt, Total Nighttime Generation calculation defect"
+status: "Deferred"
+original_status: ""
+created: "2024-02-20"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-313"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- deferred
-- hesd
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - deferred
+  - hesd
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

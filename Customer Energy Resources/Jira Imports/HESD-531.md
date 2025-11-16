@@ -1,18 +1,26 @@
 ---
-ticket_id: HESD-531
-title: 'INC0306788: CIT Defect - Meter Notification Number Not Populating in 6E Notification
-  Number '
-status: Ready for HE Testing
-created: '2024-11-12'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-531
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-531"
+title: "INC0306788: CIT Defect - Meter Notification Number Not Populating in 6E Notification Number "
+status: "Ready for HE Testing"
+original_status: ""
+created: "2024-11-12"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-531"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- ready-for-he-testing
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - ready-for-he-testing
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

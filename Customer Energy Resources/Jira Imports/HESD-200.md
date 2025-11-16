@@ -1,18 +1,26 @@
 ---
-ticket_id: HESD-200
-title: Request estimate on the following enhancement, filtering the 6A_Planner_Group
-  list by island
-status: Planned
-created: '2023-02-06'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-200
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-200"
+title: "Request estimate on the following enhancement, filtering the 6A_Planner_Group list by island"
+status: "Planned"
+original_status: ""
+created: "2023-02-06"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-200"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- planned
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - planned
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

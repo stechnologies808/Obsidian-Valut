@@ -1,17 +1,26 @@
 ---
-ticket_id: HESD-494
-title: HE CSV Exports starting August 26, 2024
-status: In Progress
-created: '2024-08-26'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-494
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-494"
+title: "HE CSV Exports starting August 26, 2024"
+status: "In Progress"
+original_status: ""
+created: "2024-08-26"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-494"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- in-progress
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - in-progress
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

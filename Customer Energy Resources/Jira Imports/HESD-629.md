@@ -1,18 +1,26 @@
 ---
-ticket_id: HESD-629
-title: 'DMND0001580: ALM69: ENHANCEMENT: Note advising to cancel application due to
-  increase size on revision screen should be removed'
-status: Waiting for customer
-created: '2025-09-12'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-629
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-629"
+title: "DMND0001580: ALM69: ENHANCEMENT: Note advising to cancel application due to increase size on revision screen should be removed"
+status: "Waiting for customer"
+original_status: ""
+created: "2025-09-12"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-629"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- waiting-for-customer
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - waiting-for-customer
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

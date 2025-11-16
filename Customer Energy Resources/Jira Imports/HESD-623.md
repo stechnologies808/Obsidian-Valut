@@ -3,15 +3,24 @@
 ticket_id: "HESD-623"
 title: "DMND0001604: ALM488: [ENH] Validation Submittal - System Components incorrectly label different panels as "PV Panels #1" even though there are 7"
 status: "Waiting for Review"
+original_status: ""
 created: "2025-09-09"
+scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-623"
+assignee: ""
+reporter: ""
 project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
+tags:
   - jira
   - ticket
   - hesd
   - waiting-for-review
-updated: "2025-11-15T11:17"
-last_synced: "2025-11-15T11:17"
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

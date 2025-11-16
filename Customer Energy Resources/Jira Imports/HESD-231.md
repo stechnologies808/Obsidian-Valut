@@ -1,17 +1,26 @@
 ---
-ticket_id: HESD-231
-title: Milestone synch failed
-status: Under Review
-created: '2023-04-28'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-231
-project: hesd
+# Dataview Properties
+ticket_id: "HESD-231"
+title: "Milestone synch failed"
+status: "Under Review"
+original_status: ""
+created: "2023-04-28"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-231"
+assignee: ""
+reporter: ""
+project: "hesd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- hesd
-- under-review
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - hesd
+  - under-review
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 

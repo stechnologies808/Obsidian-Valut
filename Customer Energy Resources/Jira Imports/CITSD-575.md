@@ -1,19 +1,26 @@
 ---
-ticket_id: CITSD-575
-title: ARD304 - [Mobile Responsive] Data from the ‘Field’, ‘Value’, and ‘Comment’
-  columns should not push into the other columns, causing text to overlap, or push
-  outside the table altogether.
-status: Backlog
-created: '2023-11-08'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-575
-project: citsd
+# Dataview Properties
+ticket_id: "CITSD-575"
+title: "ARD304 - [Mobile Responsive] Data from the ‘Field’, ‘Value’, and ‘Comment’ columns should not push into the other columns, causing text to overlap, or push outside the table altogether."
+status: "Backlog"
+original_status: ""
+created: "2023-11-08"
+scraped_at: ""
+ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-575"
+assignee: ""
+reporter: ""
+project: "citsd"
+request_type: ""
+business_impact: ""
+business_value: ""
+he_project: ""
 tags:
-- jira
-- ticket
-- backlog
-- citsd
-updated: 2025-11-16T07:20
-last_synced: 2025-11-16T07:20
+  - jira
+  - ticket
+  - backlog
+  - citsd
+updated: "2025-11-16T10:10"
+last_synced: "2025-11-16T10:10"
 ---
 
 
