@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-257
-title: "ALM 81 TEST UAT - User Action: Set program capacity number results in error when selecting company"
+title: 'ALM 81 TEST UAT - User Action: Set program capacity number results in error
+  when selecting company'
 status: Resolved
-original_status: ""
 created: 2023-04-11
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-257
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

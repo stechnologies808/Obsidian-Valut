@@ -2,16 +2,9 @@
 ticket_id: CITSD-488
 title: ARD194 -	Unable to save validation submission workflow with partial information. CIT requires certain fields to be filled out.
 status: Resolved
-original_status: ""
 created: 2023-09-22
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-488
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

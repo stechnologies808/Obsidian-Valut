@@ -2,20 +2,14 @@
 ticket_id: HESD-152
 title: Archie CID application should be accessible to the CID clerks
 status: Closed
-original_status: ""
 created: 2022-10-12
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-152
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

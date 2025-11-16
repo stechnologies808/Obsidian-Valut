@@ -3,18 +3,9 @@
 ticket_id: "HESD-4"
 title: ""Data Out of Date" pop up appearing for some CIT-workflow users and they cannot move forward"
 status: "Closed"
-original_status: ""
 created: "2022-03-17"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-4"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

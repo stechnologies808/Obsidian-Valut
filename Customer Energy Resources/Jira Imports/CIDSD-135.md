@@ -2,20 +2,14 @@
 ticket_id: CIDSD-135
 title: Make changes to the Residential and Commercial Acknowledgement Letters
 status: Closed
-original_status: ""
 created: 2022-04-15
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-135
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
+- jira
+- ticket
+- cidsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

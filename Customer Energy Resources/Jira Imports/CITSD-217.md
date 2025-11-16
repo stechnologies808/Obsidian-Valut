@@ -3,18 +3,9 @@
 ticket_id: "CITSD-217"
 title: "ALM-44 TEST UAT: CIT Submitted Application "Page not found" when attempting to Withdraw an application"
 status: "Resolved"
-original_status: ""
 created: "2023-03-24"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-217"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

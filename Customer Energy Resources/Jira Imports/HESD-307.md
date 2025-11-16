@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-307
-title: Cannot submit a withdrawal form for P-NMP-20-289746. Able to click the link and Attach Document but receive the attached error message after clicking upload.
+title: Cannot submit a withdrawal form for P-NMP-20-289746. Able to click the link
+  and Attach Document but receive the attached error message after clicking upload.
 status: Closed
-original_status: ""
 created: 2024-01-22
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-307
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

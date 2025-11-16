@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-547
-title: "ARD280 - AMEND SDP CR: SAP Account Holder, AMI, and Rate fields should be hidden"
+title: 'ARD280 - AMEND SDP CR: SAP Account Holder, AMI, and Rate fields should be
+  hidden'
 status: Closed
-original_status: ""
 created: 2023-10-12
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-547
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

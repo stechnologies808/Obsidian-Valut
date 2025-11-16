@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-609
-title: "ARD351 - [DD Update] PVR: Onsite Compliance Inspection - Photo/Drawings section heading missing"
+title: 'ARD351 - [DD Update] PVR: Onsite Compliance Inspection - Photo/Drawings section
+  heading missing'
 status: Backlog
-original_status: ""
-created: 2023-12-28
-scraped_at: ""
+created: '2023-12-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-609
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

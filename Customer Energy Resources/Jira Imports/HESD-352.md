@@ -3,18 +3,9 @@
 ticket_id: "HESD-352"
 title: "ARD618 - Post- Go Live: "Project Amended" field in Project Summary page displays incorrect information"
 status: "Closed"
-original_status: ""
 created: "2024-04-11"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-352"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

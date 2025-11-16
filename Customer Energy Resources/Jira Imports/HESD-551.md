@@ -2,20 +2,14 @@
 ticket_id: HESD-551
 title: INC0315994 - CID App 950224  Data Correction Sherman Mak
 status: Closed
-original_status: ""
 created: 2025-02-26
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-551
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

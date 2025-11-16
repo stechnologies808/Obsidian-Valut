@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-390
-title: "ARD 694: Intraday Calculations not accurately displaying totals"
+title: 'ARD 694: Intraday Calculations not accurately displaying totals'
 status: Resolved
-original_status: ""
 created: 2024-05-20
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-390
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

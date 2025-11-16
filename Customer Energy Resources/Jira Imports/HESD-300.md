@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-300
-title: "External cuatomers not able to upload documents "
+title: 'External cuatomers not able to upload documents '
 status: Closed
-original_status: ""
 created: 2024-01-19
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-300
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

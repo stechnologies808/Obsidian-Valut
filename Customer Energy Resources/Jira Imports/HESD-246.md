@@ -2,20 +2,14 @@
 ticket_id: HESD-246
 title: Updated meter number in project summary
 status: Resolved
-original_status: ""
 created: 2023-07-11
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-246
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

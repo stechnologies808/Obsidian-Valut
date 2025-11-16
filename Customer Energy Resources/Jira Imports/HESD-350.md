@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-350
-title: "ARD616 - Post-Go Live: Old notes appearing after new note is entered"
+title: 'ARD616 - Post-Go Live: Old notes appearing after new note is entered'
 status: Closed
-original_status: ""
 created: 2024-04-08
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-350
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

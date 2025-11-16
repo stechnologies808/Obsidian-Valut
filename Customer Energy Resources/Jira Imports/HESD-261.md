@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-261
-title: "608305: Pop up error when trying to move application from ITR to SR"
+title: '608305: Pop up error when trying to move application from ITR to SR'
 status: Closed
-original_status: ""
 created: 2023-08-29
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-261
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

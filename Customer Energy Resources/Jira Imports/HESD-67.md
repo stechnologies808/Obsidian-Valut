@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-67
-title: "Contractor Company Duplicate: ID 102760"
+title: 'Contractor Company Duplicate: ID 102760'
 status: Closed
-original_status: ""
 created: 2022-05-05
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-67
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

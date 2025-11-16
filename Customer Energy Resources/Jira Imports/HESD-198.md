@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-198
-title: "559323: Completeness Review Link returns user back to Landing Page"
+title: '559323: Completeness Review Link returns user back to Landing Page'
 status: Resolved
-original_status: ""
 created: 2023-02-04
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-198
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -2,22 +2,16 @@
 ticket_id: CITSD-625
 title: ARD379 - SR minor defect - DPS - manually changed SR information does not save
 status: Backlog
-original_status: ""
-created: 2024-01-08
-scraped_at: ""
+created: '2024-01-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-625
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

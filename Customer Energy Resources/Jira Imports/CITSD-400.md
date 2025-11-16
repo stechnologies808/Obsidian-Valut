@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-400
-title: "ARD112 - CR: System Component Three Line Drawing listed twice"
+title: 'ARD112 - CR: System Component Three Line Drawing listed twice'
 status: Resolved
-original_status: ""
 created: 2023-07-28
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-400
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

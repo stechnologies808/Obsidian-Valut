@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-608
-title: "ARD349 - [DD Update] PVR: Scheduled Dispatch settings field visible when it is not a SDP app"
+title: 'ARD349 - [DD Update] PVR: Scheduled Dispatch settings field visible when it
+  is not a SDP app'
 status: Backlog
-original_status: ""
-created: 2023-12-27
-scraped_at: ""
+created: '2023-12-27'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-608
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

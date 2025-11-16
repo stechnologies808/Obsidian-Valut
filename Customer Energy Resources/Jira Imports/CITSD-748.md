@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-748
-title: ARD383 - If multiple entries have the same last name, the Approve Contractors Admin action can only access one of them.
+title: ARD383 - If multiple entries have the same last name, the Approve Contractors
+  Admin action can only access one of them.
 status: Closed
-original_status: ""
 created: 2024-02-15
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-748
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-320
-title: ALM 142 TEST UAT - Account Details Page - Move 'Save Mailing Address' button inside the 'Address Information' section box
+title: ALM 142 TEST UAT - Account Details Page - Move 'Save Mailing Address' button
+  inside the 'Address Information' section box
 status: Closed
-original_status: ""
 created: 2023-05-10
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-320
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

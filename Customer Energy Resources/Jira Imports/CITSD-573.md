@@ -3,18 +3,9 @@
 ticket_id: "CITSD-573"
 title: "ARD300 - Onsite Compliance Inspection section "Animals" should only be visible if field "ProjectValidationOtherAnimals_fld" is yes"
 status: "Resolved"
-original_status: ""
 created: "2023-11-06"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-573"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

@@ -3,18 +3,9 @@
 ticket_id: "HESD-349"
 title: "ARD614 - Post-Go Live: Revision review for AMND apps missing editable "Amend Total System Capacity Change" field"
 status: "Resolved"
-original_status: ""
 created: "2024-04-08"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-349"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

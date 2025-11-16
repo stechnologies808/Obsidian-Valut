@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-779
-title: "ARD357 - [DD update] Project Validation: Electrical Drawings section heading incorrect"
+title: 'ARD357 - [DD update] Project Validation: Electrical Drawings section heading
+  incorrect'
 status: Backlog
-original_status: ""
-created: 2024-04-17
-scraped_at: ""
+created: '2024-04-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-779
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

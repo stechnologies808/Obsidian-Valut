@@ -2,20 +2,14 @@
 ticket_id: CITSD-653
 title: ARD423 - CID Modify Service missing top border
 status: Resolved
-original_status: ""
 created: 2024-01-18
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-653
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

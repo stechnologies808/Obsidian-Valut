@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-155
-title: "460699: CR failed, no email sent, moved forward to ITR"
+title: '460699: CR failed, no email sent, moved forward to ITR'
 status: Closed
-original_status: ""
 created: 2022-10-20
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-155
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

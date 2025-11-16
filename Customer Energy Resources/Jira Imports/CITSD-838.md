@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-838
-title: "DFCT0011253: STAGE Regression - Landing Page Program Capacity"
+title: 'DFCT0011253: STAGE Regression - Landing Page Program Capacity'
 status: Resolved
-original_status: ""
 created: 2025-03-26
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-838
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

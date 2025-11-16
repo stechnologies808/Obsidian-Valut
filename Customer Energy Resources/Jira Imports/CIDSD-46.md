@@ -2,20 +2,14 @@
 ticket_id: CIDSD-46
 title: Scrolling window data appears above Menu Tabs
 status: Closed
-original_status: ""
 created: 2021-12-16
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-46
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
+- jira
+- ticket
+- cidsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

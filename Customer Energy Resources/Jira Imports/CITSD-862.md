@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-862
-title: "ISU0010079: UAT Stopped; STAGE has mock meter response."
+title: 'ISU0010079: UAT Stopped; STAGE has mock meter response.'
 status: Closed
-original_status: ""
 created: 2025-06-13
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-862
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

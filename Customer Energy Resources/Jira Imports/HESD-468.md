@@ -2,20 +2,14 @@
 ticket_id: HESD-468
 title: Revised Electrical Drawings i-info text PROMOTE DOWN
 status: Resolved
-original_status: ""
 created: 2024-07-27
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-468
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-336
-title: ARD013 - Battery Bonus Committed Capacity is a required field despite the amendment for Battery Bonus not being selected
+title: ARD013 - Battery Bonus Committed Capacity is a required field despite the amendment
+  for Battery Bonus not being selected
 status: Resolved
-original_status: ""
 created: 2023-06-17
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-336
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

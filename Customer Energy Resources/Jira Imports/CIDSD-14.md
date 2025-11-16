@@ -1,21 +1,16 @@
 ---
 ticket_id: CIDSD-14
-title: A non-System Administrator internal user is able to make changes to an Archived application.
+title: A non-System Administrator internal user is able to make changes to an Archived
+  application.
 status: Closed
-original_status: ""
 created: 2021-10-07
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-14
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
+- jira
+- ticket
+- cidsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

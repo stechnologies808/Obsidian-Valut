@@ -2,20 +2,14 @@
 ticket_id: CITSD-626
 title: ARD394 - Amendment of 0kW went into holding queue when it should not have
 status: Resolved
-original_status: ""
 created: 2024-01-08
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-626
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

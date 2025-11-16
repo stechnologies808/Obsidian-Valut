@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-888
-title: "DFCT0011464 Q4 Regression: Font and formatting of CIT agreement generated incorrectly"
+title: 'DFCT0011464 Q4 Regression: Font and formatting of CIT agreement generated
+  incorrectly'
 status: In Test
-original_status: ""
-created: 2025-11-12
-scraped_at: ""
+created: '2025-11-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-888
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - in-test
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- citsd
+- in-test
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

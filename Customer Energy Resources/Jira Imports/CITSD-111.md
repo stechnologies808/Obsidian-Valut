@@ -3,18 +3,9 @@
 ticket_id: "CITSD-111"
 title: ""Scheduled Dispatch Settings" document field does not appear on the review Validation chevron"
 status: "Resolved"
-original_status: ""
 created: "2022-10-20"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-111"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

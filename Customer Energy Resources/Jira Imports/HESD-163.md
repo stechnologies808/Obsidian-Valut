@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-163
-title: "500094: External contractor gets error message pop up on System Component page"
+title: '500094: External contractor gets error message pop up on System Component
+  page'
 status: Closed
-original_status: ""
 created: 2022-11-18
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-163
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

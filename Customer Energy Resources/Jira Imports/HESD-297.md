@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-297
-title: "Reporting: Error message when trying to export csv data: Error exporting the applications. Please try again."
+title: 'Reporting: Error message when trying to export csv data: Error exporting the
+  applications. Please try again.'
 status: Closed
-original_status: ""
 created: 2024-01-16
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-297
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

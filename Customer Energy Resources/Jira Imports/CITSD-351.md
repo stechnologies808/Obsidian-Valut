@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-351
-title: ARD053 - When Completeness Review is rejected, CIT navigates directly to the same project Apply for Interconnection Workflow, Project Location chevron.
+title: ARD053 - When Completeness Review is rejected, CIT navigates directly to the
+  same project Apply for Interconnection Workflow, Project Location chevron.
 status: Resolved
-original_status: ""
 created: 2023-06-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-351
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

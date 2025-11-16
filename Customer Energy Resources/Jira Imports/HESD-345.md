@@ -3,18 +3,9 @@
 ticket_id: "HESD-345"
 title: "ARD610 - Customers/Contractors are unable to move past the "Start New Electrical Service Application" button."
 status: "Resolved"
-original_status: ""
 created: "2024-04-08"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-345"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

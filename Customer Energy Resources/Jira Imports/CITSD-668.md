@@ -3,18 +3,9 @@
 ticket_id: "CITSD-668"
 title: "ARD474 - Critical Error when passing "Start Project Validation" activity"
 status: "Resolved"
-original_status: ""
 created: "2024-01-24"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-668"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

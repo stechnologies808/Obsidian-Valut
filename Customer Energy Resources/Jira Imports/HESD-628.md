@@ -1,23 +1,17 @@
 ---
 ticket_id: HESD-628
-title: "DMND0001914 SP-059: Fix BB Start Time"
+title: 'DMND0001914 SP-059: Fix BB Start Time'
 status: Under Review
-original_status: ""
-created: 2025-09-12
-scraped_at: ""
+created: '2025-09-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-628
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - under-review
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- under-review
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

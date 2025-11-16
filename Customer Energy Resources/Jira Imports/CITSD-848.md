@@ -3,18 +3,9 @@
 ticket_id: "CITSD-848"
 title: "DFCT0011338: External list name "byod_1_time_slot_capacity" not updated to "byod_plus...""
 status: "Resolved"
-original_status: ""
 created: "2025-05-23"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-848"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

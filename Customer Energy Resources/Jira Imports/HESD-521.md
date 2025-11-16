@@ -2,22 +2,16 @@
 ticket_id: HESD-521
 title: List of MECO Portal Applications with Circuit Name to be Updated
 status: Queued
-original_status: ""
-created: 2024-10-24
-scraped_at: ""
+created: '2024-10-24'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-521
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - queued
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- queued
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

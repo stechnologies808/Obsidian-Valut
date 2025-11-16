@@ -3,18 +3,9 @@
 ticket_id: "HESD-45"
 title: ""Not Contains" Queue View Filter Inoperable"
 status: "Resolved"
-original_status: ""
 created: "2022-04-01"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-45"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

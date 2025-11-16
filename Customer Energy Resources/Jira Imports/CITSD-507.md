@@ -3,18 +3,9 @@
 ticket_id: "CITSD-507"
 title: "Email template promote down "Revision submitted""
 status: "Resolved"
-original_status: ""
 created: "2023-09-29"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-507"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

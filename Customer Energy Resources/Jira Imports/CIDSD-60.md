@@ -1,21 +1,16 @@
 ---
 ticket_id: CIDSD-60
-title: Additional Field to support 6A planner's name without the (xxx) to support email template
+title: Additional Field to support 6A planner's name without the (xxx) to support
+  email template
 status: Resolved
-original_status: ""
 created: 2022-01-03
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-60
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
+- jira
+- ticket
+- cidsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

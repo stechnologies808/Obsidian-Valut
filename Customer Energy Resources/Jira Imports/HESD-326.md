@@ -1,23 +1,18 @@
 ---
 ticket_id: HESD-326
-title: CIT/CID platform still uses old email address during application process, even after customer successfully changes their email address
+title: CIT/CID platform still uses old email address during application process, even
+  after customer successfully changes their email address
 status: Deferred
-original_status: ""
-created: 2024-04-02
-scraped_at: ""
+created: '2024-04-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-326
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - deferred
-  - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- deferred
+- hesd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

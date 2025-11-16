@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-406
-title: "ARD704:Post-Go Live: Reported from Contractor - Application stuck after submitting for review"
+title: 'ARD704:Post-Go Live: Reported from Contractor - Application stuck after submitting
+  for review'
 status: Closed
-original_status: ""
 created: 2024-05-29
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-406
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

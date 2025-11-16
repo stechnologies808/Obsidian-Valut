@@ -2,20 +2,14 @@
 ticket_id: CITSD-845
 title: DFCT0011337:Remaining BYOD1 applications after transition
 status: Closed
-original_status: ""
 created: 2025-05-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-845
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

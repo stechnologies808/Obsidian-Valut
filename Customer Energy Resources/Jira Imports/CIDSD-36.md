@@ -1,21 +1,15 @@
 ---
 ticket_id: CIDSD-36
-title: "STAGE: Signup/Register not working, dumping entire login ids."
+title: 'STAGE: Signup/Register not working, dumping entire login ids.'
 status: Closed
-original_status: ""
 created: 2021-12-08
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-36
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
+- jira
+- ticket
+- cidsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

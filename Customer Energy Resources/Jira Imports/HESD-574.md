@@ -1,23 +1,17 @@
 ---
 ticket_id: HESD-574
-title: "DMND0001871: Pending Amendments to Transitioned Applications"
+title: 'DMND0001871: Pending Amendments to Transitioned Applications'
 status: Planned
-original_status: ""
-created: 2025-04-16
-scraped_at: ""
+created: '2025-04-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-574
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - planned
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- planned
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

@@ -3,18 +3,9 @@
 ticket_id: "HESD-545"
 title: "INC0315215: CIT Glitch. Contractor is receiving an "Internal Server Error" message when trying to enter information in the project system components. "
 status: "Closed"
-original_status: ""
 created: "2025-02-11"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-545"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

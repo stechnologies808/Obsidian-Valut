@@ -3,18 +3,9 @@
 ticket_id: "CITSD-768"
 title: "PVRIntSigSummary_enum should not be editable, "Disabled Always""
 status: "Closed"
-original_status: ""
 created: "2024-03-21"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-768"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

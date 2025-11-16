@@ -2,20 +2,14 @@
 ticket_id: CITSD-239
 title: ALM 61 TEST UAT - Menu nav bar layout broken after using in 200% zoom
 status: Closed
-original_status: ""
 created: 2023-04-04
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-239
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

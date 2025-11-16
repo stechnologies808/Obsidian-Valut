@@ -3,18 +3,9 @@
 ticket_id: "HESD-21"
 title: "Fix the "Action For" to determine "who" has the action (customer or company)"
 status: "Resolved"
-original_status: ""
 created: "2022-03-14"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-21"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

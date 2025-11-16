@@ -3,18 +3,9 @@
 ticket_id: "HESD-362"
 title: "ARD632 - "Return to Your Projects" does not work"
 status: "Resolved"
-original_status: ""
 created: "2024-04-22"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-362"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

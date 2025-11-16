@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-526
-title: "INC0310225:  System Owner still appearing after approved revision to remove system owner"
+title: 'INC0310225:  System Owner still appearing after approved revision to remove
+  system owner'
 status: Closed
-original_status: ""
 created: 2024-10-31
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-526
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

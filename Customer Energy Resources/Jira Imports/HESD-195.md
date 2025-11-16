@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-195
-title: 558884 Application passed CR but CR Fail email sent with no attachment, now in CAR but should be ITR
+title: 558884 Application passed CR but CR Fail email sent with no attachment, now
+  in CAR but should be ITR
 status: Resolved
-original_status: ""
 created: 2023-02-02
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-195
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

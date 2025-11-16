@@ -3,18 +3,9 @@
 ticket_id: "CIDSD-106"
 title: "Make "Loading Type" and "Metering Code" fields on 6A L6/L4 Creations page optional"
 status: "Resolved"
-original_status: ""
 created: "2022-02-28"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-106"
-assignee: ""
-reporter: ""
 project: "cidsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - cidsd

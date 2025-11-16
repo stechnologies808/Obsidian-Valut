@@ -2,20 +2,14 @@
 ticket_id: CITSD-133
 title: Revision Submitted email to customer does not contain Revision Summary Document
 status: Closed
-original_status: ""
 created: 2022-11-22
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-133
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

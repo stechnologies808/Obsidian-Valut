@@ -1,23 +1,18 @@
 ---
 ticket_id: HESD-558
-title: Sarah Change Value not reflecting change in Project Details page or the generated agreement
+title: Sarah Change Value not reflecting change in Project Details page or the generated
+  agreement
 status: Engineering Review
-original_status: ""
-created: 2025-03-20
-scraped_at: ""
+created: '2025-03-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-558
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - engineering-review
-  - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- engineering-review
+- hesd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

@@ -3,18 +3,9 @@
 ticket_id: "HESD-658"
 title: "INC0329816: Unable to get to Pending Execution page for H-SDE-24-863219. Process Phase is currently Project Verification. Compliance Inspection Results is "yes" but still receiving error message. "
 status: "Waiting for customer"
-original_status: ""
 created: "2025-11-06"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-658"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

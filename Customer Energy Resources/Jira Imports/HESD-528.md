@@ -1,21 +1,17 @@
 ---
 ticket_id: HESD-528
-title: "INC0289840: CIT incorrectly populating 100kW for a 10kW inverter:  Project ID M-NMP-23-695556; SE10kUS w/Export Meter populates 100.0 Inverter AC Output Rating (kW) when trying to fill out equipment specs on revision. Please modify if can."
+title: 'INC0289840: CIT incorrectly populating 100kW for a 10kW inverter:  Project
+  ID M-NMP-23-695556; SE10kUS w/Export Meter populates 100.0 Inverter AC Output Rating
+  (kW) when trying to fill out equipment specs on revision. Please modify if can.'
 status: Closed
-original_status: ""
 created: 2024-11-04
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-528
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

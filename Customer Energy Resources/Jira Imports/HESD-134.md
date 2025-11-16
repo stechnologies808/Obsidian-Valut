@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-134
-title: AMEND applications sending out wrong template; using existing program type instead of AMEND
+title: AMEND applications sending out wrong template; using existing program type
+  instead of AMEND
 status: Resolved
-original_status: ""
 created: 2022-08-18
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-134
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

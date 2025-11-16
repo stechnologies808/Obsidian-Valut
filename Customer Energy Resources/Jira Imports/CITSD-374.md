@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-374
-title: ARD086 - AC Disconnect spec sheet required, when ACD is selected from dropdown list // PV panel spec sheet not required when PV Panel not on list selected
+title: ARD086 - AC Disconnect spec sheet required, when ACD is selected from dropdown
+  list // PV panel spec sheet not required when PV Panel not on list selected
 status: Resolved
-original_status: ""
 created: 2023-06-29
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-374
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

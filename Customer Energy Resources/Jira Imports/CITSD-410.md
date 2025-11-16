@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-410
-title: "ARD049 - Enhancement/Function Clarification: Cannot do address searches that include unit numbers, with attempted search formats."
+title: 'ARD049 - Enhancement/Function Clarification: Cannot do address searches that
+  include unit numbers, with attempted search formats.'
 status: Backlog
-original_status: ""
-created: 2023-08-09
-scraped_at: ""
+created: '2023-08-09'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-410
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

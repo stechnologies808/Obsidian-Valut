@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-174
-title: "X-TMP-22-54262: CIT unable to assign to Island/Company"
+title: 'X-TMP-22-54262: CIT unable to assign to Island/Company'
 status: Closed
-original_status: ""
 created: 2023-01-05
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-174
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

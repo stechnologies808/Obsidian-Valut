@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-404
-title: "ARD116 - CR attachment: Section Header says 'Hidden' for 'Energy Storage Operation Type'"
+title: 'ARD116 - CR attachment: Section Header says ''Hidden'' for ''Energy Storage
+  Operation Type'''
 status: Resolved
-original_status: ""
 created: 2023-07-31
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-404
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

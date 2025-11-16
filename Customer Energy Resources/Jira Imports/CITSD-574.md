@@ -2,16 +2,9 @@
 ticket_id: CITSD-574
 title: ARD303 - 	[Mobile Responsive] Completeness Review Inside data tables should not push outside the Reference Header box.
 status: Resolved
-original_status: ""
 created: 2023-11-08
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-574
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

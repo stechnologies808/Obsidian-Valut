@@ -2,20 +2,14 @@
 ticket_id: CIDSD-93
 title: Route the user to the Project Summary page after 6A L4/L6 creation
 status: Resolved
-original_status: ""
 created: 2022-02-10
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-93
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
+- jira
+- ticket
+- cidsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

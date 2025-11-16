@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-636
-title: ARD398 - CSP is blocking Google Analytics scripts resulting in no analytics data
+title: ARD398 - CSP is blocking Google Analytics scripts resulting in no analytics
+  data
 status: Resolved
-original_status: ""
 created: 2024-01-10
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-636
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

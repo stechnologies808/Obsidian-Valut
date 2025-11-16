@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-594
-title: "INC0321574: CIT PROD - Please generate Agreement document for P-AMD-24-851238. Please expedite."
+title: 'INC0321574: CIT PROD - Please generate Agreement document for P-AMD-24-851238.
+  Please expedite.'
 status: Closed
-original_status: ""
 created: 2025-06-13
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-594
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

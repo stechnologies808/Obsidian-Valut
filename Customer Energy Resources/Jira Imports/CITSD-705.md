@@ -3,18 +3,9 @@
 ticket_id: "CITSD-705"
 title: "ARD535 - Execution - Error message appeared upon executing a project "ERROR GETTING PRESETS: REQUEST FAILED WITH STATUS CODE 502”."
 status: "Closed"
-original_status: ""
 created: "2024-02-02"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-705"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

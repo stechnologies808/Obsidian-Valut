@@ -3,18 +3,9 @@
 ticket_id: "HESD-382"
 title: "ARD679 - Unable to submit Change of Contractor - getting "Internal Server Error""
 status: "Closed"
-original_status: ""
 created: "2024-05-14"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-382"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

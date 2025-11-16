@@ -3,18 +3,9 @@
 ticket_id: "CITSD-72"
 title: ""Alter Status" User Action not working properly"
 status: "Closed"
-original_status: ""
 created: "2022-03-07"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-72"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

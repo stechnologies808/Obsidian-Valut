@@ -3,18 +3,9 @@
 ticket_id: "CITSD-698"
 title: "ARD515 - In CR project summary box's "Storage:" field says no storage, project has storage"
 status: "Resolved"
-original_status: ""
 created: "2024-02-01"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-698"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

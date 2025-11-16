@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-834
-title: "DFCT0011247: Contractor company name was not visible on validation review or subsequent processing screens."
+title: 'DFCT0011247: Contractor company name was not visible on validation review
+  or subsequent processing screens.'
 status: Backlog
-original_status: ""
-created: 2025-03-26
-scraped_at: ""
+created: '2025-03-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-834
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

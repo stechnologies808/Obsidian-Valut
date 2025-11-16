@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-135
-title: "reCAPTCHA error for site owner: Invalid domain for site key"
+title: 'reCAPTCHA error for site owner: Invalid domain for site key'
 status: Closed
-original_status: ""
 created: 2022-11-22
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-135
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

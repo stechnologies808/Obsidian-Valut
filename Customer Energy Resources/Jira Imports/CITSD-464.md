@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-464
-title: ARD179 - LVM report defects - creation of applications deletes/overwrites existing records on node/circuit
+title: ARD179 - LVM report defects - creation of applications deletes/overwrites existing
+  records on node/circuit
 status: Resolved
-original_status: ""
 created: 2023-09-18
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-464
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -2,20 +2,14 @@
 ticket_id: CITSD-786
 title: ARD641 - No payload for BI80 and BI82
 status: Closed
-original_status: ""
 created: 2024-04-25
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-786
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

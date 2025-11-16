@@ -2,20 +2,14 @@
 ticket_id: CITSD-422
 title: ARD129 - ITR HELCO/MECO aggregate KW on circuit field not autopopulated
 status: Closed
-original_status: ""
 created: 2023-08-16
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-422
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

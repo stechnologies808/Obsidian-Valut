@@ -2,22 +2,16 @@
 ticket_id: HESD-510
 title: Requirements for S-025
 status: Planned
-original_status: ""
-created: 2024-10-11
-scraped_at: ""
+created: '2024-10-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-510
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - planned
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- planned
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

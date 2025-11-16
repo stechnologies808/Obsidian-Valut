@@ -3,18 +3,9 @@
 ticket_id: "HESD-73"
 title: "Environment - TEST: Regression Testing External Contractor Queue View Filter by "Responsible Party""
 status: "Closed"
-original_status: ""
 created: "2022-05-10"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-73"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

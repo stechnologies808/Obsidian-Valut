@@ -2,20 +2,14 @@
 ticket_id: HESD-288
 title: Attempting to process application P-GSP-22-496024, Pending Execution stage
 status: Closed
-original_status: ""
 created: 2023-12-13
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-288
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

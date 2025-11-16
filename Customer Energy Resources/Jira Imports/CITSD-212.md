@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-212
-title: "ALM-39 TEST UAT: System Admin resend confirmation email action results in pop up error"
+title: 'ALM-39 TEST UAT: System Admin resend confirmation email action results in
+  pop up error'
 status: Resolved
-original_status: ""
 created: 2023-03-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-212
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

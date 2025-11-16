@@ -3,18 +3,9 @@
 ticket_id: "CITSD-655"
 title: "ARD402 - Review Project Validation: "Project Validation Insurance" listed in wrong order and should be "Project Validation Certificate of Insurance""
 status: "Resolved"
-original_status: ""
 created: "2024-01-18"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-655"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

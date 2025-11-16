@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-885
-title: "DFCT0011457: Q4 Regression: Contractor company name disappears from application with processing."
+title: 'DFCT0011457: Q4 Regression: Contractor company name disappears from application
+  with processing.'
 status: Queued
-original_status: ""
-created: 2025-11-11
-scraped_at: ""
+created: '2025-11-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-885
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - queued
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- citsd
+- queued
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

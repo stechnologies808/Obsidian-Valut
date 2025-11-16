@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-233
-title: The unflagged comments document generated 02/15/23 was not included in the Conditional Approval notice
+title: The unflagged comments document generated 02/15/23 was not included in the
+  Conditional Approval notice
 status: Closed
-original_status: ""
 created: 2023-05-06
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-233
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

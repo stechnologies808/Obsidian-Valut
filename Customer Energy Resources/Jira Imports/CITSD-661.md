@@ -2,20 +2,14 @@
 ticket_id: CITSD-661
 title: ARD450 - Unable to access the External Lists page
 status: Resolved
-original_status: ""
 created: 2024-01-19
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-661
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

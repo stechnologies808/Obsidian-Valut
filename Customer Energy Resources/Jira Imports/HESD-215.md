@@ -3,18 +3,9 @@
 ticket_id: "HESD-215"
 title: "Additional Information & Drawings chevron information when revised to "No Change""
 status: "Closed"
-original_status: ""
 created: "2022-11-22"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-215"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

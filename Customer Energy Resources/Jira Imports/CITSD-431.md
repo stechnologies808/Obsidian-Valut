@@ -3,18 +3,9 @@
 ticket_id: "CITSD-431"
 title: "ARD135 - Entering a "/" in notes will not display in Notes tab in an application."
 status: "Resolved"
-original_status: ""
 created: "2023-08-23"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-431"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

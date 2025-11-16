@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-33
-title: Project Verification does not appear for applications that start as AMEND but are revised to SDP
+title: Project Verification does not appear for applications that start as AMEND but
+  are revised to SDP
 status: Resolved
-original_status: ""
 created: 2022-02-12
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-33
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

@@ -1,21 +1,16 @@
 ---
 ticket_id: CIDSD-74
-title: "Stage Env - Registered Customer and Stakeholder do not see projects in Queue View "
+title: 'Stage Env - Registered Customer and Stakeholder do not see projects in Queue
+  View '
 status: Resolved
-original_status: ""
 created: 2022-01-20
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-74
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
+- jira
+- ticket
+- cidsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-641
-title: "INC0327116: Contractor is unable to submit validation for P-AMD-25-971755"
+title: 'INC0327116: Contractor is unable to submit validation for P-AMD-25-971755'
 status: Resolved
-original_status: ""
 created: 2025-09-27
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-641
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

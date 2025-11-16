@@ -1,23 +1,17 @@
 ---
 ticket_id: HESD-441
-title: "ARD764 - Enhancement: Transition Execution Status & IIQ Status Sync"
+title: 'ARD764 - Enhancement: Transition Execution Status & IIQ Status Sync'
 status: Waiting for Review
-original_status: ""
-created: 2024-07-02
-scraped_at: ""
+created: '2024-07-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-441
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - waiting-for-review
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- waiting-for-review
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

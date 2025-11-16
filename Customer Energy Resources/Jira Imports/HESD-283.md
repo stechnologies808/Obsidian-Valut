@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-283
-title: 395671 Contractor is having issues accessing company projects. When searching for applications, gets a blank search result
+title: 395671 Contractor is having issues accessing company projects. When searching
+  for applications, gets a blank search result
 status: Closed
-original_status: ""
 created: 2023-12-11
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-283
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

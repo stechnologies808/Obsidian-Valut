@@ -2,20 +2,14 @@
 ticket_id: CITSD-150
 title: ITR bypass does not appear in the Event History for automatic bypasses
 status: Resolved
-original_status: ""
 created: 2022-12-16
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-150
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

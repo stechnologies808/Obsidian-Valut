@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-193
-title: ALM-11 TEST UAT APP SUBMITTAL - Application Summary page does not indicate correct system information
+title: ALM-11 TEST UAT APP SUBMITTAL - Application Summary page does not indicate
+  correct system information
 status: Resolved
-original_status: ""
 created: 2023-03-17
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-193
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

@@ -1,23 +1,18 @@
 ---
 ticket_id: HESD-415
-title: "ARD731 - Post Go-Live: Error message when trying to open meter photo in Completeness Review"
+title: 'ARD731 - Post Go-Live: Error message when trying to open meter photo in Completeness
+  Review'
 status: Triaged (Backlog)
-original_status: ""
-created: 2024-06-06
-scraped_at: ""
+created: '2024-06-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-415
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - triaged-(backlog)
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- triaged-(backlog)
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-353
-title: "ARD619 - Post-Go Live: Missing Removed Equipment details in Completeness Review"
+title: 'ARD619 - Post-Go Live: Missing Removed Equipment details in Completeness Review'
 status: Closed
-original_status: ""
 created: 2024-04-11
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-353
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -3,18 +3,9 @@
 ticket_id: "CITSD-330"
 title: "ARD010 - Contact Information progress button is "Submit" instead of "Save and Continue""
 status: "Closed"
-original_status: ""
 created: "2023-06-16"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-330"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

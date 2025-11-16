@@ -1,23 +1,17 @@
 ---
 ticket_id: HESD-635
-title: "DMND0001588: Email does not include the Application Summary Document"
+title: 'DMND0001588: Email does not include the Application Summary Document'
 status: Won't Do
-original_status: ""
-created: 2025-09-19
-scraped_at: ""
+created: '2025-09-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-635
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - won't-do
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- won't-do
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

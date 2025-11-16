@@ -2,22 +2,16 @@
 ticket_id: CITSD-229
 title: ALM052 - [UI Styling] Button Colors
 status: Backlog
-original_status: ""
-created: 2023-03-29
-scraped_at: ""
+created: '2023-03-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-229
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

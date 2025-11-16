@@ -3,18 +3,9 @@
 ticket_id: "HESD-317"
 title: "Unable to access the "Actions" page in CIT Prod. "
 status: "Closed"
-original_status: ""
 created: "2024-02-27"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-317"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

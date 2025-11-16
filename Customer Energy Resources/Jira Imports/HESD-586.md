@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-586
-title: "INC0319559: Customer Added as Stakeholder by Mistake"
+title: 'INC0319559: Customer Added as Stakeholder by Mistake'
 status: Closed
-original_status: ""
 created: 2025-05-07
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-586
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

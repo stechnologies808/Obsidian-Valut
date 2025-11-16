@@ -1,23 +1,18 @@
 ---
 ticket_id: HESD-584
-title: "INC0319320: CIT Defect: Dashboard is unable to filter IIQ status by TW despite it being a valid IIQ status."
+title: 'INC0319320: CIT Defect: Dashboard is unable to filter IIQ status by TW despite
+  it being a valid IIQ status.'
 status: Queued
-original_status: ""
-created: 2025-05-03
-scraped_at: ""
+created: '2025-05-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-584
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - queued
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- queued
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

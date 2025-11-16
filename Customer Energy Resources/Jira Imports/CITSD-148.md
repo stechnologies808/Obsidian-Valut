@@ -3,18 +3,9 @@
 ticket_id: "CITSD-148"
 title: "Both "Yes" and "No" checkbox for W9 question in "System Type" can be marked at the same time"
 status: "Resolved"
-original_status: ""
 created: "2022-12-07"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-148"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

@@ -3,18 +3,9 @@
 ticket_id: "CITSD-553"
 title: "Unable to submit CR Confirmation page "Rule 'Post Completeness Circuit Calculation' failed"
 status: "Closed"
-original_status: ""
 created: "2023-10-30"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-553"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-96
-title: Please update DEV email template to reflect correction made in PROD, STAGE and TEST
+title: Please update DEV email template to reflect correction made in PROD, STAGE
+  and TEST
 status: Resolved
-original_status: ""
 created: 2022-06-13
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-96
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

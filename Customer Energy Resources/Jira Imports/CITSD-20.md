@@ -3,18 +3,9 @@
 ticket_id: "CITSD-20"
 title: ""Action For" during PV status"
 status: "Resolved"
-original_status: ""
 created: "2022-01-31"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-20"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

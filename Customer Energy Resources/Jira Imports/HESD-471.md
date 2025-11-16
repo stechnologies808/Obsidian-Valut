@@ -2,20 +2,14 @@
 ticket_id: HESD-471
 title: ARC801:Landing Page Reporting Zero Program Capacities
 status: Closed
-original_status: ""
 created: 2024-07-30
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-471
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

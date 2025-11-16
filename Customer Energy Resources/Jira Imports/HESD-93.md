@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-93
-title: Remove from Pending contractor Companies LarryÃ¢Â€Â™s Electric Service Nonascii character in company name
+title: Remove from Pending contractor Companies LarryÃ¢Â€Â™s Electric Service Nonascii
+  character in company name
 status: Resolved
-original_status: ""
 created: 2022-06-06
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-93
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

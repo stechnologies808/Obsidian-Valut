@@ -2,16 +2,9 @@
 ticket_id: CITSD-557
 title: ARD302 - 	BB Amend App stuck in HQ
 status: Closed
-original_status: ""
 created: 2023-11-03
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-557
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

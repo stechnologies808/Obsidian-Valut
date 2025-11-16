@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-611
-title: ARD360 - Liability Insurace sections visible in Last Chance & Review Project Validation when hidden in PV
+title: ARD360 - Liability Insurace sections visible in Last Chance & Review Project
+  Validation when hidden in PV
 status: Resolved
-original_status: ""
 created: 2024-01-02
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-611
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

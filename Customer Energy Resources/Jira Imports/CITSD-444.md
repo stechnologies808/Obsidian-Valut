@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-444
-title: "ARD162 - Reference Header: Text wrapping for Circuit"
+title: 'ARD162 - Reference Header: Text wrapping for Circuit'
 status: Closed
-original_status: ""
 created: 2023-09-09
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-444
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-795
-title: ARD683 - Transition - Negative testing - Contractor is able to edit fields for transitioned application and this should not be allowed.
+title: ARD683 - Transition - Negative testing - Contractor is able to edit fields
+  for transitioned application and this should not be allowed.
 status: Closed
-original_status: ""
 created: 2024-05-15
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-795
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

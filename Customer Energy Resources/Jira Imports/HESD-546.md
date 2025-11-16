@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-546
-title: "INC0311965: CIT PROD - P-AMD-23-696148 Locked and Unable to proceed after revision from SDP to non-SDP"
+title: 'INC0311965: CIT PROD - P-AMD-23-696148 Locked and Unable to proceed after
+  revision from SDP to non-SDP'
 status: Resolved
-original_status: ""
 created: 2025-02-11
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-546
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

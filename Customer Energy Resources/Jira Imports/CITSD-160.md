@@ -3,18 +3,9 @@
 ticket_id: "CITSD-160"
 title: "The value for field "Will the system be leased?" appears blank in Completeness Review."
 status: "Resolved"
-original_status: ""
 created: "2022-12-22"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-160"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-210
-title: ALM 30 UAT TEST > CID - Items from application not included in the Application Summary's Project Details
+title: ALM 30 UAT TEST > CID - Items from application not included in the Application
+  Summary's Project Details
 status: Closed
-original_status: ""
 created: 2023-03-22
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-210
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

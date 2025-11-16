@@ -2,20 +2,14 @@
 ticket_id: CITSD-292
 title: ALM 115 TEST - Dashboard Chart Titles
 status: Resolved
-original_status: ""
 created: 2023-04-19
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-292
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

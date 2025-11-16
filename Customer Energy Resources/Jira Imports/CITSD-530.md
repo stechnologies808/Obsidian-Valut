@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-530
-title: ARD238 - red highlight and help text for required field did not go away after valid field data entered
+title: ARD238 - red highlight and help text for required field did not go away after
+  valid field data entered
 status: Closed
-original_status: ""
 created: 2023-10-02
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-530
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

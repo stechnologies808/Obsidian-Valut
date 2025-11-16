@@ -3,18 +3,9 @@
 ticket_id: "HESD-466"
 title: "ARD795 - [AppStuck] Completeness Review: Processor receiving error message when moving application to CAR status Error Message "Error occurred during processing""
 status: "Closed"
-original_status: ""
 created: "2024-07-24"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-466"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

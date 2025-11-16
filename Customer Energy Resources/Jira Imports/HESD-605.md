@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-605
-title: "INC0323490: Commercial Account unable to access CID project"
+title: 'INC0323490: Commercial Account unable to access CID project'
 status: Resolved
-original_status: ""
 created: 2025-07-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-605
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

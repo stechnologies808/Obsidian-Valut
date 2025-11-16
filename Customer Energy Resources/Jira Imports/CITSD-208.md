@@ -2,20 +2,14 @@
 ticket_id: CITSD-208
 title: ALM 36 TEST UAT CID > Unable to go to Completeness Review
 status: Resolved
-original_status: ""
 created: 2023-03-22
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-208
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

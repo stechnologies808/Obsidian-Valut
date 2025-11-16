@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-279
-title: ALM 103 TEST - ITR Workflow > ITR Summary page > The substation LTC result always shows “pending” instead of pass/fail
+title: ALM 103 TEST - ITR Workflow > ITR Summary page > The substation LTC result
+  always shows “pending” instead of pass/fail
 status: Closed
-original_status: ""
 created: 2023-04-15
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-279
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

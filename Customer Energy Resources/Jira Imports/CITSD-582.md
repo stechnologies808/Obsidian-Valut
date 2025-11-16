@@ -2,16 +2,9 @@
 ticket_id: CITSD-582
 title: ARD319 - 	Revision submitted as Customer; logged in as HECOProcessor, No email and event History does not indicate Revision but Process phase is Revision
 status: Closed
-original_status: ""
 created: 2023-11-20
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-582
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

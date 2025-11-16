@@ -2,20 +2,14 @@
 ticket_id: CITSD-810
 title: ARD760 - Regression TF- Error with exporting from queue view
 status: Resolved
-original_status: ""
 created: 2024-06-28
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-810
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

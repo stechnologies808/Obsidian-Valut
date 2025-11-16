@@ -1,21 +1,15 @@
 ---
 ticket_id: CIDSD-62
-title: "Email Template: Emails not displaying zip code"
+title: 'Email Template: Emails not displaying zip code'
 status: Closed
-original_status: ""
 created: 2022-01-04
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-62
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - closed
+- jira
+- ticket
+- cidsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

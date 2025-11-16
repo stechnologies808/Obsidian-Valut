@@ -1,22 +1,17 @@
 ---
 ticket_id: HESD-455
-title: "ARD775 - Post-GoLive: [HOTFIX] Contractor getting error message when submitting validation"
+title: 'ARD775 - Post-GoLive: [HOTFIX] Contractor getting error message when submitting
+  validation'
 status: Closed
-original_status: ""
 created: 2024-07-17
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-455
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
-  - watchlist
+- jira
+- ticket
+- closed
+- hesd
+- watchlist
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

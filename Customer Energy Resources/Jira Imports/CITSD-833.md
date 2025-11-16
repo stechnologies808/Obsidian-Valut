@@ -2,20 +2,14 @@
 ticket_id: CITSD-833
 title: Critical Error when logging in to trainingforms via SSO
 status: Closed
-original_status: ""
 created: 2025-03-10
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-833
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

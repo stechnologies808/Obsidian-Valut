@@ -3,18 +3,9 @@
 ticket_id: "HESD-445"
 title: "Transition:  "Edit" user action is not available for transitioned amendments when it should be"
 status: "Closed"
-original_status: ""
 created: "2024-07-05"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-445"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

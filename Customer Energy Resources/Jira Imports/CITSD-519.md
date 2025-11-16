@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-519
-title: ARD262 - Project Validation activities are still hyperlinked/activated after Validation is submitted.
+title: ARD262 - Project Validation activities are still hyperlinked/activated after
+  Validation is submitted.
 status: Closed
-original_status: ""
 created: 2023-09-30
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-519
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-408
-title: "ARD717:PostGo-Live: Unable to revert application from Withdrawal back to Execution"
+title: 'ARD717:PostGo-Live: Unable to revert application from Withdrawal back to Execution'
 status: Closed
-original_status: ""
 created: 2024-05-30
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-408
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

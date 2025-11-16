@@ -3,18 +3,9 @@
 ticket_id: "CITSD-312"
 title: "ALM 135 TEST - VAL SUBMITTAL - In the System Components section of the Validation Submittal page, the "Total Changes" field is blank."
 status: "Resolved"
-original_status: ""
 created: "2023-04-27"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-312"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

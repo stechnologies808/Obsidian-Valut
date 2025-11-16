@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-171
-title: "Update DEV: field LVMAccess_html"
+title: 'Update DEV: field LVMAccess_html'
 status: Closed
-original_status: ""
 created: 2022-12-12
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-171
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

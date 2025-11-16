@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-836
-title: "DFCT0011249: PTO email was not sent when project was executed."
+title: 'DFCT0011249: PTO email was not sent when project was executed.'
 status: Closed
-original_status: ""
 created: 2025-03-26
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-836
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

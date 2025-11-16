@@ -3,18 +3,9 @@
 ticket_id: "HESD-422"
 title: "ARD730 - "BYOD Committed Capacity" is empty for some rows in CSV extract"
 status: "Resolved"
-original_status: ""
 created: "2024-06-06"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-422"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

@@ -3,18 +3,9 @@
 ticket_id: "CITSD-793"
 title: "Transition:  "Edit" user action is not available for transitioned amendments when it should be"
 status: "Closed"
-original_status: ""
 created: "2024-05-13"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-793"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

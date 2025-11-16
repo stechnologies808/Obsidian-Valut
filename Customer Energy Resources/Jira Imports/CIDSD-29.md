@@ -2,20 +2,14 @@
 ticket_id: CIDSD-29
 title: Milestone Interface - Start Date and Time Optional
 status: Resolved
-original_status: ""
 created: 2021-11-24
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-29
-assignee: ""
-reporter: ""
 project: cidsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - cidsd
-  - resolved
+- jira
+- ticket
+- cidsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

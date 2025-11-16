@@ -2,20 +2,14 @@
 ticket_id: HESD-433
 title: ARD746 - CR009 - NonExportkW calculation- node with inflight non-export applications
 status: Resolved
-original_status: ""
 created: 2024-06-21
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-433
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

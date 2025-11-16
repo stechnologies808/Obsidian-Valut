@@ -1,22 +1,16 @@
 ---
 ticket_id: HESD-426
-title: "Enumeration BYOD_W9 promote down "
+title: 'Enumeration BYOD_W9 promote down '
 status: Resolved
-original_status: ""
 created: 2024-06-19
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-426
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-  - watchlist
+- jira
+- ticket
+- hesd
+- resolved
+- watchlist
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

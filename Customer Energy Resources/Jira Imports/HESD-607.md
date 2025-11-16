@@ -2,22 +2,16 @@
 ticket_id: HESD-607
 title: Generated documents italicized
 status: Ready for HE Testing
-original_status: ""
-created: 2025-07-29
-scraped_at: ""
+created: '2025-07-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-607
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - ready-for-he-testing
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- ready-for-he-testing
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

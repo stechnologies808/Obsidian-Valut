@@ -2,20 +2,14 @@
 ticket_id: HESD-269
 title: RUSH Clicking on hyperlinks go back to the home page
 status: Resolved
-original_status: ""
 created: 2023-10-13
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-269
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

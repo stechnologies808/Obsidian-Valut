@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-355
-title: ARD067 - Could the calendar popup for date fields indicate today's date? Prod has it select today's date by default when the popup is brought  up.
+title: ARD067 - Could the calendar popup for date fields indicate today's date? Prod
+  has it select today's date by default when the popup is brought  up.
 status: Resolved
-original_status: ""
 created: 2023-06-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-355
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

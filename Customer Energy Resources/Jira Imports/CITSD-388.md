@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-388
-title: "ARD102 - Error: BYOD timeslot no longer available"
+title: 'ARD102 - Error: BYOD timeslot no longer available'
 status: Resolved
-original_status: ""
 created: 2023-07-26
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-388
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

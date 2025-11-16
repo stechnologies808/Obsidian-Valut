@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-76
-title: "PROD: Unable to complete Completeness Review on several applications; Unable to complete process for Validation Review on other projects"
+title: 'PROD: Unable to complete Completeness Review on several applications; Unable
+  to complete process for Validation Review on other projects'
 status: Resolved
-original_status: ""
 created: 2022-05-12
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-76
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

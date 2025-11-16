@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-118
-title: "TEST: Unable to start new Electrical and New Renewable Application"
+title: 'TEST: Unable to start new Electrical and New Renewable Application'
 status: Closed
-original_status: ""
 created: 2022-07-14
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-118
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

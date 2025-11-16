@@ -3,18 +3,9 @@
 ticket_id: "CITSD-10"
 title: "Communications not sent to "Additional System Owner""
 status: "Closed"
-original_status: ""
 created: "2022-01-14"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-10"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

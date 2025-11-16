@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-518
-title: "CIT Reporting: Forecasting Report request"
+title: 'CIT Reporting: Forecasting Report request'
 status: Closed
-original_status: ""
 created: 2024-10-24
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-518
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

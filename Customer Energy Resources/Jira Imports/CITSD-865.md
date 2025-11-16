@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-865
-title: DFCT0011369:Application was not placed in BYOD+ HQ even though timeslot capacity was exceeded
+title: DFCT0011369:Application was not placed in BYOD+ HQ even though timeslot capacity
+  was exceeded
 status: Closed
-original_status: ""
 created: 2025-06-19
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-865
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

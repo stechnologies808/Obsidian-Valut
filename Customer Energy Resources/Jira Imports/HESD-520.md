@@ -3,18 +3,9 @@
 ticket_id: "HESD-520"
 title: "INC0304671:External Contractor receving error message "Error occured during processing" on the Start Project Validation breadcrumb"
 status: "Closed"
-original_status: ""
 created: "2024-10-24"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-520"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

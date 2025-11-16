@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-334
-title: "ARD591 - Post-Go Live: Processing email project ID link routed to legacy (?) site"
+title: 'ARD591 - Post-Go Live: Processing email project ID link routed to legacy (?)
+  site'
 status: Resolved
-original_status: ""
 created: 2024-04-03
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-334
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

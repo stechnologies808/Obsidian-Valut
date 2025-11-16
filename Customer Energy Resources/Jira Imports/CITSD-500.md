@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-500
-title: ARD240 - Completeness Review - Unknown activities appear on the Progress tab in the customer’s Project Details page
+title: ARD240 - Completeness Review - Unknown activities appear on the Progress tab
+  in the customer’s Project Details page
 status: Closed
-original_status: ""
 created: 2023-09-28
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-500
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

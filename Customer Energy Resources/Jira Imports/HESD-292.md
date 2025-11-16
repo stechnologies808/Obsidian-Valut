@@ -2,20 +2,14 @@
 ticket_id: HESD-292
 title: Email reminders are being sent to customer with Executed Agreements.
 status: Resolved
-original_status: ""
 created: 2023-12-19
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-292
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

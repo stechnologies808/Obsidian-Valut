@@ -3,18 +3,9 @@
 ticket_id: "CITSD-240"
 title: "ALM 63 TEST UAT - COMP. REVIEW: Error message appears for "Existing Agreement" field despite being completed. M-AMD-23-186757"
 status: "Resolved"
-original_status: ""
 created: "2023-04-04"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-240"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

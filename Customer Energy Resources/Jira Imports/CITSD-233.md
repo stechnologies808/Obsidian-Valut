@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-233
-title: ALM 55 TEST UAT Menu drop down cuts off and pushes past default horizontal page width
+title: ALM 55 TEST UAT Menu drop down cuts off and pushes past default horizontal
+  page width
 status: Resolved
-original_status: ""
 created: 2023-04-04
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-233
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

@@ -3,18 +3,9 @@
 ticket_id: "CITSD-235"
 title: "ALM 68 TEST UAT - Appointment Information not displayed in "My Appointments" Page"
 status: "Resolved"
-original_status: ""
 created: "2023-04-04"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-235"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

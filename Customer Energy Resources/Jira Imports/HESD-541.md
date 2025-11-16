@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-541
-title: "INC0312321: P-GSP-24-804810 Error when attempting revision."
+title: 'INC0312321: P-GSP-24-804810 Error when attempting revision.'
 status: Closed
-original_status: ""
 created: 2025-01-14
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-541
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-435
-title: ARD751 - [HOTFIX REQUESTED] Internal Server Error When Clicking Scheduled Dispatch Interval Data Evidence in Project Verification
+title: ARD751 - [HOTFIX REQUESTED] Internal Server Error When Clicking Scheduled Dispatch
+  Interval Data Evidence in Project Verification
 status: Closed
-original_status: ""
 created: 2024-06-27
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-435
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

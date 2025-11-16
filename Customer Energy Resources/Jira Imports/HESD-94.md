@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-94
-title: "M-NEW-22-416596 | UNABLE TO EDIT APPLICATION "
+title: 'M-NEW-22-416596 | UNABLE TO EDIT APPLICATION '
 status: Resolved
-original_status: ""
 created: 2022-06-08
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-94
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

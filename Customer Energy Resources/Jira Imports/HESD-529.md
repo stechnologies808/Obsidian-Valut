@@ -1,23 +1,17 @@
 ---
 ticket_id: HESD-529
-title: "INC0277870: CIT appears to have conflicting data in particular fields"
+title: 'INC0277870: CIT appears to have conflicting data in particular fields'
 status: Queued
-original_status: ""
-created: 2024-11-04
-scraped_at: ""
+created: '2024-11-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-529
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - queued
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- queued
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

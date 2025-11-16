@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-434
-title: ARD747 - CR009 - NonExportkW calculation - node with interim (legacy) non-export applications
+title: ARD747 - CR009 - NonExportkW calculation - node with interim (legacy) non-export
+  applications
 status: Resolved
-original_status: ""
 created: 2024-06-21
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-434
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

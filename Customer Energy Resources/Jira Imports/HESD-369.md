@@ -3,18 +3,9 @@
 ticket_id: "HESD-369"
 title: "ARD649 - In PROD, encountered "Internal Server Error" and application is now stuck."
 status: "Resolved"
-original_status: ""
 created: "2024-04-26"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-369"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

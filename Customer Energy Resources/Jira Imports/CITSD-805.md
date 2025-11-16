@@ -3,18 +3,9 @@
 ticket_id: "CITSD-805"
 title: "ARD687:STAGE smoke test:  Select App Type includes option to select "Interim Programs" when it should not since those programs are closed."
 status: "Closed"
-original_status: ""
 created: "2024-05-16"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-805"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

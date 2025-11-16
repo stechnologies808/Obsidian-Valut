@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-463
-title: "ARD792 - [App Stuck] Validation Submission: Status did not progress and comms not sent"
+title: 'ARD792 - [App Stuck] Validation Submission: Status did not progress and comms
+  not sent'
 status: Closed
-original_status: ""
 created: 2024-07-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-463
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -2,22 +2,16 @@
 ticket_id: CITSD-732
 title: ARD540 - BYOD1 no instructions to negotiate start time over 100kW
 status: Backlog
-original_status: ""
-created: 2024-02-05
-scraped_at: ""
+created: '2024-02-05'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-732
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

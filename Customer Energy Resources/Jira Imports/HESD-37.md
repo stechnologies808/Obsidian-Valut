@@ -3,18 +3,9 @@
 ticket_id: "HESD-37"
 title: "Contractor Approval, "Approve Contractors" workflow inaccessible."
 status: "Closed"
-original_status: ""
 created: "2022-03-30"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-37"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

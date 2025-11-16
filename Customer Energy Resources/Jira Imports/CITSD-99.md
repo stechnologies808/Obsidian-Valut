@@ -3,18 +3,9 @@
 ticket_id: "CITSD-99"
 title: "REGRESSION TESTING - Email templates where "Application" is spelled incorrectly and program abbreviation is used"
 status: "Resolved"
-original_status: ""
 created: "2022-03-23"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-99"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

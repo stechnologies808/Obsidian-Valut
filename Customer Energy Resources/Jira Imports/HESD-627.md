@@ -1,23 +1,17 @@
 ---
 ticket_id: HESD-627
-title: "DMND0001931:SP-111: Recieved W9 for Battery Bonus and BYOD customers"
+title: 'DMND0001931:SP-111: Recieved W9 for Battery Bonus and BYOD customers'
 status: Waiting for customer
-original_status: ""
-created: 2025-09-10
-scraped_at: ""
+created: '2025-09-10'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-627
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - waiting-for-customer
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- hesd
+- waiting-for-customer
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

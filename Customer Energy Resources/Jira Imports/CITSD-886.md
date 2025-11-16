@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-886
-title: "DFCT0011462 Q4 Regression: Not all previous info was saved for CIT Completeness Review resubmission"
+title: 'DFCT0011462 Q4 Regression: Not all previous info was saved for CIT Completeness
+  Review resubmission'
 status: Under Review
-original_status: ""
-created: 2025-11-12
-scraped_at: ""
+created: '2025-11-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-886
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - under-review
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- citsd
+- under-review
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

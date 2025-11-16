@@ -3,18 +3,9 @@
 ticket_id: "CITSD-74"
 title: ""Execution Meter Number Replacement" User Action not updating all Meter Fields in Pending Execution page"
 status: "Resolved"
-original_status: ""
 created: "2022-03-08"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-74"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

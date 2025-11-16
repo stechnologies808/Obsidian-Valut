@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-500
-title: "743706: Clicking on Onsite Inspection Type link redirects user to landing page"
+title: '743706: Clicking on Onsite Inspection Type link redirects user to landing
+  page'
 status: Closed
-original_status: ""
 created: 2024-09-11
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-500
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

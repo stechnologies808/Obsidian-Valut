@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-123
-title: Unable to submit new application; error message moving forward after Project Location
+title: Unable to submit new application; error message moving forward after Project
+  Location
 status: Resolved
-original_status: ""
 created: 2022-11-15
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-123
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

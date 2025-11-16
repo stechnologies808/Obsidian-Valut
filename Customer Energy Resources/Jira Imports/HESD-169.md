@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-169
-title: Contractor unable to start application. External list is missing the internal ID for some of the companies
+title: Contractor unable to start application. External list is missing the internal
+  ID for some of the companies
 status: Closed
-original_status: ""
 created: 2022-12-06
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-169
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

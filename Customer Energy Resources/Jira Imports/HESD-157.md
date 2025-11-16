@@ -3,18 +3,9 @@
 ticket_id: "HESD-157"
 title: "480542: Failed CR status showing "initiated", expected to be CAR"
 status: "Closed"
-original_status: ""
 created: "2022-10-31"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-157"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

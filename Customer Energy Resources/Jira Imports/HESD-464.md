@@ -2,20 +2,14 @@
 ticket_id: HESD-464
 title: ARD794 - APPLICATION SUMMARY MISSING IN DOCUMENTS TAB
 status: Closed
-original_status: ""
 created: 2024-07-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-464
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

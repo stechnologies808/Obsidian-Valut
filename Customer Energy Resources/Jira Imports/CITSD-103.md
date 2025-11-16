@@ -3,18 +3,9 @@
 ticket_id: "CITSD-103"
 title: "Status of "No Equipment Change" Amendments after ITR Bypass"
 status: "Resolved"
-original_status: ""
 created: "2022-10-04"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-103"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-578
-title: "INC0318770: Piiholo WTP - Address Confirmation - M-SDE-25-979377 & M-SDE-25-979406"
+title: 'INC0318770: Piiholo WTP - Address Confirmation - M-SDE-25-979377 & M-SDE-25-979406'
 status: Closed
-original_status: ""
 created: 2025-04-22
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-578
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

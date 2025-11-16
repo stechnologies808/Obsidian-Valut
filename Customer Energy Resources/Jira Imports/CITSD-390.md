@@ -2,20 +2,14 @@
 ticket_id: CITSD-390
 title: ARD108 - Internal CR link not available after resubmission
 status: Closed
-original_status: ""
 created: 2023-07-27
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-390
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

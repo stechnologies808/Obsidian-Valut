@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-11
-title: "Trainingforms: Unable to delete user account"
+title: 'Trainingforms: Unable to delete user account'
 status: Resolved
-original_status: ""
 created: 2022-01-19
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-11
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

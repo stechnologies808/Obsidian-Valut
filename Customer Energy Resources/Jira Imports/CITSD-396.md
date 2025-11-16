@@ -1,21 +1,16 @@
 ---
 ticket_id: CITSD-396
-title: ARD111 - Technical System Size calculation incorrect (should include storage size)
+title: ARD111 - Technical System Size calculation incorrect (should include storage
+  size)
 status: Resolved
-original_status: ""
 created: 2023-07-27
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-396
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

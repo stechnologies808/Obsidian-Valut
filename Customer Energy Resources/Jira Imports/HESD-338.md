@@ -3,18 +3,9 @@
 ticket_id: "HESD-338"
 title: "ARD599 - Smoke Testing: Interim projects are incorrectly in "Initiated" status."
 status: "Closed"
-original_status: ""
 created: "2024-04-03"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-338"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - closed

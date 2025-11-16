@@ -3,18 +3,9 @@
 ticket_id: "CITSD-104"
 title: ""No Equipment Change" Amendments being able to bypass "Additional Information" chevron"
 status: "Resolved"
-original_status: ""
 created: "2022-10-04"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-104"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

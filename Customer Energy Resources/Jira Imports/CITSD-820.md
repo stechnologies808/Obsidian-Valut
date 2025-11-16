@@ -1,23 +1,17 @@
 ---
 ticket_id: CITSD-820
-title: "Queue view: Display pages without error messages [TF 08/15]"
+title: 'Queue view: Display pages without error messages [TF 08/15]'
 status: Queued
-original_status: ""
-created: 2024-08-15
-scraped_at: ""
+created: '2024-08-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-820
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - queued
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- citsd
+- queued
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

@@ -3,18 +3,9 @@
 ticket_id: "HESD-36"
 title: "CIT projects with "X" in the Project ID"
 status: "Resolved"
-original_status: ""
 created: "2022-03-29"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-36"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

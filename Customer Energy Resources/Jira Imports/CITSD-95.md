@@ -3,18 +3,9 @@
 ticket_id: "CITSD-95"
 title: "REGRESSION TESTING - Cannot proceed past"System Type" Chevron during Application Submittal"
 status: "Resolved"
-original_status: ""
 created: "2022-03-21"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-95"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

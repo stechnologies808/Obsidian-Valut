@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-534
-title: "DFCT0010826 CIT Glitch - M-SDE-24-852751 - System Owner Name field is populating with customer name "
+title: 'DFCT0010826 CIT Glitch - M-SDE-24-852751 - System Owner Name field is populating
+  with customer name '
 status: Resolved
-original_status: ""
 created: 2024-11-29
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-534
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

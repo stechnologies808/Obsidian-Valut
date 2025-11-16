@@ -2,20 +2,14 @@
 ticket_id: CITSD-100
 title: REGRESSION TESTING - Error Message appearing during ITR and Execution steps
 status: Resolved
-original_status: ""
 created: 2022-03-23
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-100
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

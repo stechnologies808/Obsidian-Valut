@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-107
-title: Grace Electrical user mark logan, unable to submit Electrical request, redirects back to landing page
+title: Grace Electrical user mark logan, unable to submit Electrical request, redirects
+  back to landing page
 status: Resolved
-original_status: ""
 created: 2022-06-29
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-107
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-342
-title: "ARD607 - Post-Go Live: Validation Review does not fail despite having flags"
+title: 'ARD607 - Post-Go Live: Validation Review does not fail despite having flags'
 status: Resolved
-original_status: ""
 created: 2024-04-04
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-342
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

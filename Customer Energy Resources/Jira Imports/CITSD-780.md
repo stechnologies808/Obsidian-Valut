@@ -1,22 +1,17 @@
 ---
 ticket_id: CITSD-780
-title: ARD468 - [Data Dictionary] SR defect - PV node penetration % is referencing incorrect value
+title: ARD468 - [Data Dictionary] SR defect - PV node penetration % is referencing
+  incorrect value
 status: Resolved
-original_status: ""
 created: 2024-04-17
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-780
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
-  - watchlist
+- jira
+- ticket
+- citsd
+- resolved
+- watchlist
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

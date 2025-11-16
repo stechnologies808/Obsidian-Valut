@@ -2,20 +2,14 @@
 ticket_id: CITSD-600
 title: ARD337 - [UI Styling] System Type page missing top line of section box
 status: Resolved
-original_status: ""
 created: 2023-12-15
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-600
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

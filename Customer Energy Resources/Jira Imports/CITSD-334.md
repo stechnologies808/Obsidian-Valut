@@ -1,21 +1,15 @@
 ---
 ticket_id: CITSD-334
-title: "ARD033: Rule error received when approving contractor"
+title: 'ARD033: Rule error received when approving contractor'
 status: Resolved
-original_status: ""
 created: 2023-06-16
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-334
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - resolved
+- jira
+- ticket
+- citsd
+- resolved
 updated: 2025-11-15T11:16
 last_synced: 2025-11-15T11:16
 ---

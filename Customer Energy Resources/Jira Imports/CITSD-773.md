@@ -1,23 +1,18 @@
 ---
 ticket_id: CITSD-773
-title: "ARD492 - Review Project Validation: System Owner fields should not be visible when there is no System Owner"
+title: 'ARD492 - Review Project Validation: System Owner fields should not be visible
+  when there is no System Owner'
 status: Backlog
-original_status: ""
-created: 2024-04-17
-scraped_at: ""
+created: '2024-04-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-773
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T07:20
+last_synced: 2025-11-16T07:20
 ---
 
 

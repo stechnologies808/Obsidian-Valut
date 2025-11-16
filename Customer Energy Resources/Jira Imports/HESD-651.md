@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-651
-title: "INC0329188:  Validation not rejecting properly"
+title: 'INC0329188:  Validation not rejecting properly'
 status: Closed
-original_status: ""
 created: 2025-10-28
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-651
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

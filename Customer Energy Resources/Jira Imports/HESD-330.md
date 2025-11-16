@@ -1,21 +1,16 @@
 ---
 ticket_id: HESD-330
-title: "ARD594 - Post-Go Live: Missing 'duplicate application' question in Completeness Review"
+title: 'ARD594 - Post-Go Live: Missing ''duplicate application'' question in Completeness
+  Review'
 status: Resolved
-original_status: ""
 created: 2024-04-03
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-330
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
+- jira
+- ticket
+- hesd
+- resolved
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

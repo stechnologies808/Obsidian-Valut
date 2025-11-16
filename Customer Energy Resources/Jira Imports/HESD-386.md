@@ -1,22 +1,16 @@
 ---
 ticket_id: HESD-386
-title: "ARD686 - HOT FIX: Battery Bonus component removed from application after revision"
+title: 'ARD686 - HOT FIX: Battery Bonus component removed from application after revision'
 status: Resolved
-original_status: ""
 created: 2024-05-16
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-386
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - hesd
-  - resolved
-  - watchlist
+- jira
+- ticket
+- hesd
+- resolved
+- watchlist
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

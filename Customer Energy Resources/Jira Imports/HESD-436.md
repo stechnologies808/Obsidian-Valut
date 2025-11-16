@@ -1,21 +1,15 @@
 ---
 ticket_id: HESD-436
-title: "ARD752 - Post-Go Live: Progress tab is blank, no activities shown"
+title: 'ARD752 - Post-Go Live: Progress tab is blank, no activities shown'
 status: Closed
-original_status: ""
 created: 2024-06-27
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-436
-assignee: ""
-reporter: ""
 project: hesd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - closed
-  - hesd
+- jira
+- ticket
+- closed
+- hesd
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

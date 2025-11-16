@@ -2,20 +2,14 @@
 ticket_id: CITSD-788
 title: ARD648 - OptInDate not populated for BI80 and BI82
 status: Closed
-original_status: ""
 created: 2024-04-26
-scraped_at: ""
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-788
-assignee: ""
-reporter: ""
 project: citsd
-request_type: ""
-he_project: ""
 tags:
-  - jira
-  - ticket
-  - citsd
-  - closed
+- jira
+- ticket
+- citsd
+- closed
 updated: 2025-11-15T11:17
 last_synced: 2025-11-15T11:17
 ---

@@ -3,18 +3,9 @@
 ticket_id: "CITSD-470"
 title: "ARD197 - 216609 SDE BYOD - Review Project Validation workflow listed as "In Progress" although validation was passed. Verification not submitted."
 status: "Resolved"
-original_status: ""
 created: "2023-09-19"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-470"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

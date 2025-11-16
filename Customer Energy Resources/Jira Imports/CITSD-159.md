@@ -3,18 +3,9 @@
 ticket_id: "CITSD-159"
 title: "Received error message saying "Please complete fields on Contact Information Page". "
 status: "Closed"
-original_status: ""
 created: "2022-12-20"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-159"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd
