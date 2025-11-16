@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-575"
-title: "DMND0001800:  CIT to Databricks pipeline"
-status: "Waiting for customer"
-original_status: ""
-created: "2025-04-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-575"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-575
+title: 'DMND0001800:  CIT to Databricks pipeline'
+status: Waiting for customer
+created: '2025-04-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-575
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - waiting-for-customer
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- hesd
+- waiting-for-customer
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

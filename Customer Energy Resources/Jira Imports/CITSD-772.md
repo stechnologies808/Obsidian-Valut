@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-772"
-title: "ARD498 - [DD Update] Project Executed when PVR Battery Bonus Summary was Pending or Completed with missing info"
-status: "Backlog"
-original_status: ""
-created: "2024-04-17"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-772"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-772
+title: ARD498 - [DD Update] Project Executed when PVR Battery Bonus Summary was Pending
+  or Completed with missing info
+status: Backlog
+created: '2024-04-17'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-772
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

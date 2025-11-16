@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-800"
-title: "ARD435 - [DD Update]  Validation Submittal - Non-Export Settings upload field"
-status: "Backlog"
-original_status: ""
-created: "2024-05-16"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-800"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-800
+title: ARD435 - [DD Update]  Validation Submittal - Non-Export Settings upload field
+status: Backlog
+created: '2024-05-16'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-800
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

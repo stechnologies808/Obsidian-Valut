@@ -1,27 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-603"
-title: "ARD342 - Login from CID prevents user from going to CIT dashboard"
-status: "Queued"
-original_status: ""
-created: "2023-12-19"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-603"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-603
+title: ARD342 - Login from CID prevents user from going to CIT dashboard
+status: Queued
+created: '2023-12-19'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-603
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - queued
-  - watchlist
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- citsd
+- queued
+- watchlist
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-879"
-title: "DFCT0011449 Q4 Regression: Skip ITR Case 3- AMD apps not added to LVM"
-status: "Under Review"
-original_status: ""
-created: "2025-11-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-879"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-879
+title: 'DFCT0011449 Q4 Regression: Skip ITR Case 3- AMD apps not added to LVM'
+status: Under Review
+created: '2025-11-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-879
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - under-review
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- citsd
+- under-review
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

@@ -1,26 +1,18 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-558"
-title: "Sarah Change Value not reflecting change in Project Details page or the generated agreement"
-status: "Engineering Review"
-original_status: ""
-created: "2025-03-20"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-558"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-558
+title: Sarah Change Value not reflecting change in Project Details page or the generated
+  agreement
+status: Engineering Review
+created: '2025-03-20'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-558
+project: hesd
 tags:
-  - jira
-  - ticket
-  - engineering-review
-  - hesd
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- engineering-review
+- hesd
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

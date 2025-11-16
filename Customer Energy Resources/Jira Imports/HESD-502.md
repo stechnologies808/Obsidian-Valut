@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-502"
-title: "Utility Admin Queue View Configuration: Add field"
-status: "Triaged (Backlog)"
-original_status: ""
-created: "2024-09-18"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-502"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-502
+title: 'Utility Admin Queue View Configuration: Add field'
+status: Triaged (Backlog)
+created: '2024-09-18'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-502
+project: hesd
 tags:
-  - jira
-  - ticket
-  - hesd
-  - triaged-(backlog)
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- hesd
+- triaged-(backlog)
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

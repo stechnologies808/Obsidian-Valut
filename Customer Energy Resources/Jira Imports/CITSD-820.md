@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-820"
-title: "Queue view: Display pages without error messages [TF 08/15]"
-status: "Queued"
-original_status: ""
-created: "2024-08-15"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-820"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-820
+title: 'Queue view: Display pages without error messages [TF 08/15]'
+status: Queued
+created: '2024-08-15'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-820
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - queued
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- citsd
+- queued
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

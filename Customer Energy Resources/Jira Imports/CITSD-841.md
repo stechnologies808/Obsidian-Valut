@@ -3,18 +3,9 @@
 ticket_id: "CITSD-841"
 title: "DFCT0011257 "Last Updated On" date does not appear when updating an external list"
 status: "In Test"
-original_status: ""
 created: "2025-03-27"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-841"
-assignee: ""
-reporter: ""
 project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - citsd

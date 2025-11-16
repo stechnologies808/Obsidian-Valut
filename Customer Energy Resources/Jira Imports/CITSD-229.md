@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-229"
-title: "ALM052 - [UI Styling] Button Colors"
-status: "Backlog"
-original_status: ""
-created: "2023-03-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-229"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-229
+title: ALM052 - [UI Styling] Button Colors
+status: Backlog
+created: '2023-03-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-229
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

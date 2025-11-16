@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-839"
-title: "DFCT0011254 Regression Queue View pop up error on last page"
-status: "Queued"
-original_status: ""
-created: "2025-03-26"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-839"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-839
+title: DFCT0011254 Regression Queue View pop up error on last page
+status: Queued
+created: '2025-03-26'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-839
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - queued
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- citsd
+- queued
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

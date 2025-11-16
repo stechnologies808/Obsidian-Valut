@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-637"
-title: "DMND0001936 -SP-123: CIT Special SDP/BYOD Timeslot Assignment for Tesla"
-status: "Deferred"
-original_status: ""
-created: "2025-09-20"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-637"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-637
+title: 'DMND0001936 -SP-123: CIT Special SDP/BYOD Timeslot Assignment for Tesla'
+status: Deferred
+created: '2025-09-20'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-637
+project: hesd
 tags:
-  - jira
-  - ticket
-  - deferred
-  - hesd
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- deferred
+- hesd
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

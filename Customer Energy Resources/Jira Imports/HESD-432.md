@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "HESD-432"
-title: "ARD748 - Enhancement Receive and Resubmitted Date"
-status: "Deferred"
-original_status: ""
-created: "2024-06-21"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-432"
-assignee: ""
-reporter: ""
-project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: HESD-432
+title: ARD748 - Enhancement Receive and Resubmitted Date
+status: Deferred
+created: '2024-06-21'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-432
+project: hesd
 tags:
-  - jira
-  - ticket
-  - deferred
-  - hesd
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- deferred
+- hesd
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

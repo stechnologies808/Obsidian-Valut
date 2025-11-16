@@ -3,18 +3,9 @@
 ticket_id: "HESD-440"
 title: "ARD763 - Transition: Executed transition customers' status should indicate "Project Execution", not "Executed"."
 status: "Won't Do"
-original_status: ""
 created: "2024-07-02"
-scraped_at: ""
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-440"
-assignee: ""
-reporter: ""
 project: "hesd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
-tags:
   - jira
   - ticket
   - hesd

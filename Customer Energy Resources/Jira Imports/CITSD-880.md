@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-880"
-title: "LVM DEV/Trainingforms files not generated since 11/4/2025"
-status: "In Progress"
-original_status: ""
-created: "2025-11-06"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-880"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-880
+title: LVM DEV/Trainingforms files not generated since 11/4/2025
+status: In Progress
+created: '2025-11-06'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-880
+project: citsd
 tags:
-  - jira
-  - ticket
-  - citsd
-  - in-progress
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- citsd
+- in-progress
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 

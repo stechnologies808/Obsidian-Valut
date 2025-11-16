@@ -1,26 +1,17 @@
 ---
-# Dataview Properties
-ticket_id: "CITSD-228"
-title: "ALM051 - [UI Styling] Form input border colors"
-status: "Backlog"
-original_status: ""
-created: "2023-03-29"
-scraped_at: ""
-ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-228"
-assignee: ""
-reporter: ""
-project: "citsd"
-request_type: ""
-business_impact: ""
-business_value: ""
-he_project: ""
+ticket_id: CITSD-228
+title: ALM051 - [UI Styling] Form input border colors
+status: Backlog
+created: '2023-03-29'
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-228
+project: citsd
 tags:
-  - jira
-  - ticket
-  - backlog
-  - citsd
-updated: "2025-11-16T10:10"
-last_synced: "2025-11-16T10:10"
+- jira
+- ticket
+- backlog
+- citsd
+updated: 2025-11-16T10:10
+last_synced: 2025-11-16T10:10
 ---
 
 
