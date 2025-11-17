@@ -3,11 +3,11 @@ ticket_id: CITSD-688
 title: 'ARD495 - Project System Components: Inverter Quantity should not have 1000
   limit'
 status: Resolved
-created: 2024-01-31
+created: '2024-01-31'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-688
 project: citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:55
+last_synced: 2025-11-17T10:55
 tags:
   - watchlist
 ---

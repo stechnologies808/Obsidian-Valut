@@ -2,7 +2,7 @@
 ticket_id: CITSD-632
 title: ARD418 - Action failed when clicking on the submittals link
 status: Closed
-created: 2024-01-10
+created: '2024-01-10'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-632
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:25
+last_synced: 2025-11-17T11:25
 ---
 
 # }:}

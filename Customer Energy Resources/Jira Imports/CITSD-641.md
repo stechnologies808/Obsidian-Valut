@@ -3,7 +3,7 @@ ticket_id: CITSD-641
 title: ARD391 - Liability Insurance section should not be visible if underlying amendment
   is GSP or Smart Export and Amend_ExistingAgreementSize + Amend_Total_Change > 10kW
 status: Closed
-created: 2024-01-11
+created: '2024-01-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-641
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:43
+last_synced: 2025-11-17T10:43
 ---
 
 # }:}

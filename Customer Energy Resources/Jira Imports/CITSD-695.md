@@ -3,7 +3,7 @@ ticket_id: CITSD-695
 title: 'ARD432 - Internal Revision: Customer Reference Header repeated on all pages,
   missing space between sections on Project Location page'
 status: Closed
-created: 2024-02-01
+created: '2024-02-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-695
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:45
+last_synced: 2025-11-17T10:45
 ---
 
 # }:}

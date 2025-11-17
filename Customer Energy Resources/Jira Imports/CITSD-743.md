@@ -3,7 +3,7 @@ ticket_id: CITSD-743
 title: ARD519 - Missing Revision Summary in Documents, logged in as contractor IF
   AMD
 status: Closed
-created: 2024-02-06
+created: '2024-02-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-743
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:16
+last_synced: 2025-11-17T11:16
 ---
 
 # }:}

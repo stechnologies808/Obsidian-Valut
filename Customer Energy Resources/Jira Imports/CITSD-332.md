@@ -2,7 +2,7 @@
 ticket_id: CITSD-332
 title: ARD017 - Uses multiple disconnects checkbox functionality missing
 status: Closed
-created: 2023-06-16
+created: '2023-06-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-332
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T11:02
+last_synced: 2025-11-17T11:02
 ---
 
 # }:}

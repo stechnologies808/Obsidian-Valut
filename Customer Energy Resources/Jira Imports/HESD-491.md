@@ -2,7 +2,7 @@
 ticket_id: HESD-491
 title: Root Cause Request for Aug 22 2024 Outage
 status: Closed
-created: 2024-08-22
+created: '2024-08-22'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-491
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:19
+last_synced: 2025-11-17T11:19
 ---
 
 # }:}

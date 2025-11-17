@@ -2,7 +2,7 @@
 ticket_id: CITSD-699
 title: ARD523 - Error page(s) have ADA and usability issues
 status: Closed
-created: 2024-02-01
+created: '2024-02-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-699
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:23
+last_synced: 2025-11-17T11:23
 ---
 
 # }:}

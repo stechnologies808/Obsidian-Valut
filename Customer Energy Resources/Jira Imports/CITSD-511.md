@@ -2,7 +2,7 @@
 ticket_id: CITSD-511
 title: 'Validation: Liability Insurance should be hidden when project under 16kW'
 status: Closed
-created: 2023-09-30
+created: '2023-09-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-511
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:10
+last_synced: 2025-11-17T11:10
 ---
 
 # }:}

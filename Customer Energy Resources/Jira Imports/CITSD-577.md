@@ -3,7 +3,7 @@ ticket_id: CITSD-577
 title: ARD307 - CID Trainingforms Inbox (CID_Test@hawaiianelectric.com) Did not process
   email
 status: Closed
-created: 2023-11-14
+created: '2023-11-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-577
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:02
+last_synced: 2025-11-17T11:02
 ---
 
 # }:}

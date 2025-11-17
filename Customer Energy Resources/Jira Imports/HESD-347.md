@@ -2,7 +2,7 @@
 ticket_id: HESD-347
 title: 'ARD612 - Post-Go Live: Unable to review submitted Extention request'
 status: Closed
-created: 2024-04-08
+created: '2024-04-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-347
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:37
+last_synced: 2025-11-17T11:37
 ---
 
 # }:}

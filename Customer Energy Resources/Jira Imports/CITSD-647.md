@@ -3,7 +3,7 @@ ticket_id: CITSD-647
 title: 'ARD416 - Utility Upgrade Confirmation: last button should say ''Submit'' NOT
   ''Save and Continue'''
 status: Resolved
-created: 2024-01-18
+created: '2024-01-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-647
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:43
+last_synced: 2025-11-17T10:43
 ---
 
 # }:}

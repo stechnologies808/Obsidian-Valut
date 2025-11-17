@@ -2,7 +2,7 @@
 ticket_id: HESD-505
 title: CIT Glitch - 803000; PV; Action for Customer, no Val. hyperlinks
 status: Closed
-created: 2024-09-26
+created: '2024-09-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-505
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:45
+last_synced: 2025-11-17T10:45
 ---
 
 # }:}

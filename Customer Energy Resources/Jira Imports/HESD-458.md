@@ -2,11 +2,11 @@
 ticket_id: HESD-458
 title: ARD780 - Regression - Change of contractor approval email is not sent
 status: Closed
-created: 2024-07-19
+created: '2024-07-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-458
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:57
+last_synced: 2025-11-17T10:57
 tags:
   - watchlist
 ---

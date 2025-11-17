@@ -2,7 +2,7 @@
 ticket_id: HESD-365
 title: ARD642 - Missing Service Order for 6E replacement/relocation notification
 status: Closed
-created: 2024-04-25
+created: '2024-04-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-365
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:42
+last_synced: 2025-11-17T11:42
 ---
 
 # }:}

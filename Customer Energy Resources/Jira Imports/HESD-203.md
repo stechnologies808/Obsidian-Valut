@@ -2,7 +2,7 @@
 ticket_id: HESD-203
 title: '482392: During Revision system Owner field appear blank'
 status: Closed
-created: 2023-02-14
+created: '2023-02-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-203
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:47
+last_synced: 2025-11-17T10:47
 ---
 
 # }:}

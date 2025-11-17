@@ -3,7 +3,7 @@ ticket_id: HESD-372
 title: ARD650 - ITR Result Summary Table - Supplemental Review - Downtown Network
   Value
 status: Resolved
-created: 2024-05-03
+created: '2024-05-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-372
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:27
+last_synced: 2025-11-17T11:27
 ---
 
 # }:}

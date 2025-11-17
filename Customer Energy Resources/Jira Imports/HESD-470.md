@@ -3,7 +3,7 @@ ticket_id: HESD-470
 title: '[App Stuck] Pending Execution hyperlink unavailable; being navigated back
   to the home page'
 status: Closed
-created: 2024-07-30
+created: '2024-07-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-470
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:06
+last_synced: 2025-11-17T11:06
 ---
 
 # }:}

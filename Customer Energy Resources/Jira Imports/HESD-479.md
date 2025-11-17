@@ -2,11 +2,11 @@
 ticket_id: HESD-479
 title: 'ARD418: Action failed when clicking on the submittals link'
 status: Closed
-created: 2024-08-05
+created: '2024-08-05'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-479
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:21
+last_synced: 2025-11-17T11:21
 tags:
   - watchlist
 ---

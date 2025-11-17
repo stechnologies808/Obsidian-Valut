@@ -2,7 +2,7 @@
 ticket_id: HESD-453
 title: 'ARD771 - Post-Go Live: Unable to review Revision as internal user'
 status: Closed
-created: 2024-07-16
+created: '2024-07-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-453
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:21
+last_synced: 2025-11-17T11:21
 ---
 
 # }:}

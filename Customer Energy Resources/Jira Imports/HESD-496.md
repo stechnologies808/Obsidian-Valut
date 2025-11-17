@@ -2,7 +2,7 @@
 ticket_id: HESD-496
 title: Users unable to log in to forms.hawaiianelectric.com/login
 status: Closed
-created: 2024-08-27
+created: '2024-08-27'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-496
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:16
+last_synced: 2025-11-17T11:16
 ---
 
 # }:}

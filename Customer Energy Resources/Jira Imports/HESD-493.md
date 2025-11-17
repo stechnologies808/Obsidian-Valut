@@ -2,7 +2,7 @@
 ticket_id: HESD-493
 title: 696848 Validation passed comms not sent
 status: Closed
-created: 2024-08-23
+created: '2024-08-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-493
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:04
+last_synced: 2025-11-17T11:04
 ---
 
 # }:}

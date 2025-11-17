@@ -2,7 +2,7 @@
 ticket_id: HESD-497
 title: CIT Glitch - 860801; ITR; Passed CR communications not sent
 status: Closed
-created: 2024-08-29
+created: '2024-08-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-497
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:45
+last_synced: 2025-11-17T10:45
 ---
 
 # }:}

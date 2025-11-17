@@ -2,7 +2,7 @@
 ticket_id: CITSD-741
 title: ARD527 - CID Submittals page 'typo'
 status: Resolved
-created: 2024-02-06
+created: '2024-02-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-741
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:49
+last_synced: 2025-11-17T10:49
 ---
 
 # }:}

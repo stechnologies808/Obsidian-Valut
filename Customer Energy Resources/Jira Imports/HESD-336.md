@@ -2,7 +2,7 @@
 ticket_id: HESD-336
 title: ARD596 - P-GSP-24-798570 - Missing duplicate field in application.
 status: Closed
-created: 2024-04-03
+created: '2024-04-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-336
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:29
+last_synced: 2025-11-17T11:29
 ---
 
 # }:}

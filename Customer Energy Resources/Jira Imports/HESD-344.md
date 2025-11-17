@@ -3,7 +3,7 @@ ticket_id: HESD-344
 title: 'ARD609 - Actions Tab: DR Review in AS/2 does not show start review process
   ONLY submit new review request'
 status: Resolved
-created: 2024-04-08
+created: '2024-04-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-344
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:35
+last_synced: 2025-11-17T11:35
 ---
 
 # }:}

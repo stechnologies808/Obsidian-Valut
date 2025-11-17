@@ -2,11 +2,11 @@
 ticket_id: HESD-438
 title: ARD761 - Initial Deposit Letter Not Generated
 status: Closed
-created: 2024-07-02
+created: '2024-07-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-438
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:47
+last_synced: 2025-11-17T10:47
 tags:
   - watchlist
 ---

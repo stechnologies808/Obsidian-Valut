@@ -2,7 +2,7 @@
 ticket_id: HESD-356
 title: 'ARD628 - HOTFIX: Post-Go Live: All activities locked - Validation'
 status: Closed
-created: 2024-04-17
+created: '2024-04-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-356
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:42
+last_synced: 2025-11-17T11:42
 ---
 
 # }:}

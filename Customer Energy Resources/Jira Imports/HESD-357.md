@@ -2,7 +2,7 @@
 ticket_id: HESD-357
 title: 'ARD629 - HOTFIX: Post-Go Live: All activities locked - Completeness Review'
 status: Resolved
-created: 2024-04-17
+created: '2024-04-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-357
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:42
+last_synced: 2025-11-17T11:42
 ---
 
 # }:}

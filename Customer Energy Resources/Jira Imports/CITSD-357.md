@@ -3,7 +3,7 @@ ticket_id: CITSD-357
 title: 'ARD058 - Clarification/Enhancement: What is the default ordering of documents
   on the Documents Tab? Preference is most recent upload at top.'
 status: Closed
-created: 2023-06-23
+created: '2023-06-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-357
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T11:10
+last_synced: 2025-11-17T11:10
 ---
 
 # }:}

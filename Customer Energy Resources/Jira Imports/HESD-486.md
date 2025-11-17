@@ -3,11 +3,11 @@ ticket_id: HESD-486
 title: AMD applications - [BESSSizekW] and [BESSCapacitykWh] are not being populated
   in LVM and in CIT.
 status: Closed
-created: 2024-08-14
+created: '2024-08-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-486
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:45
+last_synced: 2025-11-17T10:45
 tags:
   - watchlist
 ---

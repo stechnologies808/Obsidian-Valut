@@ -3,7 +3,7 @@ ticket_id: CITSD-815
 title: 'ARD784: Regression TF- Regression TF- Revisions: Components don''t show/Internal
   Server Error'
 status: Closed
-created: 2024-07-21
+created: '2024-07-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-815
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:02
+last_synced: 2025-11-17T11:02
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: HESD-354
 title: ARD621 - Node Penetration Calculation for application P-GSP-24-806933 is not
   correct
 status: Closed
-created: 2024-04-16
+created: '2024-04-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-354
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:39
+last_synced: 2025-11-17T11:39
 ---
 
 # }:}

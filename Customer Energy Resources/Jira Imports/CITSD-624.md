@@ -2,7 +2,7 @@
 ticket_id: CITSD-624
 title: ARD378 - SR minor defect - DPS - ITR Result Summary update
 status: Resolved
-created: 2024-01-08
+created: '2024-01-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-624
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:53
+last_synced: 2025-11-17T10:53
 ---
 
 # }:}

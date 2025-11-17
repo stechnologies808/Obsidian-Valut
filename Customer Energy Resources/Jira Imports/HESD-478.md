@@ -3,7 +3,7 @@ ticket_id: HESD-478
 title: 'INC0305199: Contractor does not appear in Queue View or on Project Details
   page [CITSD-819]'
 status: Closed
-created: 2024-08-02
+created: '2024-08-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-478
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:25
+last_synced: 2025-11-17T11:25
 ---
 
 # }:}

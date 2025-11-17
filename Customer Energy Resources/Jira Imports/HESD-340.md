@@ -3,7 +3,7 @@ ticket_id: HESD-340
 title: 'ARD601 - Smoke Testing: GoA form required even when PV contractor not needed
   (AMEND only)'
 status: Closed
-created: 2024-04-03
+created: '2024-04-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-340
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:31
+last_synced: 2025-11-17T11:31
 ---
 
 # }:}

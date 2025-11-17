@@ -3,7 +3,7 @@ ticket_id: HESD-348
 title: 'ARD613 - Post-Go Live: Missing an additional Three Line Drawing (TLD) field
   in Completeness Review'
 status: Resolved
-created: 2024-04-08
+created: '2024-04-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-348
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:37
+last_synced: 2025-11-17T11:37
 ---
 
 # }:}

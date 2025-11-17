@@ -3,7 +3,7 @@ ticket_id: HESD-487
 title: 'M-AMD-24-863374: CR corrections required email was sent but the PDF was not
   attached to the email'
 status: Closed
-created: 2024-08-15
+created: '2024-08-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-487
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:08
+last_synced: 2025-11-17T11:08
 ---
 
 # }:}

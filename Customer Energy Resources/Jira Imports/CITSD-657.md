@@ -2,11 +2,11 @@
 ticket_id: CITSD-657
 title: ARD422 - Cannot insert text in TMK and phone number fields - overwrites instead
 status: Closed
-created: 2024-01-18
+created: '2024-01-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-657
 project: citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:57
+last_synced: 2025-11-17T10:57
 tags:
   - watchlist
 ---
