@@ -2,7 +2,7 @@
 ticket_id: HESD-544
 title: 'INC0315244: Update External List Email address for Greenpath Technologies'
 status: Closed
-created: 2025-02-11
+created: '2025-02-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-544
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:47
+last_synced: 2025-11-17T09:47
 ---
 
 # }:}

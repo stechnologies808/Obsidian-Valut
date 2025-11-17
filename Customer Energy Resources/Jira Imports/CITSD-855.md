@@ -2,7 +2,7 @@
 ticket_id: CITSD-855
 title: 'DFCT0011346: BYOD Committed Capacity accepted alpha characters.'
 status: Resolved
-created: 2025-05-29
+created: '2025-05-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-855
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:11
+last_synced: 2025-11-17T08:11
 ---
 
 # }:}

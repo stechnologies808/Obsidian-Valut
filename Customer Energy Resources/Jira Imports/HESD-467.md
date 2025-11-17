@@ -3,11 +3,11 @@ ticket_id: HESD-467
 title: ARD800 - Project Validation Review hyperlinks not available after poject is
   executed
 status: Resolved
-created: 2024-07-25
+created: '2024-07-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-467
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:10
+last_synced: 2025-11-17T10:10
 tags:
   - watchlist
 ---

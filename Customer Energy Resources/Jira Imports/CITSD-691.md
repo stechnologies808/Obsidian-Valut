@@ -2,7 +2,7 @@
 ticket_id: CITSD-691
 title: SysCompTLD_doc i-info text PROMOTE DOWN
 status: Closed
-created: 2024-02-01
+created: '2024-02-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-691
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:00
+last_synced: 2025-11-17T10:00
 ---
 
 # }:}

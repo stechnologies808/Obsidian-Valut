@@ -2,7 +2,7 @@
 ticket_id: CITSD-831
 title: Document templates font change
 status: Resolved
-created: 2025-02-18
+created: '2025-02-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-831
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:30
+last_synced: 2025-11-17T09:30
 ---
 
 # }:}

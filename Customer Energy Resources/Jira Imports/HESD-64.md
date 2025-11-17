@@ -2,7 +2,7 @@
 ticket_id: HESD-64
 title: No enumeration options available for CID Reviewer in Queue View Filter
 status: Closed
-created: 2022-05-04
+created: '2022-05-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-64
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:19
+last_synced: 2025-11-17T09:19
 ---
 
 # }:}

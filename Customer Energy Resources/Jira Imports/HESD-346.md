@@ -2,7 +2,7 @@
 ticket_id: HESD-346
 title: 'ARD611 - Post-Go Live: Missing previous Completeness Review Document'
 status: Resolved
-created: 2024-04-08
+created: '2024-04-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-346
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:00
+last_synced: 2025-11-17T10:00
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-835
 title: 'DFCT0011248: Verification complete and PTO status emails were not transmitted.'
 status: Closed
-created: 2025-03-26
+created: '2025-03-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-835
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:40
+last_synced: 2025-11-17T09:40
 ---
 
 # }:}

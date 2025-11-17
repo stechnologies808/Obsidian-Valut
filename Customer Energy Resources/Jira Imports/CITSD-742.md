@@ -2,7 +2,7 @@
 ticket_id: CITSD-742
 title: ARD525 - Status of Applications blank on account with no applications
 status: Closed
-created: 2024-02-06
+created: '2024-02-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-742
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:57
+last_synced: 2025-11-17T09:57
 ---
 
 # }:}

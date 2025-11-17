@@ -3,7 +3,7 @@ ticket_id: HESD-602
 title: 'INC0323160: Alert from Val at 10:40am: receiving complaints about issues in
   CIT'
 status: Closed
-created: 2025-07-15
+created: '2025-07-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-602
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:46
+last_synced: 2025-11-17T08:46
 ---
 
 # }:}

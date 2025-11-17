@@ -3,7 +3,7 @@ ticket_id: HESD-431
 title: 'ARD745 - Post-Go Live: Missing button to add Energy Storage in Components
   page'
 status: Resolved
-created: 2024-06-20
+created: '2024-06-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-431
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:00
+last_synced: 2025-11-17T09:00
 ---
 
 # }:}

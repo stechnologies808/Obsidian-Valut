@@ -2,7 +2,7 @@
 ticket_id: HESD-645
 title: 'INC0327607: Contractor Cannot Submit Validation Due To Error Message'
 status: Closed
-created: 2025-10-04
+created: '2025-10-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-645
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T07:44
+last_synced: 2025-11-17T07:44
 ---
 
 # }:}

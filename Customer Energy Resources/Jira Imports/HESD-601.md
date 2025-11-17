@@ -2,7 +2,7 @@
 ticket_id: HESD-601
 title: CIT Meter Lookup issue
 status: Closed
-created: 2025-07-10
+created: '2025-07-10'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-601
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:48
+last_synced: 2025-11-17T08:48
 ---
 
 # }:}

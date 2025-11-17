@@ -3,7 +3,7 @@ ticket_id: CITSD-725
 title: ARD558 - Withdraw App Address concatenation shows up spaces/commas when no
   address was entered
 status: Resolved
-created: 2024-02-03
+created: '2024-02-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-725
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:30
+last_synced: 2025-11-17T09:30
 ---
 
 # }:}

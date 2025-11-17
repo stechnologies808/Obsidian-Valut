@@ -3,7 +3,7 @@ ticket_id: HESD-533
 title: 'INC0311020: HELCO Holding Queue was triggered for unknown reasons. Requesting
   vendor investigation to determine the trigger.'
 status: Closed
-created: 2024-11-19
+created: '2024-11-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-533
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:24
+last_synced: 2025-11-17T10:24
 ---
 
 # }:}

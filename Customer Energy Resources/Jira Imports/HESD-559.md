@@ -2,7 +2,7 @@
 ticket_id: HESD-559
 title: Multiple external users reporting that Prod is DOWN
 status: Closed
-created: 2025-03-22
+created: '2025-03-22'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-559
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:55
+last_synced: 2025-11-17T09:55
 ---
 
 # }:}

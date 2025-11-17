@@ -2,7 +2,7 @@
 ticket_id: HESD-229
 title: 'JIRA user account request: HE system account'
 status: Closed
-created: 2023-04-21
+created: '2023-04-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-229
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:15
+last_synced: 2025-11-17T09:15
 ---
 
 # }:}

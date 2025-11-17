@@ -2,7 +2,7 @@
 ticket_id: HESD-539
 title: 'INC0312792: Project location incorrect on two executed agreements'
 status: Closed
-created: 2024-12-31
+created: '2024-12-31'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-539
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:45
+last_synced: 2025-11-17T09:45
 ---
 
 # }:}

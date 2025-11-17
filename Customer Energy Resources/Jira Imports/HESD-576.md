@@ -3,7 +3,7 @@ ticket_id: HESD-576
 title: 'INC0318617: Prod CIT - Program Size and Technical Size are not correct for
   apps P-SDE-24-892781and P-SDE-24-945283'
 status: Closed
-created: 2025-04-17
+created: '2025-04-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-576
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:26
+last_synced: 2025-11-17T09:26
 ---
 
 # }:}

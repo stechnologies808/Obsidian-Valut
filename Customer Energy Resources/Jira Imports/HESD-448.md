@@ -2,11 +2,11 @@
 ticket_id: HESD-448
 title: PVSvcDisconnect_doc i-info text PROMOTE DOWN
 status: Resolved
-created: 2024-07-10
+created: '2024-07-10'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-448
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:04
+last_synced: 2025-11-17T10:04
 tags:
   - watchlist
 ---

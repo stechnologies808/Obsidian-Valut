@@ -3,7 +3,7 @@ ticket_id: HESD-511
 title: 'INC0309552: CIT Emails 150 day reminder email sent to PROD customers for unknown
   reasons'
 status: Closed
-created: 2024-10-17
+created: '2024-10-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-511
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:11
+last_synced: 2025-11-17T09:11
 ---
 
 # }:}

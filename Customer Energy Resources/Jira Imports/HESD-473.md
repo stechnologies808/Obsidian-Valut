@@ -3,11 +3,11 @@ ticket_id: HESD-473
 title: 'ARD806: CID Comments field is erroring with characters used prior to 7/24/2024
   deployment'
 status: Resolved
-created: 2024-07-31
+created: '2024-07-31'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-473
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:04
+last_synced: 2025-11-17T10:04
 tags:
   - watchlist
 ---

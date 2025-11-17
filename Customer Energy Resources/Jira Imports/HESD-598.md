@@ -2,7 +2,7 @@
 ticket_id: HESD-598
 title: 'External List Contractor email address update: MAUI BUILDERS CIT ACCOUNT'
 status: Resolved
-created: 2025-06-26
+created: '2025-06-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-598
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:43
+last_synced: 2025-11-17T08:43
 ---
 
 # }:}

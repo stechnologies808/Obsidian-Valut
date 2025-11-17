@@ -3,7 +3,7 @@ ticket_id: CITSD-857
 title: DFCT0011349::Max Generating Capacity field accept alpha characters without
   error message
 status: Resolved
-created: 2025-06-01
+created: '2025-06-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-857
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:11
+last_synced: 2025-11-17T08:11
 ---
 
 # }:}

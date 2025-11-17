@@ -3,7 +3,7 @@ ticket_id: HESD-424
 title: 'ARD738 - BYOD-96 Equipment List: No BYOD listed in User Action Export CIT
   App Equipment Data'
 status: Resolved
-created: 2024-06-11
+created: '2024-06-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-424
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:02
+last_synced: 2025-11-17T09:02
 ---
 
 # }:}

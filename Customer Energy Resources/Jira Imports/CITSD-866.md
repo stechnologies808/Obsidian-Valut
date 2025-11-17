@@ -2,7 +2,7 @@
 ticket_id: CITSD-866
 title: BYOD+ Reserved Capacities (Lanai)
 status: Closed
-created: 2025-06-28
+created: '2025-06-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-866
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:04
+last_synced: 2025-11-17T09:04
 ---
 
 # }:}

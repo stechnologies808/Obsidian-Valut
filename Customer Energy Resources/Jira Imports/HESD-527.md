@@ -3,7 +3,7 @@ ticket_id: HESD-527
 title: 'INC0271996: CIT PROD - P-GSP-21-318789 Inverter #5 requires modification to
   the inverter size.'
 status: Closed
-created: 2024-11-04
+created: '2024-11-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-527
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:36
+last_synced: 2025-11-17T09:36
 ---
 
 # }:}

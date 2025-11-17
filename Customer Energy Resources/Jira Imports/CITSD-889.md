@@ -1,24 +1,23 @@
 ---
-ticket_id: CITSD-847
-title: 'DFCT0011340: No change reflected in BYOD timeslot capacity export after new
-  application entered'
+ticket_id: CITSD-889
+title: 'DFCT0011467: Q4 Regression: Contractor Company Approval/Rejection Pop up error'
 status: Closed
-created: '2025-05-23'
-ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-847
+created: Yesterday
+ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-889
 project: citsd
 tags:
 - jira
 - ticket
 - citsd
 - closed
-updated: 2025-11-17T08:43
-last_synced: 2025-11-17T08:43
+updated: 2025-11-17T07:22
+last_synced: 2025-11-17T07:22
 ---
 
 # }:}
 ## Overview
 - **Status**: Closed
-- **Created**: 2025-05-23
+- **Created**: Yesterday
 - **Project**: citsd
 - **Request Type**: Unknown
 bucket:"" # External / Internal / LVM 
@@ -27,7 +26,7 @@ No description available
 ## Comments
 No comments available.
 ## Links
-- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-847)
+- [View in Jira](https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-889)
 - Original Summary: 
 ## Metadata
 - **Scraped**: Unknown

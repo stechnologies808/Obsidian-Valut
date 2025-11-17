@@ -2,7 +2,7 @@
 ticket_id: CITSD-806
 title: ARD716 - Language for Program Closure
 status: Closed
-created: 2024-06-08
+created: '2024-06-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-806
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:49
+last_synced: 2025-11-17T09:49
 ---
 
 # }:}

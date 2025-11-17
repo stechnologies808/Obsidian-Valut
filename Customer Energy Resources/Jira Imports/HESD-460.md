@@ -2,11 +2,11 @@
 ticket_id: HESD-460
 title: 'ARD782: BYOD project moved to HQ when there were available timeslots'
 status: Resolved
-created: 2024-07-21
+created: '2024-07-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-460
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:06
+last_synced: 2025-11-17T10:06
 tags:
   - watchlist
 ---

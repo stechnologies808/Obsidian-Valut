@@ -3,7 +3,7 @@ ticket_id: HESD-570
 title: 'INC0318200: H-NMP-24-799912. System Owner information is not showing up on
   the Pending Execution Link '
 status: Closed
-created: 2025-04-13
+created: '2025-04-13'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-570
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:45
+last_synced: 2025-11-17T09:45
 ---
 
 # }:}

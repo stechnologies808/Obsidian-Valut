@@ -2,7 +2,7 @@
 ticket_id: CITSD-863
 title: 'DFCT0011365: No equipment email sent (Not Vital to BYOD+)'
 status: Closed
-created: 2025-06-17
+created: '2025-06-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-863
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:58
+last_synced: 2025-11-17T08:58
 ---
 
 # }:}

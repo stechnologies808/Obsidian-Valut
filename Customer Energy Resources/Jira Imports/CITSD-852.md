@@ -2,7 +2,7 @@
 ticket_id: CITSD-852
 title: 'DFCT0011342: Trainingforms and STAGE email template not rendering correctly.'
 status: Closed
-created: 2025-05-29
+created: '2025-05-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-852
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:07
+last_synced: 2025-11-17T09:07
 ---
 
 # }:}

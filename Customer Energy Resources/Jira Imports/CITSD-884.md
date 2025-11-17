@@ -1,7 +1,7 @@
 ---
 ticket_id: CITSD-884
 title: 'DFCT0011458: Q4 Regression: Prefill BYOD+ applications System Owner YES'
-status: Waiting for customer
+status: Under Review
 created: '2025-11-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-884
 project: citsd
@@ -9,14 +9,15 @@ tags:
 - jira
 - ticket
 - citsd
+- under-review
 - waiting-for-customer
-updated: 2025-11-16T10:10
-last_synced: 2025-11-16T10:10
+updated: 2025-11-17T07:22
+last_synced: 2025-11-17T07:22
 ---
 
 # }:}
 ## Overview
-- **Status**: Waiting for customer
+- **Status**: Under Review
 - **Created**: 2025-11-11
 - **Project**: citsd
 - **Request Type**: Unknown

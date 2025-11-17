@@ -9,7 +9,7 @@ tags:
 
 # CITSD — Jira Tickets
 
-Total: 862
+Total: 863
 
 ## Open Tickets
 ```dataview

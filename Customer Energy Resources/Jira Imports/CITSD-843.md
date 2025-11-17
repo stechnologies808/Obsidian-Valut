@@ -2,7 +2,7 @@
 ticket_id: CITSD-843
 title: Watermark on loading the Queue View Page
 status: Resolved
-created: 2025-03-29
+created: '2025-03-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-843
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:47
+last_synced: 2025-11-17T09:47
 ---
 
 # }:}

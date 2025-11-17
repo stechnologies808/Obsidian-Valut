@@ -2,7 +2,7 @@
 ticket_id: CITSD-825
 title: 'DFCT0010766: Check mark and X do not appear to '
 status: Resolved
-created: 2024-09-28
+created: '2024-09-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-825
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:11
+last_synced: 2025-11-17T09:11
 ---
 
 # }:}

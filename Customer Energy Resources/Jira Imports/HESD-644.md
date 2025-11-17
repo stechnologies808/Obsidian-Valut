@@ -2,7 +2,7 @@
 ticket_id: HESD-644
 title: 'INC0327382:  Revision - Battery Bonus project P-AMD-24-755557'
 status: Resolved
-created: 2025-10-01
+created: '2025-10-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-644
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T07:44
+last_synced: 2025-11-17T07:44
 ---
 
 # }:}

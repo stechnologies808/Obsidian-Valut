@@ -2,7 +2,7 @@
 ticket_id: HESD-536
 title: INC0311736 CIT - 896829; Validation submittal - uploads stuck
 status: Closed
-created: 2024-12-06
+created: '2024-12-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-536
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:17
+last_synced: 2025-11-17T10:17
 ---
 
 # }:}

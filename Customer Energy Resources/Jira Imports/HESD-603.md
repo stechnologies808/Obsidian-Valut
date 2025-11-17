@@ -2,7 +2,7 @@
 ticket_id: HESD-603
 title: 'INC0323353 - Production LVM: 31,446 GU records were duplicated in LVM on 7/18/25'
 status: Closed
-created: 2025-07-18
+created: '2025-07-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-603
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:46
+last_synced: 2025-11-17T08:46
 ---
 
 # }:}

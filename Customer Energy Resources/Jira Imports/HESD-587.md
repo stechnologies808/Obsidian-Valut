@@ -2,7 +2,7 @@
 ticket_id: HESD-587
 title: 'Undo withdrawal for P-CSS-19-144428 '
 status: Closed
-created: 2025-05-16
+created: '2025-05-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-587
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:07
+last_synced: 2025-11-17T09:07
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: HESD-610
 title: 'PROD: Queue View error. Users are not able to view applications'
 status: Resolved
-created: 2025-08-05
+created: '2025-08-05'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-610
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:37
+last_synced: 2025-11-17T08:37
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: CITSD-872
 title: Stageforms and Trainingforms HE Internal users receive error message when viewing
   queue view.
 status: Closed
-created: 2025-08-04
+created: '2025-08-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-872
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:16
+last_synced: 2025-11-17T08:16
 ---
 
 # }:}

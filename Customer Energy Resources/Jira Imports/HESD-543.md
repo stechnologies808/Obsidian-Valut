@@ -2,7 +2,7 @@
 ticket_id: HESD-543
 title: Withdrawn application hyperlinks still available after approval
 status: Resolved
-created: 2025-02-10
+created: '2025-02-10'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-543
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:02
+last_synced: 2025-11-17T09:02
 ---
 
 # }:}

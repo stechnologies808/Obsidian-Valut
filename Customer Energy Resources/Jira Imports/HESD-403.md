@@ -3,11 +3,11 @@ ticket_id: HESD-403
 title: ARD710:Smart DER projects do not have [BESSCapacitykWh] information in the
   LVM files
 status: Resolved
-created: 2024-05-24
+created: '2024-05-24'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-403
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:02
+last_synced: 2025-11-17T10:02
 tags:
   - watchlist
 ---

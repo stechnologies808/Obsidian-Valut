@@ -2,7 +2,7 @@
 ticket_id: CITSD-836
 title: 'DFCT0011249: PTO email was not sent when project was executed.'
 status: Closed
-created: 2025-03-26
+created: '2025-03-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-836
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:04
+last_synced: 2025-11-17T09:04
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: HESD-617
 title: Reverse Withdrawal
 status: Closed
-created: 2025-08-29
+created: '2025-08-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-617
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:05
+last_synced: 2025-11-17T08:05
 ---
 
 # }:}

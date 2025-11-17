@@ -2,7 +2,7 @@
 ticket_id: HESD-571
 title: 'INC0318323: CIT PROD -  P-GSP-23-707787 Validation stuck'
 status: Closed
-created: 2025-04-13
+created: '2025-04-13'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-571
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:43
+last_synced: 2025-11-17T09:43
 ---
 
 # }:}

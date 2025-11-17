@@ -2,7 +2,7 @@
 ticket_id: HESD-277
 title: Update LOGO on email templates (all environments)
 status: Closed
-created: 2023-11-30
+created: '2023-11-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-277
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:13
+last_synced: 2025-11-17T09:13
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: HESD-563
 title: 'INC0312432: CIT PROD - P-AMD-23-672673 Locked and unable to proceed after
   revision from SDP to Non-SDP.'
 status: Closed
-created: 2025-04-01
+created: '2025-04-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-563
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:51
+last_synced: 2025-11-17T09:51
 ---
 
 # }:}

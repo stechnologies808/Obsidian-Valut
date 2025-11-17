@@ -3,7 +3,7 @@ ticket_id: HESD-15
 title: Change Island and Tax Jurisdiction Codes for Maui and Hawaii Island to match
   SAP
 status: Closed
-created: 2022-03-15
+created: '2022-03-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-15
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:21
+last_synced: 2025-11-17T09:21
 ---
 
 # }:}

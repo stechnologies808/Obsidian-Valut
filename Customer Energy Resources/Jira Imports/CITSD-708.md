@@ -3,11 +3,11 @@ ticket_id: CITSD-708
 title: ARD544 - [DD Update] Pending Execution Page - The Battery Bonus section appears
   when the Amend is not an SDP app
 status: Resolved
-created: 2024-02-03
+created: '2024-02-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-708
 project: citsd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:34
+last_synced: 2025-11-17T10:34
 tags:
   - watchlist
 ---

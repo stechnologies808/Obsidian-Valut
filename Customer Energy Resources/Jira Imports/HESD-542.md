@@ -2,7 +2,7 @@
 ticket_id: HESD-542
 title: Document upload stuck on pending
 status: Closed
-created: 2025-01-30
+created: '2025-01-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-542
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:17
+last_synced: 2025-11-17T10:17
 ---
 
 # }:}

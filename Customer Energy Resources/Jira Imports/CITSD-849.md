@@ -2,7 +2,7 @@
 ticket_id: CITSD-849
 title: 'DFCT0011341: AMDBYOD+ should not be included in the NON EXPORT calculation'
 status: Closed
-created: 2025-05-23
+created: '2025-05-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-849
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:34
+last_synced: 2025-11-17T09:34
 ---
 
 # }:}

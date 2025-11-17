@@ -3,7 +3,7 @@ ticket_id: HESD-411
 title: ARD383 - If multiple entries have the same last name, the Approve Contractors
   Admin action can only access one of them.
 status: Closed
-created: 2024-06-05
+created: '2024-06-05'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-411
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:32
+last_synced: 2025-11-17T10:32
 ---
 
 # }:}

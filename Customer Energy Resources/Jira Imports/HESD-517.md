@@ -3,7 +3,7 @@ ticket_id: HESD-517
 title: Update the company email for Haleakala Solar, Inc – Maui in CIT. They are requesting
   it to be changed to cjoy@haleakalasolar.com.
 status: Closed
-created: 2024-10-24
+created: '2024-10-24'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-517
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T09:53
+last_synced: 2025-11-17T09:53
 ---
 
 # }:}

@@ -2,11 +2,11 @@
 ticket_id: HESD-456
 title: 'ARD777 - [App Stuck] PROD: Contractor unable to resubmit corrections for CR'
 status: Resolved
-created: 2024-07-18
+created: '2024-07-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-456
 project: hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T10:08
+last_synced: 2025-11-17T10:08
 tags:
   - watchlist
 ---

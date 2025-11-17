@@ -2,7 +2,7 @@
 ticket_id: CITSD-868
 title: Stageforms does not display menu option for Smart DER
 status: Closed
-created: 2025-07-14
+created: '2025-07-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-868
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:56
+last_synced: 2025-11-17T08:56
 ---
 
 # }:}

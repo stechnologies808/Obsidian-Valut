@@ -3,7 +3,7 @@ ticket_id: HESD-538
 title: INC0312539 - Status for CIT application M-SDE-24-856280 will not advance to
   Pending Execution
 status: Closed
-created: 2024-12-23
+created: '2024-12-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-538
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:52
+last_synced: 2025-11-17T08:52
 ---
 
 # }:}

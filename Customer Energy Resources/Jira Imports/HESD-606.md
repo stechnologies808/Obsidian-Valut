@@ -3,7 +3,7 @@ ticket_id: HESD-606
 title: 'INC0323697: CID Customers stating that they are not able to move beyond page
   one, Basic Project Info'
 status: Resolved
-created: 2025-07-29
+created: '2025-07-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-606
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T08:37
+last_synced: 2025-11-17T08:37
 ---
 
 # }:}
