@@ -3,7 +3,7 @@ ticket_id: HESD-454
 title: 'ARD773 - [AppStuck] [HOTFIX]: Application stuck after completeness review;
   did not progress to ITR'
 status: Closed
-created: 2024-07-16
+created: '2024-07-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-454
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:03
+last_synced: 2025-11-17T12:03
 ---
 
 # }:}

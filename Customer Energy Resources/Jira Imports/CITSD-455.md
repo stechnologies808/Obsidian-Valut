@@ -2,7 +2,7 @@
 ticket_id: CITSD-455
 title: ARD168 - Interim Programs Customer Reference Header formatting very messy
 status: Resolved
-created: 2023-09-13
+created: '2023-09-13'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-455
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: CITSD-367
 title: ARD080 - [ADA] Missing “AC Disconnect” header in “Project System Components”
   section for Smart DER programs
 status: Resolved
-created: 2023-06-28
+created: '2023-06-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-367
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

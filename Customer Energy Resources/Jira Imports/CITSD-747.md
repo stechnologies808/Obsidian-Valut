@@ -3,7 +3,7 @@ ticket_id: CITSD-747
 title: ARD443 - New AS2 UI for internal admin pages does not show user account info
   in header bar
 status: Resolved
-created: 2024-02-14
+created: '2024-02-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-747
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

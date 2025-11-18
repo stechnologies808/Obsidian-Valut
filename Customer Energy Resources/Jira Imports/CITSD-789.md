@@ -3,7 +3,7 @@ ticket_id: CITSD-789
 title: ARD652 - Portal Applications with an Invalid [GU Status] are being counted
   in the LVM calculations
 status: Closed
-created: 2024-04-30
+created: '2024-04-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-789
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:11
+last_synced: 2025-11-17T12:11
 ---
 
 # }:}

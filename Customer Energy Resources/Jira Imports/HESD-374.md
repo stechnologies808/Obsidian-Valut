@@ -2,7 +2,7 @@
 ticket_id: HESD-374
 title: ARD662 - CID > Internal Server Error on Completeness Review
 status: Closed
-created: 2024-05-06
+created: '2024-05-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-374
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:48
+last_synced: 2025-11-17T11:48
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-583
 title: ARD315 - Interim DER programs - SR defects
 status: Resolved
-created: 2023-11-21
+created: '2023-11-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-583
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

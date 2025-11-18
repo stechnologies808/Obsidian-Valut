@@ -3,7 +3,7 @@ ticket_id: HESD-290
 title: '724546: Contractor stating they are not able to progress application past
   the Contact Information page of the Apply for Interconnection sectio'
 status: Resolved
-created: 2023-12-18
+created: '2023-12-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-290
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

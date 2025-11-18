@@ -3,7 +3,7 @@ ticket_id: CITSD-348
 title: 'ARD043 - Regression: Using DC-Coupled ESS with microinverters prevents moving
   forward. 198624'
 status: Resolved
-created: 2023-06-21
+created: '2023-06-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-348
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

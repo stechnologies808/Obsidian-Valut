@@ -2,7 +2,7 @@
 ticket_id: CITSD-447
 title: 'ARD165 - CR: Property Accessibility field captions incorrect'
 status: Resolved
-created: 2023-09-12
+created: '2023-09-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-447
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: HESD-420
 title: 'ARD736 - Post-Go Live: Unable to update inverter information when resubmitting
   failed application'
 status: Resolved
-created: 2024-06-06
+created: '2024-06-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-420
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:03
+last_synced: 2025-11-17T12:03
 ---
 
 # }:}

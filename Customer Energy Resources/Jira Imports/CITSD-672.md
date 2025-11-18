@@ -2,7 +2,7 @@
 ticket_id: CITSD-672
 title: ARD486 - Holding Queue for Oahu SDE turned back on since 1/10
 status: Closed
-created: 2024-01-25
+created: '2024-01-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-672
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

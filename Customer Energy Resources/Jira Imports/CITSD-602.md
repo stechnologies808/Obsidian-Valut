@@ -3,7 +3,7 @@ ticket_id: CITSD-602
 title: System Owner Suffix field missing when 'No' selected for 'Will the system be
   leased?'
 status: Closed
-created: 2023-12-19
+created: '2023-12-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-602
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:07
+last_synced: 2025-11-17T12:07
 ---
 
 # }:}

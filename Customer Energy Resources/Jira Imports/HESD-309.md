@@ -2,7 +2,7 @@
 ticket_id: HESD-309
 title: P-AMD-23-708392 will not move past Validation review.
 status: Resolved
-created: 2024-01-23
+created: '2024-01-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-309
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

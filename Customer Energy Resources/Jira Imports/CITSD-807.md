@@ -2,7 +2,7 @@
 ticket_id: CITSD-807
 title: ARD742 - CIT Does Not Generate .xml For MECO BYOD1 Amendment For SmartDER
 status: Resolved
-created: 2024-06-21
+created: '2024-06-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-807
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:14
+last_synced: 2025-11-17T12:14
 ---
 
 # }:}

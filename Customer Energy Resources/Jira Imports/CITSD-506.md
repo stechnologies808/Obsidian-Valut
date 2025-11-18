@@ -3,7 +3,7 @@ ticket_id: CITSD-506
 title: ARD220 - Incorrect autopopulated reference for circuit peak load kVA in ITR
   Hosting Capacity
 status: Resolved
-created: 2023-09-29
+created: '2023-09-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-506
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

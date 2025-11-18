@@ -3,7 +3,7 @@ ticket_id: HESD-284
 title: Contractor cannot make corrections to validation and verification submission
   for P-AMD-22-421750. No hyperlinks available. See attached.
 status: Resolved
-created: 2023-12-11
+created: '2023-12-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-284
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-721
 title: ARD554 - Header menu item hover color not enough contrast [ADA]
 status: Resolved
-created: 2024-02-03
+created: '2024-02-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-721
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

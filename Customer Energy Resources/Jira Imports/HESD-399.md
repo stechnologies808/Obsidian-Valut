@@ -2,7 +2,7 @@
 ticket_id: HESD-399
 title: ARD709:Actions for Utility_Completeness Review not enabled
 status: Closed
-created: 2024-05-23
+created: '2024-05-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-399
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:59
+last_synced: 2025-11-17T11:59
 ---
 
 # }:}

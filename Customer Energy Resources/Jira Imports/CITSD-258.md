@@ -2,7 +2,7 @@
 ticket_id: CITSD-258
 title: ALM 82 TEST UAT - [UI Styling] Top border of section missing
 status: Resolved
-created: 2023-04-11
+created: '2023-04-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-258
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-538
 title: ARD284 - Regression - defects in interim program ITR/SR
 status: Closed
-created: 2023-10-06
+created: '2023-10-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-538
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

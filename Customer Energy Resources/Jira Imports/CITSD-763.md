@@ -2,7 +2,7 @@
 ticket_id: CITSD-763
 title: BYOD 2&3 LFDI Required text
 status: Closed
-created: 2024-03-11
+created: '2024-03-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-763
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:11
+last_synced: 2025-11-17T12:11
 ---
 
 # }:}

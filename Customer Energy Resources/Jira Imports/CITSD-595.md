@@ -3,7 +3,7 @@ ticket_id: CITSD-595
 title: ARD334 - Revision Review/Summary poor aesthetics (revision field lines do not
   match to original)
 status: Resolved
-created: 2023-12-05
+created: '2023-12-05'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-595
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

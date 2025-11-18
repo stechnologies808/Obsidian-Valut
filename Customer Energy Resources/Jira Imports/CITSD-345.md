@@ -2,7 +2,7 @@
 ticket_id: CITSD-345
 title: 'ARD044 - Regression: Contractor can see but not use the Attach Documents button'
 status: Resolved
-created: 2023-06-21
+created: '2023-06-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-345
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

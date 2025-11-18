@@ -3,7 +3,7 @@ ticket_id: CITSD-673
 title: ARD493 - Receiving Internal Server Error message when submitting Validation
   correction as contractor
 status: Resolved
-created: 2024-01-26
+created: '2024-01-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-673
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

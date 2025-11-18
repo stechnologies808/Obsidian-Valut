@@ -2,7 +2,7 @@
 ticket_id: HESD-401
 title: 'ARD705: Post-Go Live: Revision - Technical system size calculating incorrectly'
 status: Resolved
-created: 2024-05-23
+created: '2024-05-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-401
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:57
+last_synced: 2025-11-17T11:57
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: CITSD-716
 title: ARD546 - Inverter Compliance Equipment Removal is needed for CERP to admin
   app but I was able to move forward with the app.
 status: Closed
-created: 2024-02-03
+created: '2024-02-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-716
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

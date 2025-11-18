@@ -3,7 +3,7 @@ ticket_id: CITSD-341
 title: ARD038 - Progress links not active upon re-logging in a user that started the
   application
 status: Resolved
-created: 2023-06-20
+created: '2023-06-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-341
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

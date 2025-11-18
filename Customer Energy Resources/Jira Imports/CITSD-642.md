@@ -2,7 +2,7 @@
 ticket_id: CITSD-642
 title: 'ARD440 - Revision: System does not allow revision to be submitted'
 status: Resolved
-created: 2024-01-16
+created: '2024-01-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-642
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

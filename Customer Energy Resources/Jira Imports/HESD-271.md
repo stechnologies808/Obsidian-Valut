@@ -2,7 +2,7 @@
 ticket_id: HESD-271
 title: External list issue with required fields
 status: Closed
-created: 2023-10-23
+created: '2023-10-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-271
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:09
+last_synced: 2025-11-17T12:09
 ---
 
 # }:}

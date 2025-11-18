@@ -4,7 +4,7 @@ title: ARD178 - In Project Validation Review Activity, Onsite Inspection Type an
   Pending Execution Status links should not be activated until after Validation Review
   has passed.
 status: Resolved
-created: 2023-09-18
+created: '2023-09-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-468
 project: citsd
 tags:
@@ -12,8 +12,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

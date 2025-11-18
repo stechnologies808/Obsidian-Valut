@@ -2,7 +2,7 @@
 ticket_id: CITSD-497
 title: ARD227 - Compliance clock should not be visible for external users
 status: Resolved
-created: 2023-09-28
+created: '2023-09-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-497
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

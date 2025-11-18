@@ -2,7 +2,7 @@
 ticket_id: CITSD-268
 title: ALM 92 TEST UAT - Three Line Drawing accepted file check issue
 status: Resolved
-created: 2023-04-12
+created: '2023-04-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-268
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

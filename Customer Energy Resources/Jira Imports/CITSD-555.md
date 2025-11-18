@@ -2,7 +2,7 @@
 ticket_id: CITSD-555
 title: ARD299 - Milestones are not displayed in the correct order
 status: Resolved
-created: 2023-10-31
+created: '2023-10-31'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-555
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

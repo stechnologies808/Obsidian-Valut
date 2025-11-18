@@ -2,7 +2,7 @@
 ticket_id: HESD-219
 title: 'Activities in wrong order: Project Validation Review and Verification'
 status: Closed
-created: 2023-03-28
+created: '2023-03-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-219
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

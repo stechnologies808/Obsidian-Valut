@@ -3,7 +3,7 @@ ticket_id: CITSD-757
 title: ARD577 - SMOKE TESTING - Unable to view drawings/photos in Review Revision
   stage; rerouted to DevForms Homepage
 status: Resolved
-created: 2024-02-28
+created: '2024-02-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-757
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

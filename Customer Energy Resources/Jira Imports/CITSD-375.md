@@ -2,7 +2,7 @@
 ticket_id: CITSD-375
 title: ARD088 - Date and Time in email include extra letters in communciations
 status: Resolved
-created: 2023-06-29
+created: '2023-06-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-375
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

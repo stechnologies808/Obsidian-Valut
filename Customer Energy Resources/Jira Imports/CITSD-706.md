@@ -2,7 +2,7 @@
 ticket_id: CITSD-706
 title: ARD536 - IRS required email not sent to the DERProcessing inbox
 status: Resolved
-created: 2024-02-02
+created: '2024-02-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-706
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

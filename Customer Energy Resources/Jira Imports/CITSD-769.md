@@ -3,7 +3,7 @@ ticket_id: CITSD-769
 title: ARD623 - I couldn't pass onsite compliance inspection screen even though I
   had the necessary fields filled out.
 status: Closed
-created: 2024-04-16
+created: '2024-04-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-769
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

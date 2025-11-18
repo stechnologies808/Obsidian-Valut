@@ -3,7 +3,7 @@ ticket_id: CITSD-513
 title: 'ARD233 - Application Submittal: Maximum Generating Capacity field should always
   be required'
 status: Resolved
-created: 2023-09-30
+created: '2023-09-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-513
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

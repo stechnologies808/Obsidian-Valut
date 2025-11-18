@@ -2,7 +2,7 @@
 ticket_id: CITSD-491
 title: "ARD221 - \tAssigned To: Utility vs DERProcessing during PV seems inconsistent"
 status: Resolved
-created: 2023-09-25
+created: '2023-09-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-491
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

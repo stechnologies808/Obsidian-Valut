@@ -4,7 +4,7 @@ title: ARD305 - [Mobile Responsive] Download button should not cut into the comm
   column and completely overlap the edit comment button or anything else in the comment
   column.
 status: Resolved
-created: 2023-11-08
+created: '2023-11-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-576
 project: citsd
 tags:
@@ -12,8 +12,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

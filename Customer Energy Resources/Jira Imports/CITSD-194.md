@@ -3,7 +3,7 @@ ticket_id: CITSD-194
 title: ALM-12 TEST UAT CUST. LANDING PAGE - Property and System owner phone number
   does not appear as phone number format
 status: Resolved
-created: 2023-03-17
+created: '2023-03-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-194
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

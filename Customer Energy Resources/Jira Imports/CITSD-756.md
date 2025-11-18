@@ -3,7 +3,7 @@ ticket_id: CITSD-756
 title: 'ARD575: Smoke Testing-Smoke Test: AMEND application stuck; no active hyperlink;
   cannot move app forward'
 status: Closed
-created: 2024-02-23
+created: '2024-02-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-756
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

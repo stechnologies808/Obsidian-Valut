@@ -2,7 +2,7 @@
 ticket_id: CITSD-571
 title: 'AMEND: Validation Submittal - Inverter Compliance Equipment Removal field'
 status: Closed
-created: 2023-11-04
+created: '2023-11-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-571
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:16
+last_synced: 2025-11-17T12:16
 ---
 
 # }:}

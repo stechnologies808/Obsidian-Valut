@@ -2,7 +2,7 @@
 ticket_id: HESD-377
 title: ARD674 > CIT/CID > Most data records missing from Production
 status: Resolved
-created: 2024-05-13
+created: '2024-05-13'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-377
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:48
+last_synced: 2025-11-17T11:48
 ---
 
 # }:}

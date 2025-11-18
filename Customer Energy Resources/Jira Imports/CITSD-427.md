@@ -3,7 +3,7 @@ ticket_id: CITSD-427
 title: ARD134 - ITR calculations ticket - hosting capacity and customer transformer
   fields
 status: Closed
-created: 2023-08-22
+created: '2023-08-22'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-427
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-646
 title: 'ARD358 - CR & PV: Electrical Drawings review fields out of order'
 status: Resolved
-created: 2024-01-18
+created: '2024-01-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-646
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

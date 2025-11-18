@@ -2,7 +2,7 @@
 ticket_id: CITSD-638
 title: ARD415 - PV Panel Quantity should not have a 1000 value limit
 status: Resolved
-created: 2024-01-10
+created: '2024-01-10'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-638
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

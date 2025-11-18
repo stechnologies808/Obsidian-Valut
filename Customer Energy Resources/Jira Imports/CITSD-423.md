@@ -2,7 +2,7 @@
 ticket_id: CITSD-423
 title: ARD130 - ITR HELCO/MECO circuit hosting capacity field not populated
 status: Resolved
-created: 2023-08-16
+created: '2023-08-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-423
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

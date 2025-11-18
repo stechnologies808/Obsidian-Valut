@@ -2,7 +2,7 @@
 ticket_id: CITSD-719
 title: ARD551 - Dashboard chart pushing outside of container
 status: Resolved
-created: 2024-02-03
+created: '2024-02-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-719
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:16
+last_synced: 2025-11-17T12:16
 ---
 
 # }:}

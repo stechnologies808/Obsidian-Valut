@@ -3,7 +3,7 @@ ticket_id: CITSD-356
 title: 'ARD025 - PV panel manufacturer does not populate on dropdown for PV Panels
   #2'
 status: Resolved
-created: 2023-06-23
+created: '2023-06-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-356
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

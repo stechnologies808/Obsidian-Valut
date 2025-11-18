@@ -3,7 +3,7 @@ ticket_id: CITSD-581
 title: ARD318 - Unable to submit Revision as HECOProcessor Error on submitting System
   Component Screen
 status: Resolved
-created: 2023-11-20
+created: '2023-11-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-581
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

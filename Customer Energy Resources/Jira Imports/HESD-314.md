@@ -2,7 +2,7 @@
 ticket_id: HESD-314
 title: Users can't upload files in CIT
 status: Resolved
-created: 2024-02-23
+created: '2024-02-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-314
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:07
+last_synced: 2025-11-17T12:07
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: CITSD-754
 title: 'ARD574: Smoke Testing: Submitted SDN app (NO BYOD) and application went into
   Holding Queue'
 status: Closed
-created: 2024-02-22
+created: '2024-02-22'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-754
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

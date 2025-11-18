@@ -2,7 +2,7 @@
 ticket_id: CITSD-543
 title: 'ARD292 - CID: 6A L6/L4 still in progress and fields not populated'
 status: Closed
-created: 2023-10-11
+created: '2023-10-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-543
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

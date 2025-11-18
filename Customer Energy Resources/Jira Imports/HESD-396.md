@@ -2,7 +2,7 @@
 ticket_id: HESD-396
 title: 'ARD702 Post-Go Live: Completeness Review Failed but no comms sent'
 status: Closed
-created: 2024-05-22
+created: '2024-05-22'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-396
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:57
+last_synced: 2025-11-17T11:57
 ---
 
 # }:}

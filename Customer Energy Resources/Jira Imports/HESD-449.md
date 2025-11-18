@@ -2,7 +2,7 @@
 ticket_id: HESD-449
 title: 'Portal not available: Cannot reach page'
 status: Closed
-created: 2024-07-11
+created: '2024-07-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-449
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:07
+last_synced: 2025-11-17T12:07
 ---
 
 # }:}

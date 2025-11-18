@@ -2,7 +2,7 @@
 ticket_id: HESD-205
 title: 150 day reminder not being sent to HELCO customers
 status: Resolved
-created: 2023-02-23
+created: '2023-02-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-205
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

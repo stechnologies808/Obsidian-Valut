@@ -3,7 +3,7 @@ ticket_id: HESD-437
 title: 'ARD753 - HOTFIX: Application stuck after completeness review; did not progress
   to ITR'
 status: Closed
-created: 2024-06-27
+created: '2024-06-27'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-437
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:03
+last_synced: 2025-11-17T12:03
 ---
 
 # }:}

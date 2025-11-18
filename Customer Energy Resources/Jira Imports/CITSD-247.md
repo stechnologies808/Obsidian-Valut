@@ -2,7 +2,7 @@
 ticket_id: CITSD-247
 title: ALM 71 TEST UAT - [UI Styling] General UI elements
 status: Resolved
-created: 2023-04-07
+created: '2023-04-07'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-247
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

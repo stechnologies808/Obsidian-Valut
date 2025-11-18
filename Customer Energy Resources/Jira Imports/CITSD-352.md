@@ -4,7 +4,7 @@ title: ARD056 - Project Validation Review Failed Fields document includes unflag
   comments from Completeness Review. Only for fields that appear on both Completeness
   Review and Validation Review workflows, such as system components.
 status: Closed
-created: 2023-06-23
+created: '2023-06-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-352
 project: citsd
 tags:
@@ -12,8 +12,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

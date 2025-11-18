@@ -3,7 +3,7 @@ ticket_id: CITSD-347
 title: 'ARD046 - Regression: Proposed Revision Summary document not attached to submission
   comms. Not always generated.'
 status: Resolved
-created: 2023-06-21
+created: '2023-06-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-347
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

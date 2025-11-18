@@ -2,7 +2,7 @@
 ticket_id: CITSD-639
 title: ARD419 - CID & CIT applications still using old email after account email change
 status: Closed
-created: 2024-01-11
+created: '2024-01-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-639
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:16
+last_synced: 2025-11-17T12:16
 ---
 
 # }:}

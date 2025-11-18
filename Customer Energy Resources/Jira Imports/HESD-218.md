@@ -2,7 +2,7 @@
 ticket_id: HESD-218
 title: Conditional Email not sent to customer
 status: Closed
-created: 2023-03-27
+created: '2023-03-27'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-218
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

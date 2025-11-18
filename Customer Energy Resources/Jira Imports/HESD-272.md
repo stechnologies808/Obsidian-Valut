@@ -2,7 +2,7 @@
 ticket_id: HESD-272
 title: '671269: Error message appears when contractor selects System Component Page'
 status: Resolved
-created: 2023-10-25
+created: '2023-10-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-272
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:09
+last_synced: 2025-11-17T12:09
 ---
 
 # }:}

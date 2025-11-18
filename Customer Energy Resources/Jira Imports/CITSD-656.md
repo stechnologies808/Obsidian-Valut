@@ -3,7 +3,7 @@ ticket_id: CITSD-656
 title: 'ARD410 - Withdrawal Approval: Withdraw Application blank drop down appears
   when screen is minimized'
 status: Resolved
-created: 2024-01-18
+created: '2024-01-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-656
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

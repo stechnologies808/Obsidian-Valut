@@ -2,7 +2,7 @@
 ticket_id: CITSD-762
 title: ARD579 - Getting 504 timeout error
 status: Resolved
-created: 2024-03-08
+created: '2024-03-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-762
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

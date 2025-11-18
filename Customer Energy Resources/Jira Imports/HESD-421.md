@@ -3,7 +3,7 @@ ticket_id: HESD-421
 title: 'ARD737 - Post-Go Live: Completeness Review missing Inverter and ESS information
   so Program and Technical size not calculating'
 status: Closed
-created: 2024-06-06
+created: '2024-06-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-421
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:03
+last_synced: 2025-11-17T12:03
 ---
 
 # }:}

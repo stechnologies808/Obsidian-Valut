@@ -2,7 +2,7 @@
 ticket_id: HESD-328
 title: 'ARD590 - Post-Go Live: Unable to upload a .msg file in the Documents tab'
 status: Resolved
-created: 2024-04-03
+created: '2024-04-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-328
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:14
+last_synced: 2025-11-17T12:14
 ---
 
 # }:}

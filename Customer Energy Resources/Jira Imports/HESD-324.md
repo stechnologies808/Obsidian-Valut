@@ -4,7 +4,7 @@ title: Contractor is not able to submit validation stage in application. Hyperli
   leads back to homepage. Issue appears to be due to IRS Review hyperlink still active.
   See attached.
 status: Resolved
-created: 2024-03-15
+created: '2024-03-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-324
 project: hesd
 tags:
@@ -12,8 +12,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:05
+last_synced: 2025-11-17T12:05
 ---
 
 # }:}

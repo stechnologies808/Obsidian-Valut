@@ -3,7 +3,7 @@ ticket_id: CITSD-380
 title: ARD092 - W-9 Received Date is required to be filled out in order to proceed
   forward
 status: Resolved
-created: 2023-06-30
+created: '2023-06-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-380
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: CITSD-671
 title: ARD487 - When attempting to resubmit a previously rejected application, error
   message appears
 status: Resolved
-created: 2024-01-25
+created: '2024-01-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-671
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-713
 title: ARD552 - Contact emails pushing outside of container table
 status: Resolved
-created: 2024-02-03
+created: '2024-02-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-713
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:18
+last_synced: 2025-11-17T12:18
 ---
 
 # }:}

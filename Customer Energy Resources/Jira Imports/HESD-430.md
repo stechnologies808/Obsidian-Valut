@@ -3,7 +3,7 @@ ticket_id: HESD-430
 title: 'ARD744 - Post-Go Live: Application status remains in PI/Conditional Approval
   status after Validation submitted'
 status: Closed
-created: 2024-06-20
+created: '2024-06-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-430
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:03
+last_synced: 2025-11-17T12:03
 ---
 
 # }:}

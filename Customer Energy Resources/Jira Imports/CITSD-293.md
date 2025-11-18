@@ -3,7 +3,7 @@ ticket_id: CITSD-293
 title: ALM 116 TEST - [UI Styling] Remove brown bottom border in charts section of
   dashboard
 status: Resolved
-created: 2023-04-19
+created: '2023-04-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-293
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

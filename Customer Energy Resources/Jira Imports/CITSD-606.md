@@ -3,7 +3,7 @@ ticket_id: CITSD-606
 title: 'ARD345  Review Project Validation: Customer Reference Header embedded in Compliance
   Clock'
 status: Closed
-created: 2023-12-21
+created: '2023-12-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-606
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

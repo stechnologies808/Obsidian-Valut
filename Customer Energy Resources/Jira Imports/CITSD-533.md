@@ -3,7 +3,7 @@ ticket_id: CITSD-533
 title: ARD273 - Application Intake Links are not enabled and does not allow for corrections
   to be made.
 status: Closed
-created: 2023-10-04
+created: '2023-10-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-533
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

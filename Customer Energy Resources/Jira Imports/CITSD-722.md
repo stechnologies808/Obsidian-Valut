@@ -2,7 +2,7 @@
 ticket_id: CITSD-722
 title: ARD555 - CID Stakeholders Sections missing headers
 status: Resolved
-created: 2024-02-03
+created: '2024-02-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-722
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:18
+last_synced: 2025-11-17T12:18
 ---
 
 # }:}

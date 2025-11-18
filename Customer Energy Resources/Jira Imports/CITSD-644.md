@@ -2,7 +2,7 @@
 ticket_id: CITSD-644
 title: ARD444 - [ADA] Header order for CID & CIT applications
 status: Resolved
-created: 2024-01-18
+created: '2024-01-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-644
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:18
+last_synced: 2025-11-17T12:18
 ---
 
 # }:}

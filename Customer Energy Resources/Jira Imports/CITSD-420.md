@@ -2,7 +2,7 @@
 ticket_id: CITSD-420
 title: Data dictionary S-071
 status: Resolved
-created: 2023-08-15
+created: '2023-08-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-420
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

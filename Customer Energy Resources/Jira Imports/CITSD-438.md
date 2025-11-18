@@ -2,7 +2,7 @@
 ticket_id: CITSD-438
 title: 'ARD151 - Project Validation Review: System Components table missing'
 status: Resolved
-created: 2023-09-07
+created: '2023-09-07'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-438
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

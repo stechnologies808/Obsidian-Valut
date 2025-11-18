@@ -2,7 +2,7 @@
 ticket_id: CITSD-475
 title: ARD208 - Completeness Review - multiple phone numbers are not in correct format
 status: Closed
-created: 2023-09-20
+created: '2023-09-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-475
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

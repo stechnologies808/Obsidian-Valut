@@ -3,7 +3,7 @@ ticket_id: CITSD-658
 title: ARD417 - No Completeness Review email is shown in CIT tab and no email is received
   for BYOD1 Amendment
 status: Closed
-created: 2024-01-18
+created: '2024-01-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-658
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:16
+last_synced: 2025-11-17T12:16
 ---
 
 # }:}

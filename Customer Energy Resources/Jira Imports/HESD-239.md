@@ -3,7 +3,7 @@ ticket_id: HESD-239
 title: ' Work Stoppage Error - Status and communication did not advance correctly
   for CIT application P-AMD-23-620079'
 status: Resolved
-created: 2023-05-26
+created: '2023-05-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-239
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

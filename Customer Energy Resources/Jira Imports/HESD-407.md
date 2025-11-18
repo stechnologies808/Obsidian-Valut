@@ -2,7 +2,7 @@
 ticket_id: HESD-407
 title: 'ARD715: Post-Go Live: Unable to update meter number for submitted application'
 status: Closed
-created: 2024-05-29
+created: '2024-05-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-407
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:59
+last_synced: 2025-11-17T11:59
 ---
 
 # }:}

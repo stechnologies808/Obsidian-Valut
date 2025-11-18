@@ -2,7 +2,7 @@
 ticket_id: CITSD-816
 title: ARD787 - Regression - TF Error when accessing Management dashboard
 status: Closed
-created: 2024-07-25
+created: '2024-07-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-816
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:07
+last_synced: 2025-11-17T12:07
 ---
 
 # }:}

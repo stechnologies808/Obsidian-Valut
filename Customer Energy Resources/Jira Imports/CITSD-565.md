@@ -2,7 +2,7 @@
 ticket_id: CITSD-565
 title: 'ARD235 - Pending Execution Status: Summary section should be disabled'
 status: Resolved
-created: 2023-11-04
+created: '2023-11-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-565
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

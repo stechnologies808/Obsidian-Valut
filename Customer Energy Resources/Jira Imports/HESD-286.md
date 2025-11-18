@@ -2,7 +2,7 @@
 ticket_id: HESD-286
 title: Error message alert for rule DEFAULT_ALERTRULE
 status: Closed
-created: 2023-12-11
+created: '2023-12-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-286
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:09
+last_synced: 2025-11-17T12:09
 ---
 
 # }:}

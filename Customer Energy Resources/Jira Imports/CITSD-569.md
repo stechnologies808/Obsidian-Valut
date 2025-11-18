@@ -3,7 +3,7 @@ ticket_id: CITSD-569
 title: ARD269 - [DD Update] Need System Owner name regardless if the system is leased
   or not
 status: Closed
-created: 2023-11-04
+created: '2023-11-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-569
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:14
+last_synced: 2025-11-17T12:14
 ---
 
 # }:}

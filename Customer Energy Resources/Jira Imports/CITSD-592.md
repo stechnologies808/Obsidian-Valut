@@ -1,16 +1,17 @@
 ---
 ticket_id: CITSD-592
-title: ARD331 - 	Alert banner not working for CIT
+title: "ARD331 - \tAlert banner not working for CIT"
 status: Resolved
-created: 2023-12-05
+created: '2023-12-05'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-592
 project: citsd
-  - jira
-  - ticket
-  - citsd
-  - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+tags:
+- jira
+- ticket
+- citsd
+- resolved
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

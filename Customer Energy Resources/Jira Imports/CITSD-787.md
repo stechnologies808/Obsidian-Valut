@@ -3,7 +3,7 @@ ticket_id: CITSD-787
 title: 'ARD640 - Smart DER Application: SDN agreement did not generate, error message
   appeared.'
 status: Closed
-created: 2024-04-25
+created: '2024-04-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-787
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:18
+last_synced: 2025-11-17T12:18
 ---
 
 # }:}

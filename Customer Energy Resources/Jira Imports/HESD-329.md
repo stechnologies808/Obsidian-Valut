@@ -3,7 +3,7 @@ ticket_id: HESD-329
 title: 'ARD593 - Post-Go Live: Unable to proceed from ''Compliance Inspection Type''
   page'
 status: Resolved
-created: 2024-04-03
+created: '2024-04-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-329
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

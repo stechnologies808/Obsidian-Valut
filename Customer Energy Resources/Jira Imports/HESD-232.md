@@ -2,7 +2,7 @@
 ticket_id: HESD-232
 title: 'Online Comms urgent request: update HE logo'
 status: Closed
-created: 2023-05-02
+created: '2023-05-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-232
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

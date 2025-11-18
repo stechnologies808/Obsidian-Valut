@@ -2,7 +2,7 @@
 ticket_id: CITSD-343
 title: ARD040 - Unable to Save and Continue with high quantity of inverters on application
 status: Resolved
-created: 2023-06-20
+created: '2023-06-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-343
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

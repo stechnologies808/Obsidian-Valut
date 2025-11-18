@@ -2,7 +2,7 @@
 ticket_id: CITSD-572
 title: ARD234 - Customer Reference Header should not be visible for internal users
 status: Resolved
-created: 2023-11-06
+created: '2023-11-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-572
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

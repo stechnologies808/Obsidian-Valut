@@ -2,7 +2,7 @@
 ticket_id: CITSD-605
 title: ARD341 - Conditional Approval email did not trigger upon CR pass w/ITR bypass
 status: Closed
-created: 2023-12-20
+created: '2023-12-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-605
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

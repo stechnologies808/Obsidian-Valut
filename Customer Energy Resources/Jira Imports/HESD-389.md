@@ -3,7 +3,7 @@ ticket_id: HESD-389
 title: 'ARD 693: PROD - Links for In-Flight and New Applications Sent to DEREngineering@hawaiianelectric.com
   inbox do not work - Initial Technical Review'
 status: Resolved
-created: 2024-05-20
+created: '2024-05-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-389
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:14
+last_synced: 2025-11-17T12:14
 ---
 
 # }:}

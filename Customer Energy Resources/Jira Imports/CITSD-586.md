@@ -2,7 +2,7 @@
 ticket_id: CITSD-586
 title: ARD323 - [UI Styling] All Footer Changes from AS2 project are gone.
 status: Resolved
-created: 2023-11-23
+created: '2023-11-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-586
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

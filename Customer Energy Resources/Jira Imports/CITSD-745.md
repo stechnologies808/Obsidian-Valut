@@ -3,7 +3,7 @@ ticket_id: CITSD-745
 title: ARD569 - Unable to remove C&C Inspection Release from CIT inputted by Suzy
   (SCUARESM) dated 2/5/24
 status: Closed
-created: 2024-02-09
+created: '2024-02-09'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-745
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:16
+last_synced: 2025-11-17T12:16
 ---
 
 # }:}

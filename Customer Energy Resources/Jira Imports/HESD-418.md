@@ -2,7 +2,7 @@
 ticket_id: HESD-418
 title: 'ARD733 - Post-Go Live: Revision - Contractor unable to change inverter information'
 status: Resolved
-created: 2024-06-06
+created: '2024-06-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-418
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:03
+last_synced: 2025-11-17T12:03
 ---
 
 # }:}

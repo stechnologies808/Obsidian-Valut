@@ -3,7 +3,7 @@ ticket_id: CITSD-216
 title: 'ALM-43 TEST UAT: Project Summary Details PDF Formatting the System Components
   large space'
 status: Resolved
-created: 2023-03-24
+created: '2023-03-24'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-216
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

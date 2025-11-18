@@ -2,7 +2,7 @@
 ticket_id: CITSD-750
 title: STAGE User's view is of a contractor and not an internal user
 status: Closed
-created: 2024-02-21
+created: '2024-02-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-750
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

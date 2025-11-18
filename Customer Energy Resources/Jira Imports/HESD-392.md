@@ -3,7 +3,7 @@ ticket_id: HESD-392
 title: ARD 696:One of them is missing the device installation date field and the participant
   resource capability start date field. This is for H-SDN-24-809729.
 status: Closed
-created: 2024-05-20
+created: '2024-05-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-392
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:18
+last_synced: 2025-11-17T12:18
 ---
 
 # }:}

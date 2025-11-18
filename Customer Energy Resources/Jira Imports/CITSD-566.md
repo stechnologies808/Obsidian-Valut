@@ -3,7 +3,7 @@ ticket_id: CITSD-566
 title: 'ARD244 - Project Validation Review: Accessibility fields need to be updated
   in DD'
 status: Resolved
-created: 2023-11-04
+created: '2023-11-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-566
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

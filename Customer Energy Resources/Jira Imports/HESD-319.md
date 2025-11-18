@@ -3,7 +3,7 @@ ticket_id: HESD-319
 title: 'Unable to move application forward from Completeness Review: Suspect nonascii
   characters in ESS description text box'
 status: Resolved
-created: 2024-02-28
+created: '2024-02-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-319
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T12:07
+last_synced: 2025-11-17T12:07
 ---
 
 # }:}

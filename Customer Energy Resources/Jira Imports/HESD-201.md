@@ -2,7 +2,7 @@
 ticket_id: HESD-201
 title: 'P-AMD-22-535113: Unable to submit AMEND components page'
 status: Closed
-created: 2023-02-08
+created: '2023-02-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-201
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

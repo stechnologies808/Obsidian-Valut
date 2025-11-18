@@ -2,7 +2,7 @@
 ticket_id: HESD-235
 title: 'STAGE: Endpoint for SAP Environment'
 status: Resolved
-created: 2023-05-11
+created: '2023-05-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-235
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

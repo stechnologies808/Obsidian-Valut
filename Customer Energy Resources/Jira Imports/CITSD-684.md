@@ -3,7 +3,7 @@ ticket_id: CITSD-684
 title: 'ARD489 - Project Validation Review: Start Project Validation section visible
   in Last Chance section'
 status: Resolved
-created: 2024-01-31
+created: '2024-01-31'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-684
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

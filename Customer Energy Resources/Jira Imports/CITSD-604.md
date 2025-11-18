@@ -3,7 +3,7 @@ ticket_id: CITSD-604
 title: ARD343 - CID dashboard shows CIT dashboard alert when CID dashboard alert is
   not active but CIT dashboard alert is active
 status: Resolved
-created: 2023-12-19
+created: '2023-12-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-604
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

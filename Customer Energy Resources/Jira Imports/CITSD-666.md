@@ -2,7 +2,7 @@
 ticket_id: CITSD-666
 title: Weekly Ticket Sync 3/18/24-3/22/24
 status: Closed
-created: 2024-01-23
+created: '2024-01-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-666
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

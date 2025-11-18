@@ -2,7 +2,7 @@
 ticket_id: CITSD-368
 title: ARD-081 - Form invalid field count not updated after resubmitting
 status: Resolved
-created: 2023-06-28
+created: '2023-06-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-368
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

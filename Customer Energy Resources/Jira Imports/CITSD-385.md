@@ -2,7 +2,7 @@
 ticket_id: CITSD-385
 title: Data Dictionary HE_Data_Dictionary2023-07-18 13-05-00
 status: Closed
-created: 2023-07-18
+created: '2023-07-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-385
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

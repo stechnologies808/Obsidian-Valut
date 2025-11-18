@@ -3,7 +3,7 @@ ticket_id: HESD-375
 title: ARD661 - PROD - Program Type Information has Disappearedfor some Applications
   (in CIT and LVM)
 status: Resolved
-created: 2024-05-06
+created: '2024-05-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-375
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T11:48
+last_synced: 2025-11-17T11:48
 ---
 
 # }:}

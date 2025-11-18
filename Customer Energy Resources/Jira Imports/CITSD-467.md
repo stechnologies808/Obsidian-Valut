@@ -2,7 +2,7 @@
 ticket_id: CITSD-467
 title: ARD-173 Data Dictionary Change - Section Header Electrical Drawings
 status: Closed
-created: 2023-09-18
+created: '2023-09-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-467
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}

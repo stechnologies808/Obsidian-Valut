@@ -3,7 +3,7 @@ ticket_id: CITSD-627
 title: 'ARD382 - Revision: Show only fields with different values toggle does not
   include revised single line drawing upload'
 status: Resolved
-created: 2024-01-08
+created: '2024-01-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-627
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-17T17:00
+last_synced: 2025-11-17T17:00
 ---
 
 # }:}
