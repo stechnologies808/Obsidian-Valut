@@ -8,11 +8,7 @@ project: hesd
 updated: 2025-11-19T06:43
 last_synced: 2025-11-19T06:43
 tags:
-- jira
-- ticket
-- closed
-- hesd
-- watchlist
+  - watchlist
 ---
 
 # }:}
