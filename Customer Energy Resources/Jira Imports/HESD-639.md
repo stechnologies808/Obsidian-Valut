@@ -1,7 +1,7 @@
 ---
 ticket_id: HESD-639
 title: 'INC0326694: CIT - Rate Schedule inconsistent in email template'
-status: Under Review
+status: Waiting for customer
 created: '2025-09-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-639
 project: hesd
@@ -9,14 +9,14 @@ tags:
 - jira
 - ticket
 - hesd
-- under-review
-updated: 2025-11-17T07:46
-last_synced: 2025-11-17T07:46
+- waiting-for-customer
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}
 ## Overview
-- **Status**: Under Review
+- **Status**: Waiting for customer
 - **Created**: 2025-09-23
 - **Project**: hesd
 - **Request Type**: Unknown

@@ -2,7 +2,7 @@
 ticket_id: CITSD-47
 title: Validation notification email language
 status: Resolved
-created: 2022-03-02
+created: '2022-03-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-47
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

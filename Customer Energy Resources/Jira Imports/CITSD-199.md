@@ -3,7 +3,7 @@ ticket_id: CITSD-199
 title: Welcome Page > White space is missing in the banner between the greeting and
   the username.
 status: Closed
-created: 2023-03-21
+created: '2023-03-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-199
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

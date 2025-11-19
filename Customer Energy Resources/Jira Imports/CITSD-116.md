@@ -2,7 +2,7 @@
 ticket_id: CITSD-116
 title: Conditional Approval email not sent for ITS bypassed amendment.
 status: Resolved
-created: 2022-11-03
+created: '2022-11-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-116
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-88
 title: Regression Queue View Filter Does Not Contain STAGE
 status: Closed
-created: 2022-03-16
+created: '2022-03-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-88
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: HESD-8
 title: HECO Processors are not able to Review Revision requests that were in-flight
   pre-go-live.
 status: Resolved
-created: 2022-03-16
+created: '2022-03-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-8
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

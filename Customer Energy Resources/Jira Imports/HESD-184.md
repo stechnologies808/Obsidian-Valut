@@ -2,7 +2,7 @@
 ticket_id: HESD-184
 title: False flag for equipment not available in dropdown appeared in error for P-AMD-22-530228
 status: Closed
-created: 2023-01-21
+created: '2023-01-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-184
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

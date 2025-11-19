@@ -2,7 +2,7 @@
 ticket_id: CITSD-89
 title: Amendment Application that passed HQ screen still in HQ status
 status: Resolved
-created: 2022-03-17
+created: '2022-03-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-89
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

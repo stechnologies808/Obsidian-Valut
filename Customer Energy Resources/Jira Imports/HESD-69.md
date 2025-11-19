@@ -3,7 +3,7 @@ ticket_id: HESD-69
 title: Links to previous activities are active and available, even though the Process
   phase is PV
 status: Closed
-created: 2022-05-06
+created: '2022-05-06'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-69
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

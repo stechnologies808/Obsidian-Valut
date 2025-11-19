@@ -2,7 +2,7 @@
 ticket_id: CIDSD-97
 title: Project Type categories are duplicated on Kibana reports
 status: Resolved
-created: 2022-02-15
+created: '2022-02-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-97
 project: cidsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

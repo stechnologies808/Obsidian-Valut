@@ -2,7 +2,7 @@
 ticket_id: CIDSD-41
 title: Need assistance on identifying variable names for populating email templates
 status: Resolved
-created: 2021-12-15
+created: '2021-12-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-41
 project: cidsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

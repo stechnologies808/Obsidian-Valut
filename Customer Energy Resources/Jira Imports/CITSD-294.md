@@ -3,7 +3,7 @@ ticket_id: CITSD-294
 title: ALM 117 TEST UAT - Alan Lee missing Reporting dropdown on top nav menu despite
   having permissions
 status: Resolved
-created: 2023-04-20
+created: '2023-04-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-294
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

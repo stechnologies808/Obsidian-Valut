@@ -3,7 +3,7 @@ ticket_id: CIDSD-75
 title: The questions Load Review Required? and Additional Information Needed? do not
   appear
 status: Resolved
-created: 2022-01-25
+created: '2022-01-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-75
 project: cidsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

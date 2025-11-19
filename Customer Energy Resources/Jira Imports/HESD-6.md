@@ -2,7 +2,7 @@
 ticket_id: HESD-6
 title: Event history tab should not be visible to non-HE internal users
 status: Resolved
-created: 2022-02-25
+created: '2022-02-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-6
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

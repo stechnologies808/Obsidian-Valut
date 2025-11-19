@@ -3,7 +3,7 @@ ticket_id: CITSD-275
 title: ALM 98 TEST - ITR workflow > Downtown network screen and Transient Overvoltage
   screens not recalculating based on user input
 status: Resolved
-created: 2023-04-15
+created: '2023-04-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-275
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

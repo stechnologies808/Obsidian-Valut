@@ -2,7 +2,7 @@
 ticket_id: CITSD-25
 title: Remove the text when choosing Modify Service CID_ModifyService_TimelineMsg
 status: Resolved
-created: 2022-02-04
+created: '2022-02-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-25
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: HESD-62
 title: Multiple approved users are being directed back to the home page when they
   try and start a new electrical service request
 status: Resolved
-created: 2022-04-30
+created: '2022-04-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-62
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

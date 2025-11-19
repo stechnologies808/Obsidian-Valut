@@ -3,7 +3,7 @@ ticket_id: CITSD-323
 title: ALM 145 TEST UAT - DASHBOARD - Values on pie chart do not match values when
   filtering in the queue view
 status: Closed
-created: 2023-05-12
+created: '2023-05-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-323
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

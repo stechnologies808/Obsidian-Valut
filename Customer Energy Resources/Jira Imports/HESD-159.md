@@ -2,7 +2,7 @@
 ticket_id: HESD-159
 title: 377561 Completeness Review is stuck, with no links or ways to process further.
 status: Closed
-created: 2022-11-03
+created: '2022-11-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-159
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

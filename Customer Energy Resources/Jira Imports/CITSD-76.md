@@ -2,7 +2,7 @@
 ticket_id: CITSD-76
 title: Change/Modify field isSDP to Yes or No in Queue View for filtering
 status: Closed
-created: 2022-03-08
+created: '2022-03-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-76
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

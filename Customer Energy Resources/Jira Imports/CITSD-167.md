@@ -3,7 +3,7 @@ ticket_id: CITSD-167
 title: Most recent Revision Summary document is not displayed as primary version on
   documents tab
 status: Closed
-created: 2022-12-29
+created: '2022-12-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-167
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

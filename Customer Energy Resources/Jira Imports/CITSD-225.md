@@ -2,7 +2,7 @@
 ticket_id: CITSD-225
 title: '[UI Styling] Header Bar Color'
 status: Resolved
-created: 2023-03-29
+created: '2023-03-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-225
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: HESD-87
 title: 'PROD: CSV Export fields not available; external list not available for download'
 status: Resolved
-created: 2022-05-25
+created: '2022-05-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-87
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

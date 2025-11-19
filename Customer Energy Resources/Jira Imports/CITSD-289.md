@@ -2,7 +2,7 @@
 ticket_id: CITSD-289
 title: ALM 112 TEST - Files are not being transferred from GU to SAP 6A Notification
 status: Resolved
-created: 2023-04-19
+created: '2023-04-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-289
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

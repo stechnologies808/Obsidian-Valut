@@ -2,7 +2,7 @@
 ticket_id: CITSD-21
 title: Project Validation and Verification process step order
 status: Resolved
-created: 2022-01-31
+created: '2022-01-31'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-21
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

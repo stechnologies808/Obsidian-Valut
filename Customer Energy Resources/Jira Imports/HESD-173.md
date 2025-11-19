@@ -3,7 +3,7 @@ ticket_id: HESD-173
 title: CIT application M-CSS-22-522396- Completeness Review Internal email was not
   sent.
 status: Closed
-created: 2022-12-22
+created: '2022-12-22'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-173
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

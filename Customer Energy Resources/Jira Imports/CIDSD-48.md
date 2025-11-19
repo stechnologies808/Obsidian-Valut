@@ -3,7 +3,7 @@ ticket_id: CIDSD-48
 title: Wrong island meter error message for Maui and Hawaii Island appears in Stage
   environment
 status: Resolved
-created: 2021-12-17
+created: '2021-12-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-48
 project: cidsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

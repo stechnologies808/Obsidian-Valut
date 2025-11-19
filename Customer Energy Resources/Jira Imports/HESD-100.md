@@ -2,7 +2,7 @@
 ticket_id: HESD-100
 title: 'AMEND workflow: Customer not able to submit - no changes to components'
 status: Resolved
-created: 2022-06-15
+created: '2022-06-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-100
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

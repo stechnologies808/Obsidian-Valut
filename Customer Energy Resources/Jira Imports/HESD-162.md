@@ -3,7 +3,7 @@ ticket_id: HESD-162
 title: '462585: App is in PI but Start of Project Validation not available Utility
   Upgrade link active. '
 status: Closed
-created: 2022-11-18
+created: '2022-11-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-162
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

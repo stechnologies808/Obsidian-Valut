@@ -2,7 +2,7 @@
 ticket_id: HESD-204
 title: '405753: Unable to Review Submitted Revision'
 status: Resolved
-created: 2023-02-16
+created: '2023-02-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-204
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

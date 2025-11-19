@@ -2,7 +2,7 @@
 ticket_id: CIDSD-71
 title: Multiple duplicate emails coming from processed folder into GU Comm tab
 status: Resolved
-created: 2022-01-19
+created: '2022-01-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-71
 project: cidsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

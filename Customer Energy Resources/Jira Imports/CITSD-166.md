@@ -2,7 +2,7 @@
 ticket_id: CITSD-166
 title: Revision Summary document does not appear on documents tab for internal user
 status: Resolved
-created: 2022-12-29
+created: '2022-12-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-166
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

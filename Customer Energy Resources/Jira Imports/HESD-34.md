@@ -2,7 +2,7 @@
 ticket_id: HESD-34
 title: Project Validation/Pending Execution Fields lock during Pending Execution Status
 status: Resolved
-created: 2022-03-29
+created: '2022-03-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-34
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

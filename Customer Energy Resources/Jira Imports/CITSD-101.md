@@ -3,7 +3,7 @@ ticket_id: CITSD-101
 title: REGRESSION TESTING - Insurance fields do not appear in the validation page
   for project that's over threshold
 status: Closed
-created: 2022-03-23
+created: '2022-03-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-101
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

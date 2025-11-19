@@ -2,7 +2,7 @@
 ticket_id: CITSD-146
 title: REGRESSION - SA unable to edit users
 status: Closed
-created: 2022-11-29
+created: '2022-11-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-146
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

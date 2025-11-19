@@ -2,7 +2,7 @@
 ticket_id: CITSD-56
 title: Verification Emails to Customer/Contractor (External Users)
 status: Closed
-created: 2022-03-03
+created: '2022-03-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-56
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

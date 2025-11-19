@@ -2,7 +2,7 @@
 ticket_id: CITSD-109
 title: Error message appears when entering non-CIT existing agreement ID during CR
 status: Resolved
-created: 2022-10-20
+created: '2022-10-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-109
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

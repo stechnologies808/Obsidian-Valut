@@ -3,7 +3,7 @@ ticket_id: CITSD-66
 title: 'Project Summary Page Total kW value incorrect: Does not match override Total
   Amendment Change kW field from Completeness Review.'
 status: Resolved
-created: 2022-03-04
+created: '2022-03-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-66
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

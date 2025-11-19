@@ -2,7 +2,7 @@
 ticket_id: CIDSD-83
 title: Queue View sometimes fails to export.(HPALM 319)
 status: Resolved
-created: 2022-01-29
+created: '2022-01-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-83
 project: cidsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

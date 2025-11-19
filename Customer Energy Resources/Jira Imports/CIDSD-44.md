@@ -3,7 +3,7 @@ ticket_id: CIDSD-44
 title: Need assistance creating user accounts in STAGE for Jared Timmerman; Error
   message that his email address is invalid
 status: Closed
-created: 2021-12-16
+created: '2021-12-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-44
 project: cidsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - cidsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

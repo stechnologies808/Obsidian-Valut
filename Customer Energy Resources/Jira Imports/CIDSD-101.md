@@ -3,7 +3,7 @@ ticket_id: CIDSD-101
 title: Unable to update 'i-info' on the Stakeholder name field. Is this b/c its a
   field table?
 status: Resolved
-created: 2022-02-23
+created: '2022-02-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-101
 project: cidsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

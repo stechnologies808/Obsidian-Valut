@@ -2,7 +2,7 @@
 ticket_id: HESD-224
 title: Contractor receiving error when submitting revision
 status: Closed
-created: 2023-04-11
+created: '2023-04-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-224
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

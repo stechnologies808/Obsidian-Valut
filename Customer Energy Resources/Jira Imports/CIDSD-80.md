@@ -3,7 +3,7 @@ ticket_id: CIDSD-80
 title: 'Temporary Service:  Installation Fee Payer fields not enforced when Other
   is selected'
 status: Resolved
-created: 2022-01-27
+created: '2022-01-27'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-80
 project: cidsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

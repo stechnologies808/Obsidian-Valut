@@ -5,10 +5,14 @@ status: Resolved
 created: '2024-05-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-386
 project: hesd
-updated: 2025-11-17T11:54
-last_synced: 2025-11-17T11:54
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 tags:
-  - watchlist
+- jira
+- ticket
+- hesd
+- resolved
+- watchlist
 ---
 
 # }:}

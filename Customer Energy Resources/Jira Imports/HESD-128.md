@@ -2,7 +2,7 @@
 ticket_id: HESD-128
 title: Need to remove nonascii character in Project Description for app 455267
 status: Resolved
-created: 2022-08-09
+created: '2022-08-09'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-128
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

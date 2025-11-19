@@ -2,7 +2,7 @@
 ticket_id: HESD-150
 title: '304317 Application Project Validation Hyperlink not available '
 status: Closed
-created: 2022-10-07
+created: '2022-10-07'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-150
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

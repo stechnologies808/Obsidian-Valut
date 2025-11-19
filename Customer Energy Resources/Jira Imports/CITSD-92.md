@@ -2,7 +2,7 @@
 ticket_id: CITSD-92
 title: CSV Export/Reporting Project Company Servicing Project data missing on 03/19
 status: Closed
-created: 2022-03-19
+created: '2022-03-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-92
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

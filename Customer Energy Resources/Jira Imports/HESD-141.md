@@ -2,7 +2,7 @@
 ticket_id: HESD-141
 title: Nonascii character in Project P-CSS-22-359057. Unable to move app forward
 status: Closed
-created: 2022-09-08
+created: '2022-09-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-141
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -3,7 +3,7 @@ ticket_id: HESD-102
 title: CID Contractor unable to start new electrical request; redirects to landing
   page
 status: Resolved
-created: 2022-06-16
+created: '2022-06-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-102
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

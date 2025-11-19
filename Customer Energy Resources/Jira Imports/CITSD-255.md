@@ -4,7 +4,7 @@ title: 'ALM 78 TEST UAT - REVISION REVIEW - UPON CLICKING “VIEW REVISION” FR
   ACTIONS TAB, ROUTED TO THE REVISION (SUBMITTAL): REVIEW CHANGERS PAGE. UNABLE TO
   PROCESS/REVIEW THE REVISION SUBMITTED.'
 status: Resolved
-created: 2023-04-11
+created: '2023-04-11'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-255
 project: citsd
 tags:
@@ -12,8 +12,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

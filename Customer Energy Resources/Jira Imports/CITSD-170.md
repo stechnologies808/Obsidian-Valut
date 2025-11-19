@@ -4,7 +4,7 @@ title: 'Clarification/confirmation request: The validation document upload field
   are not consistent in their accepted file types. Was this requested? If not, is
   there a particular reason?'
 status: Closed
-created: 2022-12-29
+created: '2022-12-29'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-170
 project: citsd
 tags:
@@ -12,8 +12,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

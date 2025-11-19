@@ -3,7 +3,7 @@ ticket_id: CITSD-139
 title: REGRESSION - Receiving error message when clicking on VIEW documents on Project
   Validation Review page
 status: Resolved
-created: 2022-11-28
+created: '2022-11-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-139
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

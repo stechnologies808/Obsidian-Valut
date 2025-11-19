@@ -2,7 +2,7 @@
 ticket_id: HESD-133
 title: View Revision link active for an application that the Revision was accepted
 status: Closed
-created: 2022-08-18
+created: '2022-08-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-133
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

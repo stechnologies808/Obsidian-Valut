@@ -3,7 +3,7 @@ ticket_id: CIDSD-17
 title: The Project Summary page does not display the correct customer in the Customer
   section.
 status: Resolved
-created: 2021-11-03
+created: '2021-11-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-17
 project: cidsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CIDSD-13
 title: Initial Deposit Letter Sent is not recorded in Event History.
 status: Resolved
-created: 2021-09-17
+created: '2021-09-17'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-13
 project: cidsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

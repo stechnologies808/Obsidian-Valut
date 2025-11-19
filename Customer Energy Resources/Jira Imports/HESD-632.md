@@ -1,7 +1,7 @@
 ---
 ticket_id: HESD-632
 title: CID User Unable to Start New Electrical Service Application
-status: Queued
+status: Under Review
 created: '2025-09-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-632
 project: hesd
@@ -9,14 +9,14 @@ tags:
 - jira
 - ticket
 - hesd
-- queued
-updated: 2025-11-17T07:24
-last_synced: 2025-11-17T07:24
+- under-review
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}
 ## Overview
-- **Status**: Queued
+- **Status**: Under Review
 - **Created**: 2025-09-18
 - **Project**: hesd
 - **Request Type**: Unknown

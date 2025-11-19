@@ -3,7 +3,7 @@ ticket_id: CITSD-280
 title: ALM 102 TEST - ITR Workflow > Secondary Voltage screen not autopopulating and
   autocalculating
 status: Closed
-created: 2023-04-15
+created: '2023-04-15'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-280
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

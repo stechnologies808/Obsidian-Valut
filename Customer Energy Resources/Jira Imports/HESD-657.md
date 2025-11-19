@@ -2,22 +2,22 @@
 ticket_id: HESD-657
 title: 'INC0329723: Prod application P-AMD-25-1132775, user''s selected timeslot is
   at capacity at the time of Completeness Review. HE Processor unable to change timeslot'
-status: Waiting for customer
+status: Closed
 created: '2025-11-05'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-657
 project: hesd
 tags:
 - jira
 - ticket
+- closed
 - hesd
-- waiting-for-customer
-updated: 2025-11-17T07:26
-last_synced: 2025-11-17T07:26
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}
 ## Overview
-- **Status**: Waiting for customer
+- **Status**: Closed
 - **Created**: 2025-11-05
 - **Project**: hesd
 - **Request Type**: Unknown

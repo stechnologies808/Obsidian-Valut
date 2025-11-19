@@ -3,7 +3,7 @@ ticket_id: CITSD-180
 title: HPALM-3 ICLM CAPTCHA incorrect when using the internal user action Register
   User
 status: Resolved
-created: 2023-03-08
+created: '2023-03-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-180
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

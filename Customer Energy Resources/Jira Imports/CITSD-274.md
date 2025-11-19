@@ -3,7 +3,7 @@ ticket_id: CITSD-274
 title: ALM 97 TEST UAT - DOCUMENT VERSIONS - UNABLE TO VIEW PREVIOUS VERSIONS OF THE
   SAME DOCUMENT
 status: Resolved
-created: 2023-04-13
+created: '2023-04-13'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-274
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: HESD-59
 title: 'Reporting: Inconsistent data extract on records with no project Id'
 status: Closed
-created: 2021-06-04
+created: '2021-06-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-59
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

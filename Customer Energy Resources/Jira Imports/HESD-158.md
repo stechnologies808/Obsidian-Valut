@@ -3,7 +3,7 @@ ticket_id: HESD-158
 title: App 358493 appears to have Project Verification link available when it is NOT  a
   SDP amendment
 status: Closed
-created: 2022-11-01
+created: '2022-11-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-158
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

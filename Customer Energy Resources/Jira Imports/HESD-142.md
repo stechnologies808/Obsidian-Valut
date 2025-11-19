@@ -3,7 +3,7 @@ ticket_id: HESD-142
 title: 'Contractor from Soriano’s Electrical Service LLC (userid: jerry8) is unable
   to start a new Electrical Request application; keeps returning to Landing page'
 status: Closed
-created: 2022-09-09
+created: '2022-09-09'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-142
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

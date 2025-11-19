@@ -3,7 +3,7 @@ ticket_id: CITSD-263
 title: ALM 85 TEST UAT - PENDING EXECUTION - UNABLE TO PROCEED FROM 'PENDING EXECUTION
   STATUS' PAGE TO 'EXECUTED' PAGE.
 status: Resolved
-created: 2023-04-12
+created: '2023-04-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-263
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

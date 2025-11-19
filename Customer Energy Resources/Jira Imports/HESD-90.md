@@ -2,7 +2,7 @@
 ticket_id: HESD-90
 title: Need to revert gu_status of CID apps that were set to Archive
 status: Resolved
-created: 2022-06-02
+created: '2022-06-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-90
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - hesd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

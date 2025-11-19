@@ -2,7 +2,7 @@
 ticket_id: HESD-121
 title: LVM Node to circuit mappings inconsistencies
 status: Closed
-created: 2022-07-26
+created: '2022-07-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-121
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

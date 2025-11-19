@@ -2,7 +2,7 @@
 ticket_id: CIDSD-78
 title: '''Applications'' link on the Mahalo page takes user to homepage'
 status: Resolved
-created: 2022-01-26
+created: '2022-01-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-78
 project: cidsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

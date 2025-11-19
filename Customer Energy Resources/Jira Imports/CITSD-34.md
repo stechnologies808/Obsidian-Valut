@@ -3,7 +3,7 @@ ticket_id: CITSD-34
 title: Unable to remove PV contractor from a pending AMEND application using revision
   or Change of Contractor function
 status: Resolved
-created: 2022-02-13
+created: '2022-02-13'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-34
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: HESD-180
 title: H-ISE-22-472350 - contractor is stuck and cannot submit correction
 status: Closed
-created: 2023-01-19
+created: '2023-01-19'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-180
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

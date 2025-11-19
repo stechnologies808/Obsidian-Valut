@@ -2,7 +2,7 @@
 ticket_id: HESD-41
 title: Trouble approving certain contractors on PendingContractors
 status: Closed
-created: 2022-04-01
+created: '2022-04-01'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-41
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

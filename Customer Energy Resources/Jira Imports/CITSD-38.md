@@ -2,7 +2,7 @@
 ticket_id: CITSD-38
 title: Update to the Pending Execution Status chevron to include Battery Bonus items
 status: Resolved
-created: 2022-02-14
+created: '2022-02-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-38
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

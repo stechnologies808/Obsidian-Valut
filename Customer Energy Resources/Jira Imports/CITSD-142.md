@@ -2,7 +2,7 @@
 ticket_id: CITSD-142
 title: REGRESSION - Application failed Completeness Review, but Action for is Utility
 status: Resolved
-created: 2022-11-28
+created: '2022-11-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-142
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

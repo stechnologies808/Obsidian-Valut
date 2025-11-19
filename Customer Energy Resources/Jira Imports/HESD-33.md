@@ -3,7 +3,7 @@ ticket_id: HESD-33
 title: Customer is unable to proceed to Application Intake when clicking on “Start
   a New Electrical Service Application”
 status: Closed
-created: 2022-03-28
+created: '2022-03-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-33
 project: hesd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

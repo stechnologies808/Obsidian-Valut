@@ -2,7 +2,7 @@
 ticket_id: CITSD-269
 title: Remove user account Alan.Lee@hawaiianelectric.com so a new account can be created
 status: Resolved
-created: 2023-04-12
+created: '2023-04-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-269
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: CITSD-286
 title: ALM 109 TEST - Invalid Field error when submitting muliple TMK numbers
 status: Resolved
-created: 2023-04-18
+created: '2023-04-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-286
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

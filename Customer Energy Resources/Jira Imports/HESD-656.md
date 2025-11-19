@@ -2,22 +2,22 @@
 ticket_id: HESD-656
 title: 'DFCT0011446: Project System Components section not showing on CIT validation
   review screen'
-status: Closed
+status: Resolved
 created: '2025-11-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-656
 project: hesd
 tags:
 - jira
 - ticket
-- closed
 - hesd
-updated: 2025-11-17T07:36
-last_synced: 2025-11-17T07:36
+- resolved
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}
 ## Overview
-- **Status**: Closed
+- **Status**: Resolved
 - **Created**: 2025-11-03
 - **Project**: hesd
 - **Request Type**: Unknown

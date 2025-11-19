@@ -2,7 +2,7 @@
 ticket_id: CIDSD-109
 title: Change made in STAGE to fix typo in Look & Feel
 status: Resolved
-created: 2022-03-04
+created: '2022-03-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-109
 project: cidsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - cidsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

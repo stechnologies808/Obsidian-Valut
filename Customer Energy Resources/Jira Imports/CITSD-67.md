@@ -3,7 +3,7 @@ ticket_id: CITSD-67
 title: Cannot move past Start Project Validation chevron when Start Project Verification
   is already complete.
 status: Resolved
-created: 2022-03-04
+created: '2022-03-04'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-67
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

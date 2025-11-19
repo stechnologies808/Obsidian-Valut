@@ -2,7 +2,7 @@
 ticket_id: CITSD-44
 title: Search function in the Queue View does not return any results
 status: Closed
-created: 2022-02-26
+created: '2022-02-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-44
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

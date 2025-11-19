@@ -2,7 +2,7 @@
 ticket_id: HESD-80
 title: 'TEST: Add new Kibana dashboard to the Reporting menu'
 status: Closed
-created: 2022-05-18
+created: '2022-05-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-80
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

@@ -2,7 +2,7 @@
 ticket_id: HESD-58
 title: 'CSV Export: Panel Manf. / Model missing for some records'
 status: Closed
-created: 2021-03-23
+created: '2021-03-23'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-58
 project: hesd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - closed
 - hesd
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

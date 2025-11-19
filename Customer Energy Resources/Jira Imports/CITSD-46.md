@@ -2,7 +2,7 @@
 ticket_id: CITSD-46
 title: Pending Execution Battery Bonus Fields
 status: Resolved
-created: 2022-03-02
+created: '2022-03-02'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-46
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:17
-last_synced: 2025-11-15T11:17
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

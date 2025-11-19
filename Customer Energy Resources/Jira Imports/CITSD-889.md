@@ -2,7 +2,7 @@
 ticket_id: CITSD-889
 title: 'DFCT0011467: Q4 Regression: Contractor Company Approval/Rejection Pop up error'
 status: Closed
-created: Yesterday
+created: '2025-11-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-889
 project: citsd
 tags:
@@ -10,14 +10,14 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-17T07:22
-last_synced: 2025-11-17T07:22
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}
 ## Overview
 - **Status**: Closed
-- **Created**: Yesterday
+- **Created**: 2025-11-16
 - **Project**: citsd
 - **Request Type**: Unknown
 bucket:"" # External / Internal / LVM 

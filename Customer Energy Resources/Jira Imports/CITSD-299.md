@@ -2,7 +2,7 @@
 ticket_id: CITSD-299
 title: 'ALM122: TEST UAT: Panel Spec Sheet required when selecting on list panels'
 status: Resolved
-created: 2023-04-21
+created: '2023-04-21'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-299
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

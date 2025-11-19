@@ -2,7 +2,7 @@
 ticket_id: CITSD-307
 title: 'Critical Blocker: Unable to register new user'
 status: Closed
-created: 2023-04-26
+created: '2023-04-26'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-307
 project: citsd
 tags:
@@ -10,8 +10,8 @@ tags:
 - ticket
 - citsd
 - closed
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}

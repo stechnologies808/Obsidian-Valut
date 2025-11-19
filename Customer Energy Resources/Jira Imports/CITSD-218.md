@@ -3,7 +3,7 @@ ticket_id: CITSD-218
 title: ALM-15 TEST UAT - Completeness Review. and Validation. - Error message appears
   when viewing documents
 status: Resolved
-created: 2023-03-24
+created: '2023-03-24'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-218
 project: citsd
 tags:
@@ -11,8 +11,8 @@ tags:
 - ticket
 - citsd
 - resolved
-updated: 2025-11-15T11:16
-last_synced: 2025-11-15T11:16
+updated: 2025-11-19T06:43
+last_synced: 2025-11-19T06:43
 ---
 
 # }:}
