@@ -2,7 +2,7 @@
 ticket_id: CITSD-887
 title: 'DFCT0011463 Q4 Regression: CIT includes reference to Oahu for Maui project
   in ITR screen'
-status: Under Review
+status: Queued
 created: '2025-11-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-887
 project: citsd
@@ -10,14 +10,14 @@ tags:
 - jira
 - ticket
 - citsd
-- under-review
-updated: 2025-11-19T06:43
-last_synced: 2025-11-19T06:43
+- queued
+updated: 2025-11-19T15:38
+last_synced: 2025-11-19T15:38
 ---
 
 # }:}
 ## Overview
-- **Status**: Under Review
+- **Status**: Queued
 - **Created**: 2025-11-12
 - **Project**: citsd
 - **Request Type**: Unknown

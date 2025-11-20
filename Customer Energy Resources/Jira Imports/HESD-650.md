@@ -1,7 +1,7 @@
 ---
 ticket_id: HESD-650
 title: Customer encounters error when trying to start/submit CID application
-status: In Progress
+status: Waiting for customer
 created: '2025-10-24'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-650
 project: hesd
@@ -9,14 +9,14 @@ tags:
 - jira
 - ticket
 - hesd
-- in-progress
-updated: 2025-11-19T06:43
-last_synced: 2025-11-19T06:43
+- waiting-for-customer
+updated: 2025-11-19T15:38
+last_synced: 2025-11-19T15:38
 ---
 
 # }:}
 ## Overview
-- **Status**: In Progress
+- **Status**: Waiting for customer
 - **Created**: 2025-10-24
 - **Project**: hesd
 - **Request Type**: Unknown
