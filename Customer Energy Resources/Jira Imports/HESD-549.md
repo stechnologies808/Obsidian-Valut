@@ -5,14 +5,10 @@ status: Awaiting Deployment
 created: '2025-02-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-549
 project: hesd
+updated: 2025-11-19T15:53
+last_synced: 2025-11-19T15:53
 tags:
-- jira
-- ticket
-- awaiting-deployment
-- hesd
-- watchlist
-updated: 2025-11-19T15:38
-last_synced: 2025-11-19T15:38
+  - watchlist
 ---
 
 # }:}
