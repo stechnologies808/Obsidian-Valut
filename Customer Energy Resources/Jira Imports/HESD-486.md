@@ -6,10 +6,14 @@ status: Closed
 created: '2024-08-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-486
 project: hesd
-updated: 2025-11-19T15:53
-last_synced: 2025-11-19T15:53
 tags:
-  - watchlist
+- jira
+- ticket
+- closed
+- hesd
+- watchlist
+updated: 2025-11-20T08:59
+last_synced: 2025-11-20T08:59
 ---
 
 # }:}

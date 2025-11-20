@@ -3,7 +3,7 @@ ticket_id: HESD-661
 title: 'INC0330500: SDE application sent into HQ. User Action displays that HQ is
   currently OFF'
 status: Under Review
-created: Today
+created: Yesterday
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-661
 project: hesd
 tags:
@@ -11,14 +11,14 @@ tags:
 - ticket
 - hesd
 - under-review
-updated: 2025-11-19T18:01
-last_synced: 2025-11-19T18:01
+updated: 2025-11-20T08:59
+last_synced: 2025-11-20T08:59
 ---
 
 # }:}
 ## Overview
 - **Status**: Under Review
-- **Created**: Today
+- **Created**: Yesterday
 - **Project**: hesd
 - **Request Type**: Unknown
 bucket:"" # External / Internal / LVM 

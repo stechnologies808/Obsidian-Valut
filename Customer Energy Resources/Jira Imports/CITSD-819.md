@@ -5,10 +5,14 @@ status: Closed
 created: '2024-07-25'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-819
 project: citsd
-updated: 2025-11-19T15:53
-last_synced: 2025-11-19T15:53
 tags:
-  - watchlist
+- jira
+- ticket
+- citsd
+- closed
+- watchlist
+updated: 2025-11-20T08:59
+last_synced: 2025-11-20T08:59
 ---
 
 # }:}

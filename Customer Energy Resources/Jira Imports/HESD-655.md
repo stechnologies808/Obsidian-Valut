@@ -1,22 +1,22 @@
 ---
 ticket_id: HESD-655
 title: 'INC0329121: 1077020; Initiated Status; Stuck on System Components page'
-status: Waiting for customer
+status: Closed
 created: '2025-11-03'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-655
 project: hesd
 tags:
 - jira
 - ticket
+- closed
 - hesd
-- waiting-for-customer
-updated: 2025-11-19T15:53
-last_synced: 2025-11-19T15:53
+updated: 2025-11-20T08:59
+last_synced: 2025-11-20T08:59
 ---
 
 # }:}
 ## Overview
-- **Status**: Waiting for customer
+- **Status**: Closed
 - **Created**: 2025-11-03
 - **Project**: hesd
 - **Request Type**: Unknown
