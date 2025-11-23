@@ -1,6 +1,6 @@
 ---
 title: "Jira Tickets Index"
-created: "2025-11-22 06:57:37"
+created: "2025-11-22 18:01:43"
 tags:
   - index
   - jira
@@ -79,4 +79,4 @@ SORT Count DESC
 ```
 
 ---
-*Generated on 2025-11-22 06:57:37*
+*Generated on 2025-11-22 18:01:43*
