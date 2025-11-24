@@ -6,10 +6,14 @@ status: Resolved
 created: '2024-05-16'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-804
 project: citsd
-updated: 2025-11-20T17:41
-last_synced: 2025-11-20T17:41
 tags:
-  - watchlist
+- jira
+- ticket
+- citsd
+- resolved
+- watchlist
+updated: 2025-11-23T17:27
+last_synced: 2025-11-23T17:27
 ---
 
 # }:}

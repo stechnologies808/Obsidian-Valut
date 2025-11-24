@@ -2,7 +2,7 @@
 ticket_id: CITSD-886
 title: 'DFCT0011462 Q4 Regression: Not all previous info was saved for CIT Completeness
   Review resubmission'
-status: Under Review
+status: Waiting for customer
 created: '2025-11-12'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-886
 project: citsd
@@ -10,14 +10,14 @@ tags:
 - jira
 - ticket
 - citsd
-- under-review
-updated: 2025-11-21T06:49
-last_synced: 2025-11-21T06:49
+- waiting-for-customer
+updated: 2025-11-23T17:28
+last_synced: 2025-11-23T17:28
 ---
 
 # }:}
 ## Overview
-- **Status**: Under Review
+- **Status**: Waiting for customer
 - **Created**: 2025-11-12
 - **Project**: citsd
 - **Request Type**: Unknown
