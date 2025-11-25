@@ -5,8 +5,8 @@ status: Resolved
 created: '2024-07-18'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-456
 project: hesd
-updated: 2025-11-24T06:15
-last_synced: 2025-11-24T06:15
+updated: 2025-11-24T17:01
+last_synced: 2025-11-24T17:01
 tags:
 - jira
 - ticket

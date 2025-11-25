@@ -1,22 +1,22 @@
 ---
 ticket_id: HESD-662
 title: 'INC0330626: P-SDE-25-1113610: Project Service Address Change'
-status: Waiting for customer
+status: Closed
 created: '2025-11-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-662
 project: hesd
 tags:
 - jira
 - ticket
+- closed
 - hesd
-- waiting-for-customer
-updated: 2025-11-24T06:15
-last_synced: 2025-11-24T06:15
+updated: 2025-11-24T17:01
+last_synced: 2025-11-24T17:01
 ---
 
 # }:}
 ## Overview
-- **Status**: Waiting for customer
+- **Status**: Closed
 - **Created**: 2025-11-20
 - **Project**: hesd
 - **Request Type**: Unknown

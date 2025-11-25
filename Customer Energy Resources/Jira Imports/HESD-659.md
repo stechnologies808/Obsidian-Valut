@@ -1,7 +1,7 @@
 ---
 ticket_id: HESD-659
 title: 'INC0329928: Infinity Electric of Maui Update eMail address'
-status: Queued
+status: In Progress
 created: '2025-11-07'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-659
 project: hesd
@@ -9,14 +9,14 @@ tags:
 - jira
 - ticket
 - hesd
-- queued
-updated: 2025-11-24T06:15
-last_synced: 2025-11-24T06:15
+- in-progress
+updated: 2025-11-24T17:01
+last_synced: 2025-11-24T17:01
 ---
 
 # }:}
 ## Overview
-- **Status**: Queued
+- **Status**: In Progress
 - **Created**: 2025-11-07
 - **Project**: hesd
 - **Request Type**: Unknown

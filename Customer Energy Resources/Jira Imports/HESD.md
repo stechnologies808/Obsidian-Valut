@@ -9,7 +9,7 @@ tags:
 
 # HESD — Jira Tickets
 
-Total: 636
+Total: 637
 
 ## Open Tickets
 ```dataview

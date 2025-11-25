@@ -6,8 +6,8 @@ status: "Resolved"
 created: "2024-06-20"
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-429"
 project: "hesd"
-updated: "2025-11-24T06:15"
-last_synced: "2025-11-24T06:15"
+updated: "2025-11-24T17:00"
+last_synced: "2025-11-24T17:00"
   - jira
   - ticket
   - hesd
