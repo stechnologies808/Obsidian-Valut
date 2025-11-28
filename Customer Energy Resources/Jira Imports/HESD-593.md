@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-593"
 title: "INC0321503: CIT Glitch -  H--25-580142. Contractor is unable to select "SDE" as program type. "
 status: "Closed"
@@ -10,8 +9,8 @@ project: "hesd"
   - ticket
   - closed
   - hesd
-updated: "2025-11-25T06:02"
-last_synced: "2025-11-25T06:02"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

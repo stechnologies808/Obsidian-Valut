@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-61
-title: 'Communication only sent to 1st System Owner, should be sent to all '
+title: "Communication only sent to 1st System Owner, should be sent to all "
 status: Resolved
-created: '2022-03-04'
+created: 2022-03-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-61
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

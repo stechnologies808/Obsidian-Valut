@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "CITSD-848"
 title: "DFCT0011338: External list name "byod_1_time_slot_capacity" not updated to "byod_plus...""
 status: "Resolved"
@@ -10,8 +9,8 @@ project: "citsd"
   - ticket
   - citsd
   - resolved
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

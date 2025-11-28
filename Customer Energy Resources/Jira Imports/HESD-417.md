@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-417
-title: 'ARD732 - Post-Go Live: Inverter information missing in Completeness Review'
+title: "ARD732 - Post-Go Live: Inverter information missing in Completeness Review"
 status: Closed
-created: '2024-06-06'
+created: 2024-06-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-417
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

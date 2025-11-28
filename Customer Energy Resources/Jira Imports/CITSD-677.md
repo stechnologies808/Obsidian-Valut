@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-677
-title: ARD490 - Oahu app stuck in holding queue with internal error message when HQ
-  is off
+title: ARD490 - Oahu app stuck in holding queue with internal error message when HQ is off
 status: Closed
-created: '2024-01-26'
+created: 2024-01-26
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-677
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-430
-title: 'ARD133 - AMEND: Energy Storage Operation Type options not updated'
+title: "ARD133 - AMEND: Energy Storage Operation Type options not updated"
 status: Resolved
-created: '2023-08-22'
+created: 2023-08-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-430
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

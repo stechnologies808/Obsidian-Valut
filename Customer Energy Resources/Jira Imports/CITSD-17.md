@@ -2,16 +2,17 @@
 ticket_id: CITSD-17
 title: 504 Gateway Time-out on Trainingforms while uploading CSS_Panels External list
 status: Closed
-created: '2022-01-31'
+created: 2022-01-31
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-17
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-473
-title: ARD199 - 216609 SDE BYOD - Assigned to/Action for fields incorrect when project
-  is in Onsite Inspection Type.
+title: ARD199 - 216609 SDE BYOD - Assigned to/Action for fields incorrect when project is in Onsite Inspection Type.
 status: Resolved
-created: '2023-09-20'
+created: 2023-09-20
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-473
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

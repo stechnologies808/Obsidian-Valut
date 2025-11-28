@@ -2,16 +2,17 @@
 ticket_id: HESD-135
 title: HELCO Holding Queue is ON and customers are receiving notices
 status: Resolved
-created: '2022-08-18'
+created: 2022-08-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-135
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: HESD-183
 title: Completeness review did not advance correctly for P-AMD-22-523527
 status: Closed
-created: '2023-01-21'
+created: 2023-01-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-183
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

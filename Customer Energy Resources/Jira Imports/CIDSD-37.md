@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-37
-title: 'TEST: Registration Forgot Username; User does not receive email'
+title: "TEST: Registration Forgot Username; User does not receive email"
 status: Closed
-created: '2021-12-09'
+created: 2021-12-09
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-37
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

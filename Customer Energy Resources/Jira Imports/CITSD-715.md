@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-715
-title: ARD545 - There's an option to have two system owners. Is that right? I would
-  think there's only one because we pay one individual for BYOD upfront incentive.
+title: ARD545 - There's an option to have two system owners. Is that right? I would think there's only one because we pay one individual for BYOD upfront incentive.
 status: Closed
-created: '2024-02-03'
+created: 2024-02-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-715
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

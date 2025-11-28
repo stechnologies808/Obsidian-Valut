@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-114
-title: Submit Verification - Save and Continue button disappeared after several document
-  uploads and reuploads.
+title: Submit Verification - Save and Continue button disappeared after several document uploads and reuploads.
 status: Closed
-created: '2022-11-03'
+created: 2022-11-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-114
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

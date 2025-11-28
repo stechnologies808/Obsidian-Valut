@@ -1,7 +1,7 @@
 ---
 ticket_id: CITSD-840
 title: 'DFCT0011256 Modified inverter list does not save when uploaded '
-status: In Test
+status: Resolved
 created: '2025-03-27'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-840
 project: citsd
@@ -9,14 +9,14 @@ tags:
 - jira
 - ticket
 - citsd
-- in-test
-updated: 2025-11-25T06:01
-last_synced: 2025-11-25T06:01
+- resolved
+updated: 2025-11-28T11:18
+last_synced: 2025-11-28T11:18
 ---
 
 # }:}
 ## Overview
-- **Status**: In Test
+- **Status**: Resolved
 - **Created**: 2025-03-27
 - **Project**: citsd
 - **Request Type**: Unknown

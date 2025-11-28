@@ -2,16 +2,17 @@
 ticket_id: HESD-9
 title: CIT HECOProcessor unable to approve withdrawal; Process phase Withdrawn
 status: Resolved
-created: '2022-03-15'
+created: 2022-03-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-9
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

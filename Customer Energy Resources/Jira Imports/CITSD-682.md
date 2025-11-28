@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-682
-title: ARD509 - P-AMD-24-255316 Validation passed Verification not complete template
-  email not received. CIT indicates sent.
+title: ARD509 - P-AMD-24-255316 Validation passed Verification not complete template email not received. CIT indicates sent.
 status: Closed
-created: '2024-01-29'
+created: 2024-01-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-682
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

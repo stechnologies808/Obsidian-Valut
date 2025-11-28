@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-371
-title: 'ARD656 - Post-go live: add Schedule P to the Battery Bonus Completeness Review
-  field for rate schedule'
+title: "ARD656 - Post-go live: add Schedule P to the Battery Bonus Completeness Review field for rate schedule"
 status: Closed
-created: '2024-05-02'
+created: 2024-05-02
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-371
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

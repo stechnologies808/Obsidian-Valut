@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-414
-title: 'ARD729 - Post-Go Live: Error Message appeared when Validation submittal failed'
+title: "ARD729 - Post-Go Live: Error Message appeared when Validation submittal failed"
 status: Closed
-created: '2024-06-05'
+created: 2024-06-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-414
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

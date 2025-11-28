@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-260
-title: '412767: Unable to proceed to Project Execution'
+title: "412767: Unable to proceed to Project Execution"
 status: Closed
-created: '2023-08-28'
+created: 2023-08-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-260
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

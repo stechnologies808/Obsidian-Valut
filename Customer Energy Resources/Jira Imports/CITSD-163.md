@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-163
-title: Validation passed email not sent to customer/contractor is verification fails
-  and validation passes. Please confirm requirement.
+title: Validation passed email not sent to customer/contractor is verification fails and validation passes. Please confirm requirement.
 status: Closed
-created: '2022-12-28'
+created: 2022-12-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-163
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

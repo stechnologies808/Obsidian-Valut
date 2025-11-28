@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-208
-title: 'STAGE: Project Execution Rule 31 not showing view/download options'
+title: "STAGE: Project Execution Rule 31 not showing view/download options"
 status: Resolved
-created: '2023-03-08'
+created: 2023-03-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-208
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

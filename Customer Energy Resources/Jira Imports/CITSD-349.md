@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-349
-title: 'ARD048 - Queue View: Queue View jumping around without end'
+title: "ARD048 - Queue View: Queue View jumping around without end"
 status: Closed
-created: '2023-06-22'
+created: 2023-06-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-349
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

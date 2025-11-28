@@ -2,16 +2,17 @@
 ticket_id: CITSD-640
 title: ARD431 -  Verification Submittal - save progress message
 status: Resolved
-created: '2024-01-11'
+created: 2024-01-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-640
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

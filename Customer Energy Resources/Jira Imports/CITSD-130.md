@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-130
-title: REGRESSION - Holding Queue ON - No email to System Admin that notifies HQ was
-  switched on
+title: REGRESSION - Holding Queue ON - No email to System Admin that notifies HQ was switched on
 status: Resolved
-created: '2022-11-22'
+created: 2022-11-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-130
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

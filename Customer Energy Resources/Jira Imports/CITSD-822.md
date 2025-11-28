@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "CITSD-822"
 title: "DFCT0010755: AFTER CLICKING "NEXT" THE PAGE WILL NOT ADVANCE."
 status: "Closed"
@@ -10,8 +9,8 @@ project: "citsd"
   - ticket
   - citsd
   - closed
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

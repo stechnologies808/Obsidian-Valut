@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-797
-title: 'ARD671 - Transition:  No transition inidicator saved to application record
-  for searching and reporting'
+title: "ARD671 - Transition:  No transition inidicator saved to application record for searching and reporting"
 status: Closed
-created: '2024-05-15'
+created: 2024-05-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-797
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

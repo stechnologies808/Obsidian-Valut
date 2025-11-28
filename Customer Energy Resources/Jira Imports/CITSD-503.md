@@ -2,16 +2,17 @@
 ticket_id: CITSD-503
 title: ARD239 - Completeness Review - Previously completed actions should not be activated/hyperlinked
 status: Closed
-created: '2023-09-29'
+created: 2023-09-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-503
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

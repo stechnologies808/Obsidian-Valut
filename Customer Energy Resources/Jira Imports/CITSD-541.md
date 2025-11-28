@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-541
-title: 'ARD291 - AMEND:  App Submittal - Building permit information required for
-  AMEND-Equip. Change'
+title: "ARD291 - AMEND:  App Submittal - Building permit information required for AMEND-Equip. Change"
 status: Resolved
-created: '2023-10-10'
+created: 2023-10-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-541
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-643
-title: ARD441 - Project System Components - DC coupled batt, Total Nighttime Generation
-  calculation defect
+title: ARD441 - Project System Components - DC coupled batt, Total Nighttime Generation calculation defect
 status: Closed
-created: '2024-01-16'
+created: 2024-01-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-643
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

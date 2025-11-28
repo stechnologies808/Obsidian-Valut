@@ -2,16 +2,17 @@
 ticket_id: CITSD-238
 title: ALM 59 TEST UAT - Account Details page width
 status: Resolved
-created: '2023-04-04'
+created: 2023-04-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-238
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

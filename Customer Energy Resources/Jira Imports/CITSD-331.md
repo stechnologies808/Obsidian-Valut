@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-331
-title: ARD005 - Energy Storage Operation Type Label is different from test script,
-  data dictionary, and interim programs
+title: ARD005 - Energy Storage Operation Type Label is different from test script, data dictionary, and interim programs
 status: Resolved
-created: '2023-06-16'
+created: 2023-06-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-331
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

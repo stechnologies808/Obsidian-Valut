@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-546
-title: 'ARD279 - AMEND SDP CR: Property Ownership Change & System Owner Change fields
-  should be removed'
+title: "ARD279 - AMEND SDP CR: Property Ownership Change & System Owner Change fields should be removed"
 status: Resolved
-created: '2023-10-12'
+created: 2023-10-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-546
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-391
-title: 'ARD103 - CR: EV Charging and PMRS Utilized fields can be removed'
+title: "ARD103 - CR: EV Charging and PMRS Utilized fields can be removed"
 status: Resolved
-created: '2023-07-27'
+created: 2023-07-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-391
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

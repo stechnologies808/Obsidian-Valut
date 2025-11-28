@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-623
-title: ARD387 - Application stuck in Completeness Review after Completeness Review
-  is Completed
+title: ARD387 - Application stuck in Completeness Review after Completeness Review is Completed
 status: Closed
-created: '2024-01-08'
+created: 2024-01-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-623
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

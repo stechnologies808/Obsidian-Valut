@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-703
-title: 'ARD537 - CR021: Update DRMS Enrollment Rate'
+title: "ARD537 - CR021: Update DRMS Enrollment Rate"
 status: Closed
-created: '2024-02-01'
+created: 2024-02-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-703
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

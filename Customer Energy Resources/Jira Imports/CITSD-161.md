@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-161
-title: Validation fail email not sent to customer/contractor after validation fail.
-  Unclear if event history correctly records the rejection.
+title: Validation fail email not sent to customer/contractor after validation fail. Unclear if event history correctly records the rejection.
 status: Resolved
-created: '2022-12-28'
+created: 2022-12-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-161
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

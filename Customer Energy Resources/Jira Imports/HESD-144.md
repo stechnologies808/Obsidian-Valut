@@ -2,16 +2,17 @@
 ticket_id: HESD-144
 title: CID app:362585 Error when sending 6A/6L in completeness review
 status: Closed
-created: '2022-09-21'
+created: 2022-09-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-144
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

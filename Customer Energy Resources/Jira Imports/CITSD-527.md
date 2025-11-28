@@ -2,16 +2,17 @@
 ticket_id: CITSD-527
 title: ARD257 - Contractor PTO Email is doubled in body
 status: Closed
-created: '2023-09-30'
+created: 2023-09-30
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-527
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-303
 title: ALM126 UAT [UI Styling] Top Border missing for sections without card header
 status: Resolved
-created: '2023-04-23'
+created: 2023-04-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-303
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

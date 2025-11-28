@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-660
-title: 'ARD362 - Revision Review: Progress Phase showing Pending Execution instead
-  of Revision'
+title: "ARD362 - Revision Review: Progress Phase showing Pending Execution instead of Revision"
 status: Resolved
-created: '2024-01-18'
+created: 2024-01-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-660
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

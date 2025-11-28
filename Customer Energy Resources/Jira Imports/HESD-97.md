@@ -2,16 +2,17 @@
 ticket_id: HESD-97
 title: CIT Project for island of Lanai communication sent to wrong internal mail box
 status: Closed
-created: '2022-06-15'
+created: 2022-06-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-97
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

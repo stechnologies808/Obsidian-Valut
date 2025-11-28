@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-366
-title: ARD643 - Requestor submits application with special characters causing Internal
-  Error
+title: ARD643 - Requestor submits application with special characters causing Internal Error
 status: Closed
-created: '2024-04-26'
+created: 2024-04-26
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-366
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

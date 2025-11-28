@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-62
-title: 'Revision: Company name for System Owner should not be required'
+title: "Revision: Company name for System Owner should not be required"
 status: Resolved
-created: '2022-03-04'
+created: 2022-03-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-62
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

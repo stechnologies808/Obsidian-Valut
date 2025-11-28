@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-94
-title: 'Battery Bonus Email Template: Do I have the wrong field?'
+title: "Battery Bonus Email Template: Do I have the wrong field?"
 status: Resolved
-created: '2022-03-21'
+created: 2022-03-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-94
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

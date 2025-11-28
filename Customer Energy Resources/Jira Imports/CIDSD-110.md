@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-110
-title: 'Update html blob: Field CID_RemoveService_TimelineMsg'
+title: "Update html blob: Field CID_RemoveService_TimelineMsg"
 status: Resolved
-created: '2022-03-04'
+created: 2022-03-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-110
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

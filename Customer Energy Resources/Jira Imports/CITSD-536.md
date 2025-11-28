@@ -2,16 +2,17 @@
 ticket_id: CITSD-536
 title: ARD289 - Unable to veiw CID Documents after upload or from Documents tab
 status: Resolved
-created: '2023-10-06'
+created: 2023-10-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-536
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

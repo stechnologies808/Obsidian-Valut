@@ -4,7 +4,7 @@ title: ARD304 - [Mobile Responsive] Data from the ‘Field’, ‘Value’, and 
   columns should not push into the other columns, causing text to overlap, or push
   outside the table altogether.
 status: Backlog
-created: '2023-11-08'
+created: 2023-11-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-575
 project: citsd
 tags:
@@ -12,8 +12,9 @@ tags:
 - ticket
 - backlog
 - citsd
-updated: 2025-11-25T06:01
-last_synced: 2025-11-25T06:01
+updated: 2025-11-28T07:46
+last_synced: 2025-11-28T07:46
+rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-192
-title: ALM-26 TEST UAT Completeness Review Screens Inverter for ESS showing blank
-  panel quantity
+title: ALM-26 TEST UAT Completeness Review Screens Inverter for ESS showing blank panel quantity
 status: Resolved
-created: '2023-03-17'
+created: 2023-03-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-192
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

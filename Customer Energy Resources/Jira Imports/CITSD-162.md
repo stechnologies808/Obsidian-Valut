@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-162
-title: Revision received email to customer/contractor not listed in communications
-  tab.
+title: Revision received email to customer/contractor not listed in communications tab.
 status: Resolved
-created: '2022-12-28'
+created: 2022-12-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-162
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

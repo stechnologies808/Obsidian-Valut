@@ -1,18 +1,19 @@
 ---
 ticket_id: HESD-459
-title: 'ARD786: Agreement not generating at PE'
+title: "ARD786: Agreement not generating at PE"
 status: Closed
-created: '2024-07-21'
+created: 2024-07-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-459
 project: hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
 tags:
-- jira
-- ticket
-- closed
-- hesd
-- watchlist
+  - jira
+  - ticket
+  - closed
+  - hesd
+  - watchlist
+Rank: 0
 ---
 
 # }:}

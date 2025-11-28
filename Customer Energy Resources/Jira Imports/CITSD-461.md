@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-461
-title: 'ARD182 - CR: Energy Storage Operation Type value missing'
+title: "ARD182 - CR: Energy Storage Operation Type value missing"
 status: Closed
-created: '2023-09-16'
+created: 2023-09-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-461
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

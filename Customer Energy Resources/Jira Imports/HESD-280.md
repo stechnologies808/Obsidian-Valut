@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-280
-title: '728382: Unable to pass CR Pop up message says AgreementID zip code does not
-  match amendment zip coe'
+title: "728382: Unable to pass CR Pop up message says AgreementID zip code does not match amendment zip coe"
 status: Closed
-created: '2023-12-08'
+created: 2023-12-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-280
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

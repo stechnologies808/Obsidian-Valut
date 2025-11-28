@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-477
-title: "ARD181 - \tReporting csv export: ApplyforInterconnectionActualCompleteDate_fld\
-  \ header blank on export"
+title: "ARD181 - \tReporting csv export: ApplyforInterconnectionActualCompleteDate_fld header blank on export"
 status: Resolved
-created: '2023-09-21'
+created: 2023-09-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-477
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

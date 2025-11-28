@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-798
-title: 'ARD670 Transition: Program capacity not removed from totals AFTER transitioned
-  to SDE'
+title: "ARD670 Transition: Program capacity not removed from totals AFTER transitioned to SDE"
 status: Closed
-created: '2024-05-16'
+created: 2024-05-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-798
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

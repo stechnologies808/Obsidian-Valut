@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-752
-title: 'ARD572: STAGE ONLY: Queue view search return error when using the quick search
-  and the column searches'
+title: "ARD572: STAGE ONLY: Queue view search return error when using the quick search and the column searches"
 status: Closed
-created: '2024-02-22'
+created: 2024-02-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-752
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

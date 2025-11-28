@@ -2,16 +2,17 @@
 ticket_id: CITSD-378
 title: ARD090 - Dashboard charts become blurry when increasing zoom
 status: Closed
-created: '2023-06-29'
+created: 2023-06-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-378
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

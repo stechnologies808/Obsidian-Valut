@@ -2,16 +2,17 @@
 ticket_id: CITSD-370
 title: ARD087 - Contents on Application Summary Page document overlapping
 status: Resolved
-created: '2023-06-28'
+created: 2023-06-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-370
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

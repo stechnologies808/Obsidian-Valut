@@ -2,16 +2,17 @@
 ticket_id: CITSD-45
 title: Inconsistent data on export from Queue View
 status: Closed
-created: '2022-03-01'
+created: 2022-03-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-45
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

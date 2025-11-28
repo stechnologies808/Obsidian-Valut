@@ -2,16 +2,17 @@
 ticket_id: HESD-192
 title: CR outcome for CIT application P-AMD-23-455536 did not advance correctly
 status: Closed
-created: '2023-02-01'
+created: 2023-02-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-192
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-279
-title: '558642: Application stuck; links not active'
+title: "558642: Application stuck; links not active"
 status: Resolved
-created: '2023-12-05'
+created: 2023-12-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-279
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

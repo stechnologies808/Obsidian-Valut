@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-74
-title: 'Environment TEST - Regression Testing: External Contractor Queue View Filter
-  Options not returning expected results'
+title: "Environment TEST - Regression Testing: External Contractor Queue View Filter Options not returning expected results"
 status: Closed
-created: '2022-05-10'
+created: 2022-05-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-74
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

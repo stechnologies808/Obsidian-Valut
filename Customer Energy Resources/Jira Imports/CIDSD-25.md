@@ -2,16 +2,17 @@
 ticket_id: CIDSD-25
 title: Added Stakeholder (after registering) does not have access to Project
 status: Resolved
-created: '2021-11-18'
+created: 2021-11-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-25
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

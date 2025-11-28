@@ -2,16 +2,17 @@
 ticket_id: CITSD-418
 title: DevForms prompt names and remove line
 status: Closed
-created: '2023-08-15'
+created: 2023-08-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-418
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

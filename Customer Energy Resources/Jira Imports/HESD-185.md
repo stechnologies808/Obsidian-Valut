@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-185
-title: Application summary for CIT application P-AMD-22-491132 is inaccurate, and
-  contractor claims they cannot see/correct errors
+title: Application summary for CIT application P-AMD-22-491132 is inaccurate, and contractor claims they cannot see/correct errors
 status: Resolved
-created: '2023-01-21'
+created: 2023-01-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-185
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-351
-title: 'ARD615 - Post-Go Live: Unable to Pass CR w/Comments'
+title: "ARD615 - Post-Go Live: Unable to Pass CR w/Comments"
 status: Closed
-created: '2024-04-08'
+created: 2024-04-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-351
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

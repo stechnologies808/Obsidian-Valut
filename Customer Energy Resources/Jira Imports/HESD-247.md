@@ -2,16 +2,17 @@
 ticket_id: HESD-247
 title: Contractor can't start an application
 status: Closed
-created: '2023-07-12'
+created: 2023-07-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-247
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

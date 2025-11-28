@@ -2,16 +2,17 @@
 ticket_id: CIDSD-11
 title: Stakeholder email notification is not generated after user submits an application.
 status: Resolved
-created: '2021-09-03'
+created: 2021-09-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-11
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

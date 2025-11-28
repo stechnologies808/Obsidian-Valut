@@ -1,13 +1,12 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-483"
 title: "568225: Status in Revision, however, no option to "review Revision""
 status: "Resolved"
 created: "2024-08-09"
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-483"
 project: "hesd"
-updated: "2025-11-25T06:02"
-last_synced: "2025-11-25T06:02"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
   - jira
   - ticket
   - hesd

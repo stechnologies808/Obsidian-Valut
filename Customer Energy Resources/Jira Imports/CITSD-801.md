@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "CITSD-801"
 title: "ARD543 - [DD Update] PVRIntSigSummary_enum should not be editable, "Disabled Always""
 status: "Backlog"
@@ -10,8 +9,8 @@ project: "citsd"
   - ticket
   - backlog
   - citsd
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

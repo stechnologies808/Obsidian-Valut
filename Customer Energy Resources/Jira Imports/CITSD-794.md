@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "CITSD-794"
 title: "ARD682 - Transition (Req. T-023) - Unable to find indicator "Former SDP Customer" on the Project Details page"
 status: "Backlog"
@@ -10,8 +9,8 @@ project: "citsd"
   - ticket
   - backlog
   - citsd
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

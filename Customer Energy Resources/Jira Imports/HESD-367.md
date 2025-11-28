@@ -2,16 +2,17 @@
 ticket_id: HESD-367
 title: ARD644 - Requestor re-submits application with special characters
 status: Closed
-created: '2024-04-26'
+created: 2024-04-26
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-367
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

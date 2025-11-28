@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-294
-title: 'Urgent Request: Send Documentation on GU''s Cloning procedures'
+title: "Urgent Request: Send Documentation on GU's Cloning procedures"
 status: Closed
-created: '2023-12-20'
+created: 2023-12-20
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-294
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

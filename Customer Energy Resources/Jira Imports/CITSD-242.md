@@ -2,16 +2,17 @@
 ticket_id: CITSD-242
 title: ALM 62 TEST UAT - Project Tax Map Key Number link in App Outline returns 404
 status: Resolved
-created: '2023-04-04'
+created: 2023-04-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-242
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

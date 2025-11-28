@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-270
-title: '432740: View change of contractor screen blank'
+title: "432740: View change of contractor screen blank"
 status: Closed
-created: '2023-10-23'
+created: 2023-10-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-270
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,17 +2,18 @@
 ticket_id: HESD-492
 title: 846887 Initiated; Internal Server Error pop up message
 status: Closed
-created: '2024-08-23'
+created: 2024-08-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-492
 project: hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
 tags:
-- jira
-- ticket
-- closed
-- hesd
-- watchlist
+  - jira
+  - ticket
+  - closed
+  - hesd
+  - watchlist
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-214
-title: alm-41 TEST UAT External User starts AMEND from User Action in Queue View,
-  error message on last page
+title: alm-41 TEST UAT External User starts AMEND from User Action in Queue View, error message on last page
 status: Resolved
-created: '2023-03-23'
+created: 2023-03-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-214
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

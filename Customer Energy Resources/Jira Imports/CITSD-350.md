@@ -2,16 +2,17 @@
 ticket_id: CITSD-350
 title: ARD052 - Account Number on Application Details says N/A
 status: Resolved
-created: '2023-06-23'
+created: 2023-06-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-350
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

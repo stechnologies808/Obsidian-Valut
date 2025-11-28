@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-397
-title: ARD112 - Technical System Size calculation incorrect (should include storage
-  size)
+title: ARD112 - Technical System Size calculation incorrect (should include storage size)
 status: Closed
-created: '2023-07-27'
+created: 2023-07-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-397
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

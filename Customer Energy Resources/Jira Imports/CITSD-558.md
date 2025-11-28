@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-558
-title: 'ARD288 - AMEND: Validation Submittal - System Type field does not display
-  a value'
+title: "ARD288 - AMEND: Validation Submittal - System Type field does not display a value"
 status: Resolved
-created: '2023-11-03'
+created: 2023-11-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-558
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

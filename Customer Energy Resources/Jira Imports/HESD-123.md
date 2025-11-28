@@ -2,16 +2,17 @@
 ticket_id: HESD-123
 title: Contractor at Revolusun reports that the links to correct project are no active
 status: Closed
-created: '2022-08-04'
+created: 2022-08-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-123
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

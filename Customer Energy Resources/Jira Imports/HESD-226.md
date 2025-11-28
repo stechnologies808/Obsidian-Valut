@@ -2,16 +2,17 @@
 ticket_id: HESD-226
 title: Amend application error message on Completeness Review page
 status: Closed
-created: '2023-04-19'
+created: 2023-04-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-226
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

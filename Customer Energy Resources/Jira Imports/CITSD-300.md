@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-300
-title: 'ALM 123 TEST UAT - Please update the hover/focus for the  ''Sign Up'' button
-  on the login page to use #6B759E as the border and background colors. [UI Styling]'
+title: "ALM 123 TEST UAT - Please update the hover/focus for the  'Sign Up' button on the login page to use #6B759E as the border and background colors. [UI Styling]"
 status: Resolved
-created: '2023-04-21'
+created: 2023-04-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-300
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

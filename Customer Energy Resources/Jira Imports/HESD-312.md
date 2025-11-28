@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-312
-title: Mulitple contractors and internal users reporting that they are unable to upload
-  documents
+title: Mulitple contractors and internal users reporting that they are unable to upload documents
 status: Closed
-created: '2024-02-15'
+created: 2024-02-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-312
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

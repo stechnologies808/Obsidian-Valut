@@ -2,16 +2,17 @@
 ticket_id: CITSD-1
 title: Energy Storage Quantity should only accept whole numbers
 status: Resolved
-created: '2021-11-23'
+created: 2021-11-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-1
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

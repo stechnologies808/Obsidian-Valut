@@ -2,16 +2,17 @@
 ticket_id: CITSD-618
 title: ARD366 - Unable to submit new application on contractor account.
 status: Closed
-created: '2024-01-04'
+created: 2024-01-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-618
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

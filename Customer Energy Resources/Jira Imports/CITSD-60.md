@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-60
-title: 'Rounding Artifact: Total Amendment Change (kW) != (Total Add Size) - Total
-  Remove Size'
+title: "Rounding Artifact: Total Amendment Change (kW) != (Total Add Size) - Total Remove Size"
 status: Resolved
-created: '2022-03-04'
+created: 2022-03-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-60
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

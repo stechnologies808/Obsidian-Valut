@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-482
-title: 'INC0305402: CID Application is stuck'
+title: "INC0305402: CID Application is stuck"
 status: Closed
-created: '2024-08-08'
+created: 2024-08-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-482
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

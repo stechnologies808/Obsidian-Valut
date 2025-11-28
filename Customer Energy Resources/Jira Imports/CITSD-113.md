@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-113
-title: System Owner information does not appear in the Application Summary chevron
-  (application submittal) and in the Completeness Review chevron.
+title: System Owner information does not appear in the Application Summary chevron (application submittal) and in the Completeness Review chevron.
 status: Resolved
-created: '2022-11-03'
+created: 2022-11-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-113
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-384
 title: DD Dated 07.10.2023
 status: Closed
-created: '2023-07-12'
+created: 2023-07-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-384
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

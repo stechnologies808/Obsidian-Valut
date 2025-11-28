@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-515
-title: ARD259 - V&V Action For - If either or both Validation and Verification need
-  to be submitted, the Action For should indicate Customer.
+title: ARD259 - V&V Action For - If either or both Validation and Verification need to be submitted, the Action For should indicate Customer.
 status: Closed
-created: '2023-09-30'
+created: 2023-09-30
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-515
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-141
 title: REGRESSION - CR corrections needed not sent to customer
 status: Resolved
-created: '2022-11-28'
+created: 2022-11-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-141
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

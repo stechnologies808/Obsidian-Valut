@@ -1,22 +1,22 @@
 ---
 ticket_id: HESD-616
 title: 'INC0325102: CIT - Unable to manually turn on HQ for BYOD+'
-status: Ready for HE Testing
+status: Deployed
 created: '2025-08-27'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-616
 project: hesd
 tags:
 - jira
 - ticket
+- deployed
 - hesd
-- ready-for-he-testing
-updated: 2025-11-25T06:02
-last_synced: 2025-11-25T06:02
+updated: 2025-11-28T11:18
+last_synced: 2025-11-28T11:18
 ---
 
 # }:}
 ## Overview
-- **Status**: Ready for HE Testing
+- **Status**: Deployed
 - **Created**: 2025-08-27
 - **Project**: hesd
 - **Request Type**: Unknown

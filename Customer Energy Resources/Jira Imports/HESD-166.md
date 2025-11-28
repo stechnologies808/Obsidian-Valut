@@ -2,16 +2,17 @@
 ticket_id: HESD-166
 title: CR Confirmation page receiving pop-up error message
 status: Closed
-created: '2022-11-22'
+created: 2022-11-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-166
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

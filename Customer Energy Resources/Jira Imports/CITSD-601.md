@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-601
-title: ARD330 - Contractor submits application but application is under Initiated
-  status
+title: ARD330 - Contractor submits application but application is under Initiated status
 status: Resolved
-created: '2023-12-18'
+created: 2023-12-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-601
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

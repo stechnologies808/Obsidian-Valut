@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-161
-title: '469805: User requested change of ExSigPropOwner_fld_auto, I used Action Minor
-  Change and now the application is blank'
+title: "469805: User requested change of ExSigPropOwner_fld_auto, I used Action Minor Change and now the application is blank"
 status: Closed
-created: '2022-11-16'
+created: 2022-11-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-161
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

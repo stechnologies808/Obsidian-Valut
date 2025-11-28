@@ -1,22 +1,22 @@
 ---
 ticket_id: HESD-472
 title: 'ARD801: [Hotfix] Requestor able to re-submit processed application'
-status: Awaiting Deployment
+status: Deployed
 created: '2024-07-30'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-472
 project: hesd
 tags:
 - jira
 - ticket
-- awaiting-deployment
+- deployed
 - hesd
-updated: 2025-11-25T06:02
-last_synced: 2025-11-25T06:02
+updated: 2025-11-28T11:18
+last_synced: 2025-11-28T11:18
 ---
 
 # }:}
 ## Overview
-- **Status**: Awaiting Deployment
+- **Status**: Deployed
 - **Created**: 2024-07-30
 - **Project**: hesd
 - **Request Type**: Unknown

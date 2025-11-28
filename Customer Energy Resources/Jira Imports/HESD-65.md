@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-65
-title: Internal Notice Template Link to project directs to homepage when HEInternal
-  user is logged in with SSO
+title: Internal Notice Template Link to project directs to homepage when HEInternal user is logged in with SSO
 status: Resolved
-created: '2022-05-04'
+created: 2022-05-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-65
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-167
-title: '349785: Start Project Validation chevron, no Save and Continue button '
+title: "349785: Start Project Validation chevron, no Save and Continue button "
 status: Closed
-created: '2022-11-28'
+created: 2022-11-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-167
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

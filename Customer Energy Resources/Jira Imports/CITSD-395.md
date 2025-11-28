@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-395
-title: 'ARD110 - Unable to remove unwanted PV Panels (Error: ''this.getFieldsByName
-  is not a function'')'
+title: "ARD110 - Unable to remove unwanted PV Panels (Error: 'this.getFieldsByName is not a function')"
 status: Resolved
-created: '2023-07-27'
+created: 2023-07-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-395
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-420
 title: Data dictionary S-071
 status: Resolved
-created: '2023-08-15'
+created: 2023-08-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-420
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

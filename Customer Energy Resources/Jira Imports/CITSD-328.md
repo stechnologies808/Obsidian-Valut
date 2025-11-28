@@ -2,16 +2,17 @@
 ticket_id: CITSD-328
 title: ARD006 - Inputted information is not autopopulated
 status: Closed
-created: '2023-06-16'
+created: 2023-06-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-328
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

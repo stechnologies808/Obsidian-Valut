@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-446"
 title: "ARD673: Transition - History tab should reflect the "from" and "to" values for the Add Execution Fields"
 status: "Deferred"
@@ -10,8 +9,8 @@ project: "hesd"
   - ticket
   - deferred
   - hesd
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

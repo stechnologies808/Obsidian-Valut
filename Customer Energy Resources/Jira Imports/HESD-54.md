@@ -2,16 +2,17 @@
 ticket_id: HESD-54
 title: Update Panel STC Rating and Calculation for ID 354111
 status: Closed
-created: '2022-04-21'
+created: 2022-04-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-54
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

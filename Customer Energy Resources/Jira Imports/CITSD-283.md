@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-283
-title: ALM 106 TEST UAT - AMEND COMPONENTS - (REMOVE) THE TOTAL INVERTER RATING SHOULD
-  AUTO CALCULATE TWO DECIMAL PLACES.
+title: ALM 106 TEST UAT - AMEND COMPONENTS - (REMOVE) THE TOTAL INVERTER RATING SHOULD AUTO CALCULATE TWO DECIMAL PLACES.
 status: Resolved
-created: '2023-04-17'
+created: 2023-04-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-283
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: HESD-104
 title: CID Email Templates insert field for CID_ProjectType
 status: Closed
-created: '2022-06-23'
+created: 2022-06-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-104
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

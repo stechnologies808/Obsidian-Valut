@@ -2,16 +2,17 @@
 ticket_id: HESD-197
 title: Screen blank on Reviewing a Revision
 status: Resolved
-created: '2023-02-03'
+created: 2023-02-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-197
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

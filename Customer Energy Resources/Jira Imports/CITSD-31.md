@@ -2,16 +2,17 @@
 ticket_id: CITSD-31
 title: Unable to start Project Validation
 status: Closed
-created: '2022-02-07'
+created: 2022-02-07
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-31
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: HESD-63
 title: Unable to make corrections, redirects user back to home page
 status: Closed
-created: '2022-04-30'
+created: 2022-04-30
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-63
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

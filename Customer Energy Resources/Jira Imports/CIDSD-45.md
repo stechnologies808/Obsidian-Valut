@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-45
-title: 'CDC Registration: Permission denied after entering code verification'
+title: "CDC Registration: Permission denied after entering code verification"
 status: Closed
-created: '2021-12-16'
+created: 2021-12-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-45
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

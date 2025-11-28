@@ -2,16 +2,17 @@
 ticket_id: CITSD-19
 title: Insurance should not be required for all Amendment projects
 status: Resolved
-created: '2022-01-31'
+created: 2022-01-31
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-19
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

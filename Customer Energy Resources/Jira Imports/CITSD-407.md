@@ -2,16 +2,17 @@
 ticket_id: CITSD-407
 title: ARD120 - Application Summary fields missing
 status: Closed
-created: '2023-08-07'
+created: 2023-08-07
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-407
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: HESD-308
 title: H-AMD-23-699217:Contractor stating they cannot submit validation stage.
 status: Closed
-created: '2024-01-22'
+created: 2024-01-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-308
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

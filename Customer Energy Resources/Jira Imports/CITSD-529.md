@@ -2,16 +2,17 @@
 ticket_id: CITSD-529
 title: ARD222 - NEM Plus selection get's re-routed to the Program Type page.
 status: Resolved
-created: '2023-10-02'
+created: 2023-10-02
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-529
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

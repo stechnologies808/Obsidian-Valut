@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-670
-title: ARD484 - Critical Error when attempting to enter Completeness Review workflow.
-  In-flight AS1 application
+title: ARD484 - Critical Error when attempting to enter Completeness Review workflow. In-flight AS1 application
 status: Resolved
-created: '2024-01-25'
+created: 2024-01-25
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-670
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

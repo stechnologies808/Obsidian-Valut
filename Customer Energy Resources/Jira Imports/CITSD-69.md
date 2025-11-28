@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-69
-title: Failed Validation email not sent to Customer/Contractor/System Owner. Only
-  failed verification email received.
+title: Failed Validation email not sent to Customer/Contractor/System Owner. Only failed verification email received.
 status: Closed
-created: '2022-03-04'
+created: 2022-03-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-69
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

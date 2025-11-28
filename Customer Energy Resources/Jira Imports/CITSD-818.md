@@ -2,16 +2,17 @@
 ticket_id: CITSD-818
 title: ARD789 - Regression - TF CID Dashboard
 status: Closed
-created: '2024-07-25'
+created: 2024-07-25
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-818
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

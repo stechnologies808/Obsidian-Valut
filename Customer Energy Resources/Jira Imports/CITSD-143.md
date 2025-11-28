@@ -2,16 +2,17 @@
 ticket_id: CITSD-143
 title: Add Ken Kurazaki to the CITSD
 status: Closed
-created: '2022-11-28'
+created: 2022-11-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-143
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

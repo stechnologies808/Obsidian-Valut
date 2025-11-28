@@ -2,16 +2,17 @@
 ticket_id: CITSD-2
 title: Unable to Register - Error invalid email address
 status: Closed
-created: '2021-12-03'
+created: 2021-12-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-2
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

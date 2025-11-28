@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-251
-title: ALM 74 TEST UAT - SYMBOLS APPEAR IN THE PROPERTY OWNER NAME WHEN AN APOSTROPHE
-  IS USED. (IN QUEUE VIEW AND CUSTOMER LANDING PAGE)
+title: ALM 74 TEST UAT - SYMBOLS APPEAR IN THE PROPERTY OWNER NAME WHEN AN APOSTROPHE IS USED. (IN QUEUE VIEW AND CUSTOMER LANDING PAGE)
 status: Resolved
-created: '2023-04-11'
+created: 2023-04-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-251
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

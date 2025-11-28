@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-570
-title: 'ARD278 - AMEND SDP CR: Battery Bonus Recipient & Customer Rate fields do not
-  have options to select'
+title: "ARD278 - AMEND SDP CR: Battery Bonus Recipient & Customer Rate fields do not have options to select"
 status: Resolved
-created: '2023-11-04'
+created: 2023-11-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-570
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

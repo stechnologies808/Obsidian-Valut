@@ -2,16 +2,17 @@
 ticket_id: CITSD-83
 title: Amendment withdrawals not reflected in Program Capacity calculations
 status: Closed
-created: '2022-03-11'
+created: 2022-03-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-83
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

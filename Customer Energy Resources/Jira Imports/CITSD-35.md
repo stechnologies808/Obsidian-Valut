@@ -2,16 +2,17 @@
 ticket_id: CITSD-35
 title: Revision hyperlink is not available
 status: Resolved
-created: '2022-02-14'
+created: 2022-02-14
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-35
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

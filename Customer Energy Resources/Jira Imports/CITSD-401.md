@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-401
-title: ARD107 - The substation, circuit, sub transformer, SAP node, and vault do not
-  appear on the customer’s landing page.
+title: ARD107 - The substation, circuit, sub transformer, SAP node, and vault do not appear on the customer’s landing page.
 status: Resolved
-created: '2023-07-28'
+created: 2023-07-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-401
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-561
-title: 'ARD185 - Project Validation: Liability Insurance should not be visible for
-  Federal, State, or County funded projects'
+title: "ARD185 - Project Validation: Liability Insurance should not be visible for Federal, State, or County funded projects"
 status: Closed
-created: '2023-11-04'
+created: 2023-11-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-561
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

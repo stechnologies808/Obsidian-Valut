@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-216
-title: 'Project M-AMD-22-542335; Review Project Validation link in progress tab just
-  takes me back to the home screen '
+title: "Project M-AMD-22-542335; Review Project Validation link in progress tab just takes me back to the home screen "
 status: Closed
-created: '2023-03-22'
+created: 2023-03-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-216
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-520"
 title: "INC0304671:External Contractor receving error message "Error occured during processing" on the Start Project Validation breadcrumb"
 status: "Closed"
@@ -10,8 +9,8 @@ project: "hesd"
   - ticket
   - closed
   - hesd
-updated: "2025-11-25T06:02"
-last_synced: "2025-11-25T06:02"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

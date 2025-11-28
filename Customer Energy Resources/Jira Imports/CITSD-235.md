@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "CITSD-235"
 title: "ALM 68 TEST UAT - Appointment Information not displayed in "My Appointments" Page"
 status: "Resolved"
@@ -10,8 +9,8 @@ project: "citsd"
   - ticket
   - citsd
   - resolved
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

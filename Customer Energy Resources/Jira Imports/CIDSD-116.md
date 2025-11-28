@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-116
-title: 'Update HTMLBlob: Field CID_ActiveMeters_msg'
+title: "Update HTMLBlob: Field CID_ActiveMeters_msg"
 status: Resolved
-created: '2022-03-08'
+created: 2022-03-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-116
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-178
-title: Unable to complete CR confirmation. Pop Up error. External list Calculated
-  Node empty
+title: Unable to complete CR confirmation. Pop Up error. External list Calculated Node empty
 status: Closed
-created: '2023-01-12'
+created: 2023-01-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-178
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

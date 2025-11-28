@@ -2,16 +2,17 @@
 ticket_id: CITSD-13
 title: Program_Type_Computed_Name for AMEND is not set
 status: Closed
-created: '2022-01-24'
+created: 2022-01-24
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-13
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

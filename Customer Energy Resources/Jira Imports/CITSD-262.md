@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-262
-title: 'ALM87: TEST UAT - Landing page not aligned with menu tabs'
+title: "ALM87: TEST UAT - Landing page not aligned with menu tabs"
 status: Closed
-created: '2023-04-11'
+created: 2023-04-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-262
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

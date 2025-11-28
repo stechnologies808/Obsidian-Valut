@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "CITSD-775"
 title: "ARD401 - PV Last Chance: "Project Validation Insurance" is listed instead of "Project Validation Certificate of Insurance""
 status: "Backlog"
@@ -10,8 +9,8 @@ project: "citsd"
   - ticket
   - backlog
   - citsd
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

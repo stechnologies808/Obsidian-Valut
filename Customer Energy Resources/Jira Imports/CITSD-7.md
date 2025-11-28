@@ -2,16 +2,17 @@
 ticket_id: CITSD-7
 title: Equipment information does not auto-populate for Amendments
 status: Resolved
-created: '2022-01-14'
+created: 2022-01-14
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-7
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

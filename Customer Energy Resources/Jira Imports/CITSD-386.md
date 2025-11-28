@@ -2,16 +2,17 @@
 ticket_id: CITSD-386
 title: Data Dictionary 07.21.2023
 status: Closed
-created: '2023-07-21'
+created: 2023-07-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-386
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-499
-title: 'Pop up error message when using the User Action: Alter Application'
+title: "Pop up error message when using the User Action: Alter Application"
 status: Closed
-created: '2024-09-05'
+created: 2024-09-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-499
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

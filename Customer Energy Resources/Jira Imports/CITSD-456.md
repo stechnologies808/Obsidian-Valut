@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-456
-title: 'ARD169 - Project Validation Review: missing Project Executed page'
+title: "ARD169 - Project Validation Review: missing Project Executed page"
 status: Closed
-created: '2023-09-13'
+created: 2023-09-13
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-456
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,22 +1,22 @@
 ---
 ticket_id: HESD-552
 title: 'PUC Requirement: Modification needed for automated BPEM creation function'
-status: Ready for HE Testing
+status: Deployed
 created: '2025-03-08'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-552
 project: hesd
 tags:
 - jira
 - ticket
+- deployed
 - hesd
-- ready-for-he-testing
-updated: 2025-11-25T06:02
-last_synced: 2025-11-25T06:02
+updated: 2025-11-28T11:18
+last_synced: 2025-11-28T11:18
 ---
 
 # }:}
 ## Overview
-- **Status**: Ready for HE Testing
+- **Status**: Deployed
 - **Created**: 2025-03-08
 - **Project**: hesd
 - **Request Type**: Unknown

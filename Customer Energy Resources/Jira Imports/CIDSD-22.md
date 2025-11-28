@@ -1,18 +1,18 @@
 ---
 ticket_id: CIDSD-22
-title: 'Communication template Residential Electric Service Request Planner assigned
-  via 6A not CC: on communication'
+title: "Communication template Residential Electric Service Request Planner assigned via 6A not CC: on communication"
 status: Resolved
-created: '2021-11-10'
+created: 2021-11-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-22
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

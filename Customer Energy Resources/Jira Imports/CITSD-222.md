@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-222
-title: 'ALM-45 TEST UAT: Email with valid projectID and L4/L6 number filed in the
-  Exceptions folder'
+title: "ALM-45 TEST UAT: Email with valid projectID and L4/L6 number filed in the Exceptions folder"
 status: Resolved
-created: '2023-03-27'
+created: 2023-03-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-222
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

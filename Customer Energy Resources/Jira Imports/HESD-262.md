@@ -2,16 +2,17 @@
 ticket_id: HESD-262
 title: GU_CID emails from exchange inbox resent every 10 mins
 status: Closed
-created: '2023-09-06'
+created: 2023-09-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-262
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

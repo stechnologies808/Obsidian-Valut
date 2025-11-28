@@ -1,18 +1,19 @@
 ---
 ticket_id: HESD-488
-title: '[HOT-FIX] P-NMP-24-886068: App. submitted, Comms sent but stuck in Initiated'
+title: "[HOT-FIX] P-NMP-24-886068: App. submitted, Comms sent but stuck in Initiated"
 status: Closed
-created: '2024-08-19'
+created: 2024-08-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-488
 project: hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
 tags:
-- jira
-- ticket
-- closed
-- hesd
-- watchlist
+  - jira
+  - ticket
+  - closed
+  - hesd
+  - watchlist
+Rank: 0
 ---
 
 # }:}

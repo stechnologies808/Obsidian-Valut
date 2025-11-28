@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-413
-title: 'ARD727 - Post-Go Live: Contractor unable to access Validation Submittal page'
+title: "ARD727 - Post-Go Live: Contractor unable to access Validation Submittal page"
 status: Closed
-created: '2024-06-05'
+created: 2024-06-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-413
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

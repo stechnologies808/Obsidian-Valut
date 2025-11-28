@@ -2,16 +2,17 @@
 ticket_id: CITSD-201
 title: ALM-32 ICLM UAT Completeness Review Header not formatted and hard to read
 status: Resolved
-created: '2023-03-21'
+created: 2023-03-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-201
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

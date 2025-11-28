@@ -2,16 +2,17 @@
 ticket_id: HESD-95
 title: Army is unable to submit an application.
 status: Resolved
-created: '2022-06-08'
+created: 2022-06-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-95
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

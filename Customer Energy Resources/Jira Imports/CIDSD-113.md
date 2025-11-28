@@ -1,18 +1,18 @@
 ---
 ticket_id: CIDSD-113
-title: 'Stage Only: No Customer/Stakeholder Registration Email Created when Customer
-  Email Not Entered'
+title: "Stage Only: No Customer/Stakeholder Registration Email Created when Customer Email Not Entered"
 status: Resolved
-created: '2022-03-08'
+created: 2022-03-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-113
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

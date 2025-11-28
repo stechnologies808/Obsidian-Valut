@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-676
-title: ARD504 - Receiving Internal Server Error when submitting validation for IF
-  application
+title: ARD504 - Receiving Internal Server Error when submitting validation for IF application
 status: Closed
-created: '2024-01-26'
+created: 2024-01-26
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-676
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

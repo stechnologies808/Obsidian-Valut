@@ -2,16 +2,17 @@
 ticket_id: CIDSD-54
 title: After making changes to one email template, Unable to Submit CID application
 status: Closed
-created: '2021-12-20'
+created: 2021-12-20
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-54
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

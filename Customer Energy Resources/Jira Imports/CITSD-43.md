@@ -2,16 +2,17 @@
 ticket_id: CITSD-43
 title: Viewable/Editable Existing Agreement information during Revision
 status: Closed
-created: '2022-02-24'
+created: 2022-02-24
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-43
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

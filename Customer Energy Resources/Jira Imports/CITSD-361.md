@@ -2,16 +2,17 @@
 ticket_id: CITSD-361
 title: ARD074 - [ADA] Wrong Heading Tag on Registration Page
 status: Resolved
-created: '2023-06-27'
+created: 2023-06-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-361
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

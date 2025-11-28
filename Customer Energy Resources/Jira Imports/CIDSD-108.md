@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-108
-title: 'STAGE: Queue View Column arrangement causes unchecked columns to be checked'
+title: "STAGE: Queue View Column arrangement causes unchecked columns to be checked"
 status: Resolved
-created: '2022-03-01'
+created: 2022-03-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-108
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

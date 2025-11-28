@@ -2,16 +2,17 @@
 ticket_id: CIDSD-18
 title: New Queue View Preset Filters
 status: Closed
-created: '2021-11-04'
+created: 2021-11-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-18
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-136
 title: REGRESSION - Revision Summary attachment misaligned starting from the components
 status: Closed
-created: '2022-11-23'
+created: 2022-11-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-136
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

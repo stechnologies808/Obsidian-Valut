@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-168
-title: '338909: Unable to perform Validation Review; Redirects back to landing page'
+title: "338909: Unable to perform Validation Review; Redirects back to landing page"
 status: Closed
-created: '2022-12-05'
+created: 2022-12-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-168
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

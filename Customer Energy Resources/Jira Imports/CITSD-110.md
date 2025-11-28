@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-110
-title: Liability Insurance fields appear during Validation despite kW threshold not
-  being met
+title: Liability Insurance fields appear during Validation despite kW threshold not being met
 status: Resolved
-created: '2022-10-20'
+created: 2022-10-20
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-110
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-623"
 title: "DMND0001604: ALM488: [ENH] Validation Submittal - System Components incorrectly label different panels as "PV Panels #1" even though there are 7"
 status: "Waiting for Review"
@@ -10,8 +9,8 @@ project: "hesd"
   - ticket
   - hesd
   - waiting-for-review
-updated: "2025-11-25T06:02"
-last_synced: "2025-11-25T06:02"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

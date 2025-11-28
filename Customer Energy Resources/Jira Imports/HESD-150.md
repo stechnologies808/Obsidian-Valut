@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-150
-title: '304317 Application Project Validation Hyperlink not available '
+title: "304317 Application Project Validation Hyperlink not available "
 status: Closed
-created: '2022-10-07'
+created: 2022-10-07
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-150
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

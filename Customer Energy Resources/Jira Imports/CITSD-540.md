@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-540
-title: 'ARD285 - AMEND:  Verification Submittal - Unable to upload xlsx and docx files'
+title: "ARD285 - AMEND:  Verification Submittal - Unable to upload xlsx and docx files"
 status: Resolved
-created: '2023-10-10'
+created: 2023-10-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-540
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

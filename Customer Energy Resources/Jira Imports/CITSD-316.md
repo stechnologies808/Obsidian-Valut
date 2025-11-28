@@ -2,16 +2,17 @@
 ticket_id: CITSD-316
 title: ALM 139 TEST UAT - Milestone entries not listed in their respective categories
 status: Resolved
-created: '2023-05-05'
+created: 2023-05-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-316
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

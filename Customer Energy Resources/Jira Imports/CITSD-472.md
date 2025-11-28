@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-472
-title: ARD198 - 216609 SDE BYOD - Verification submitted comms not sent to customer.
-  Validation previously passed.
+title: ARD198 - 216609 SDE BYOD - Verification submitted comms not sent to customer. Validation previously passed.
 status: Resolved
-created: '2023-09-19'
+created: 2023-09-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-472
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-296
 title: ALM120 TEST UAT Customer Facing Summary pages not formatted
 status: Resolved
-created: '2023-04-21'
+created: 2023-04-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-296
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

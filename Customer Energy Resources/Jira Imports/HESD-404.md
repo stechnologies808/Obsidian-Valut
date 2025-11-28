@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-404
-title: ARD711- Contractor should not see internal user who performed completeness
-  review
+title: ARD711- Contractor should not see internal user who performed completeness review
 status: Closed
-created: '2024-05-24'
+created: 2024-05-24
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-404
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-490
-title: ARD210 - Verification Submittal - Unable to save progress in Project Verification
-  submittal page
+title: ARD210 - Verification Submittal - Unable to save progress in Project Verification submittal page
 status: Resolved
-created: '2023-09-25'
+created: 2023-09-25
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-490
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

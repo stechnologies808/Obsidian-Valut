@@ -2,16 +2,17 @@
 ticket_id: CITSD-308
 title: ALM 130 TEST UAT - CID email mobile responsiveness
 status: Resolved
-created: '2023-04-26'
+created: 2023-04-26
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-308
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

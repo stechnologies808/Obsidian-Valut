@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-392
-title: 'ARD104 - CR: ES Type section visible when System Type has no energy storage'
+title: "ARD104 - CR: ES Type section visible when System Type has no energy storage"
 status: Resolved
-created: '2023-07-27'
+created: 2023-07-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-392
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

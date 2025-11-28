@@ -2,16 +2,17 @@
 ticket_id: CITSD-393
 title: ARD106 - BYOD1 Timeslot list includes 4PM-4PM and 6PM-6PM
 status: Closed
-created: '2023-07-27'
+created: 2023-07-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-393
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

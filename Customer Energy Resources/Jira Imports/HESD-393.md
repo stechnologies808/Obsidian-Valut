@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-393
-title: 'ARD700: Incorrect responsible party'
+title: "ARD700: Incorrect responsible party"
 status: Resolved
-created: '2024-05-22'
+created: 2024-05-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-393
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

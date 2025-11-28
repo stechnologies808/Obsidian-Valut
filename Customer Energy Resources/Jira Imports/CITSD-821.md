@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-821
-title: Lower threshold for the project due date so HE can test the Submit Extension
-  request
+title: Lower threshold for the project due date so HE can test the Submit Extension request
 status: Closed
-created: '2024-08-16'
+created: 2024-08-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-821
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

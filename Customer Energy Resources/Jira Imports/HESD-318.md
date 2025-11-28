@@ -2,16 +2,17 @@
 ticket_id: HESD-318
 title: P-AMD-23-497920 Project Details page not displaying
 status: Closed
-created: '2024-02-28'
+created: 2024-02-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-318
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

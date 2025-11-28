@@ -2,16 +2,17 @@
 ticket_id: CIDSD-82
 title: Contractor Registration Rejection email omits reason.(HPALM 318)
 status: Closed
-created: '2022-01-29'
+created: 2022-01-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-82
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-811
-title: ARD759 - Regression TF- Project Validation Hyperlinks should remain open after
-  project execution
+title: ARD759 - Regression TF- Project Validation Hyperlinks should remain open after project execution
 status: Resolved
-created: '2024-06-28'
+created: 2024-06-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-811
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-44
-title: TMK Island Code (1st digit of the TMK) for Lanai and Molokai should be 2, same
-  as Maui's
+title: TMK Island Code (1st digit of the TMK) for Lanai and Molokai should be 2, same as Maui's
 status: Resolved
-created: '2022-04-06'
+created: 2022-04-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-44
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

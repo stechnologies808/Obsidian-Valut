@@ -2,17 +2,18 @@
 ticket_id: CITSD-819
 title: ARD793 - Contractor does not appear in Queue View or on Project Details page
 status: Closed
-created: '2024-07-25'
+created: 2024-07-25
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-819
 project: citsd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
 tags:
-- jira
-- ticket
-- citsd
-- closed
-- watchlist
+  - jira
+  - ticket
+  - citsd
+  - closed
+  - watchlist
+Rank: 0
 ---
 
 # }:}

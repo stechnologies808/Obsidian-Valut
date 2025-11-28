@@ -1,18 +1,18 @@
 ---
 ticket_id: CIDSD-89
-title: 'STAGE: unable to register an internal Utility Customer account using the ?internal
-  login page'
+title: "STAGE: unable to register an internal Utility Customer account using the ?internal login page"
 status: Closed
-created: '2022-02-02'
+created: 2022-02-02
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-89
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

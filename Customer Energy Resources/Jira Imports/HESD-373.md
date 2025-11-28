@@ -2,16 +2,17 @@
 ticket_id: HESD-373
 title: ARD657 - Amps (Meter Socket Rating)
 status: Resolved
-created: '2024-05-03'
+created: 2024-05-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-373
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

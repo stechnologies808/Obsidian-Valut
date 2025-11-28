@@ -2,16 +2,17 @@
 ticket_id: CITSD-366
 title: ARD079 - CGS+ and CSS app type options missing hyphen
 status: Resolved
-created: '2023-06-27'
+created: 2023-06-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-366
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

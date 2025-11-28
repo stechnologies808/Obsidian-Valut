@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-419
-title: 'ARD734 - Post-Go Live: Error message during NEM Plus Application Submittal'
+title: "ARD734 - Post-Go Live: Error message during NEM Plus Application Submittal"
 status: Resolved
-created: '2024-06-06'
+created: 2024-06-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-419
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-4
 title: Unable to select PV Contractor when submitting paper application as HEProcessor
 status: Closed
-created: '2021-12-04'
+created: 2021-12-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-4
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: HESD-98
 title: Unable to re-submit Validation for H-GSP-22-342431
 status: Resolved
-created: '2022-06-15'
+created: 2022-06-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-98
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

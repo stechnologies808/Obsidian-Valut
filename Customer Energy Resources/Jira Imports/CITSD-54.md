@@ -2,16 +2,17 @@
 ticket_id: CITSD-54
 title: System Owner name does not auto-populate in the Rule 31 (PSA) Agreement
 status: Resolved
-created: '2022-03-03'
+created: 2022-03-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-54
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

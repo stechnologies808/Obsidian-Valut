@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-215
-title: 'ALM-42 TEST UAT: Project Details page missing upload ad-hoc documents to documents
-  tab'
+title: "ALM-42 TEST UAT: Project Details page missing upload ad-hoc documents to documents tab"
 status: Resolved
-created: '2023-03-23'
+created: 2023-03-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-215
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

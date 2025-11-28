@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-291
-title: '731376: CIT WORK STOPPAGE ERROR, PLEASE RUSH - CR outcome for CIT application
-  P-AMD-23-731376 did not advance correctly'
+title: "731376: CIT WORK STOPPAGE ERROR, PLEASE RUSH - CR outcome for CIT application P-AMD-23-731376 did not advance correctly"
 status: Resolved
-created: '2023-12-19'
+created: 2023-12-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-291
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

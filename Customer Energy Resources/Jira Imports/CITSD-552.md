@@ -2,16 +2,17 @@
 ticket_id: CITSD-552
 title: ARD297 - SmartDER apps unable to move into ITR after Completeness Review
 status: Closed
-created: '2023-10-28'
+created: 2023-10-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-552
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

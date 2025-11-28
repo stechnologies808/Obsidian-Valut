@@ -2,16 +2,17 @@
 ticket_id: CITSD-406
 title: Data Dictionary version 8.4.2023 Reformatted field-level conditions
 status: Closed
-created: '2023-08-05'
+created: 2023-08-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-406
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

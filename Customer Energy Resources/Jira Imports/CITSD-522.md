@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-522
-title: 'ARD265 - Project Validation Review: Updates Submitted page sections in wrong
-  order; customer reference header should be hidden for internal users'
+title: "ARD265 - Project Validation Review: Updates Submitted page sections in wrong order; customer reference header should be hidden for internal users"
 status: Resolved
-created: '2023-09-30'
+created: 2023-09-30
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-522
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

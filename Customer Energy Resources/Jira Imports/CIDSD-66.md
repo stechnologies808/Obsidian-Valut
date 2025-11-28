@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-66
-title: 'Some checkbox lists are misaligned '
+title: "Some checkbox lists are misaligned "
 status: Resolved
-created: '2022-01-09'
+created: 2022-01-09
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-66
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

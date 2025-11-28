@@ -2,16 +2,17 @@
 ticket_id: HESD-243
 title: Field info updates downstream
 status: Closed
-created: '2023-06-23'
+created: 2023-06-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-243
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

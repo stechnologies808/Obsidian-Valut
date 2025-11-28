@@ -2,16 +2,17 @@
 ticket_id: CIDSD-42
 title: Some of the column fields in the Applications queue view are missing in Stage
 status: Closed
-created: '2021-12-15'
+created: 2021-12-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-42
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

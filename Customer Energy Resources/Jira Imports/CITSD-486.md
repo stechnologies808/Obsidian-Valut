@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-486
-title: ARD213 - Validation Failed Document not attached to Validation Failed Email
-  that’s sent to the customer
+title: ARD213 - Validation Failed Document not attached to Validation Failed Email that’s sent to the customer
 status: Resolved
-created: '2023-09-21'
+created: 2023-09-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-486
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

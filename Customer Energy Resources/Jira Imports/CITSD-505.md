@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-505
-title: ARD223 - APP Submittal - PV Contractor information editable eventhough logged
-  in as contractor
+title: ARD223 - APP Submittal - PV Contractor information editable eventhough logged in as contractor
 status: Resolved
-created: '2023-09-29'
+created: 2023-09-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-505
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

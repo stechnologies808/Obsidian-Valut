@@ -2,16 +2,17 @@
 ticket_id: CIDSD-6
 title: test 2021
 status: Closed
-created: '2021-08-13'
+created: 2021-08-13
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-6
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

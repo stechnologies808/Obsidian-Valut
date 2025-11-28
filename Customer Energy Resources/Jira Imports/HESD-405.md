@@ -1,13 +1,12 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-405"
 title: "ARD713 - Project Verification - onsite inspection: "Error occurred during processing, please try again in a few minutes.  If the problem persists please contact an administrator.""
 status: "Resolved"
 created: "2024-05-29"
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-405"
 project: "hesd"
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
   - jira
   - ticket
   - hesd

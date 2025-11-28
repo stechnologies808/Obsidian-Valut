@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-73
-title: 'Stakeholder and Customer cannot edit project after registering '
+title: "Stakeholder and Customer cannot edit project after registering "
 status: Resolved
-created: '2022-01-20'
+created: 2022-01-20
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-73
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

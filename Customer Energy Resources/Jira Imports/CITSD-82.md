@@ -2,16 +2,17 @@
 ticket_id: CITSD-82
 title: Amendments added to the HQ - External Communications not sent
 status: Resolved
-created: '2022-03-10'
+created: 2022-03-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-82
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

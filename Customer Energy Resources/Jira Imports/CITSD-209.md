@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-209
-title: ALM 37 TEST UAT CIT - Application > Unable to upload the Flex Files from CIT
-  to SAP
+title: ALM 37 TEST UAT CIT - Application > Unable to upload the Flex Files from CIT to SAP
 status: Closed
-created: '2023-03-22'
+created: 2023-03-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-209
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

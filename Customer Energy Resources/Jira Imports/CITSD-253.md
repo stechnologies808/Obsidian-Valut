@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-253
-title: 'ALM 76 TEST UAT - VAL SUBMITTAL: FINAL REVIEW - INFORMATION IS IN WEIRD FORMAT'
+title: "ALM 76 TEST UAT - VAL SUBMITTAL: FINAL REVIEW - INFORMATION IS IN WEIRD FORMAT"
 status: Resolved
-created: '2023-04-11'
+created: 2023-04-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-253
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

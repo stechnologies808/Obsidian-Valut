@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-783
-title: 'ARD627 - Post-Go Live: Unable to review Change Of Contractor request'
+title: "ARD627 - Post-Go Live: Unable to review Change Of Contractor request"
 status: Resolved
-created: '2024-04-19'
+created: 2024-04-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-783
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

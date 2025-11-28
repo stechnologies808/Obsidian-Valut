@@ -1,23 +1,23 @@
 ---
 ticket_id: HESD-549
 title: 'DMND0001783: CIT/CID Process applications in the order received'
-status: Awaiting Deployment
+status: Deployed
 created: '2025-02-14'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-549
 project: hesd
 tags:
 - jira
 - ticket
-- awaiting-deployment
+- deployed
 - hesd
 - watchlist
-updated: 2025-11-25T06:02
-last_synced: 2025-11-25T06:02
+updated: 2025-11-28T11:18
+last_synced: 2025-11-28T11:18
 ---
 
 # }:}
 ## Overview
-- **Status**: Awaiting Deployment
+- **Status**: Deployed
 - **Created**: 2025-02-14
 - **Project**: hesd
 - **Request Type**: Unknown

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-485
-title: ARD211 - Post V&V - Onsite inspection and later activities should not be activated
-  until after Validation and Verification are completed and passed.
+title: ARD211 - Post V&V - Onsite inspection and later activities should not be activated until after Validation and Verification are completed and passed.
 status: Closed
-created: '2023-09-21'
+created: 2023-09-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-485
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

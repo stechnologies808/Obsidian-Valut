@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-785
-title: 'ARD630 - Transition: Unable to search by previous project ID after transition
-  is complete'
+title: "ARD630 - Transition: Unable to search by previous project ID after transition is complete"
 status: Closed
-created: '2024-04-22'
+created: 2024-04-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-785
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

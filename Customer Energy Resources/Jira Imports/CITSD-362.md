@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-362
-title: ARD074 - [ADA] Incorrect Heading Tag Nesting on new Renewable Energy Program
-  Application Type page
+title: ARD074 - [ADA] Incorrect Heading Tag Nesting on new Renewable Energy Program Application Type page
 status: Resolved
-created: '2023-06-27'
+created: 2023-06-27
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-362
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-637
 title: ARD424 - Sign up (Register) page not always loading form.
 status: Closed
-created: '2024-01-10'
+created: 2024-01-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-637
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

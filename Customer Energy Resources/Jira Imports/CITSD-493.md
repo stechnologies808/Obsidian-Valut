@@ -2,16 +2,17 @@
 ticket_id: CITSD-493
 title: ARD125 - reporting - lvm-circuits and Calculated Circuit Values for AMEND
 status: Closed
-created: '2023-09-26'
+created: 2023-09-26
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-493
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

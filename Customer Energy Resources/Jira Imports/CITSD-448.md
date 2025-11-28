@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-448
-title: 'ARD166 - Internal Application Submitted: time stamp UI overlapping'
+title: "ARD166 - Internal Application Submitted: time stamp UI overlapping"
 status: Resolved
-created: '2023-09-12'
+created: 2023-09-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-448
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

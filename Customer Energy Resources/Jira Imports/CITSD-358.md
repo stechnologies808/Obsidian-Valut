@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-358
-title: ARD055 - Unable to type in date field box for Existing NEM Agreement Date field-
-  can only select
+title: ARD055 - Unable to type in date field box for Existing NEM Agreement Date field- can only select
 status: Resolved
-created: '2023-06-23'
+created: 2023-06-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-358
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

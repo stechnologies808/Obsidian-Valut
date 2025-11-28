@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-282
-title: The contractor was not able to see the hyperlinks for the Validation Stage
-  of P-ISE-22-499855, now cannot even access the application in CIT. See attached.
+title: The contractor was not able to see the hyperlinks for the Validation Stage of P-ISE-22-499855, now cannot even access the application in CIT. See attached.
 status: Resolved
-created: '2023-12-11'
+created: 2023-12-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-282
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

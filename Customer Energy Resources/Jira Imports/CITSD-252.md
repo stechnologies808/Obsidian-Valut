@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-252
-title: ALM 75 TEST UAT - VAL SUBMITTAL - TOTAL INVERTER QUANTITY AND TOTAL INVERTER
-  SIZE (KW) FIELDS ARE BLANK
+title: ALM 75 TEST UAT - VAL SUBMITTAL - TOTAL INVERTER QUANTITY AND TOTAL INVERTER SIZE (KW) FIELDS ARE BLANK
 status: Resolved
-created: '2023-04-11'
+created: 2023-04-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-252
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

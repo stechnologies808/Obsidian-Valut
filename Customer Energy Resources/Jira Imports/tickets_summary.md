@@ -1,3 +1,6 @@
+---
+Rank: 0
+---
 # All Tickets – Summary
 
 **As of:** 2025-11-16  

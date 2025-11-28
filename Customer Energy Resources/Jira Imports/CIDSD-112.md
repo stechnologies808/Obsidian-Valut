@@ -2,16 +2,17 @@
 ticket_id: CIDSD-112
 title: Stakeholder email notification is not displaying the full address
 status: Resolved
-created: '2022-03-07'
+created: 2022-03-07
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-112
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

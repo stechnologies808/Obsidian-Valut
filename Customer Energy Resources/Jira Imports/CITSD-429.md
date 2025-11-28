@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-429
-title: 'ARD137 - Utility Upgrade: Conditional Approval email not sent'
+title: "ARD137 - Utility Upgrade: Conditional Approval email not sent"
 status: Resolved
-created: '2023-08-22'
+created: 2023-08-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-429
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

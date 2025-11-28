@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-352"
 title: "ARD618 - Post- Go Live: "Project Amended" field in Project Summary page displays incorrect information"
 status: "Closed"
@@ -10,8 +9,8 @@ project: "hesd"
   - ticket
   - closed
   - hesd
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

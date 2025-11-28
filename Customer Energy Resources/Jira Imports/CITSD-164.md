@@ -2,16 +2,17 @@
 ticket_id: CITSD-164
 title: Multiple utility Completeness Review notification emails sent on submission.
 status: Closed
-created: '2022-12-28'
+created: 2022-12-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-164
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

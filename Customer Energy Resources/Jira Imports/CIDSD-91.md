@@ -1,18 +1,18 @@
 ---
 ticket_id: CIDSD-91
-title: The Tool bypasses Remove Service chevron and able to submit incomplete Other
-  Service application
+title: The Tool bypasses Remove Service chevron and able to submit incomplete Other Service application
 status: Closed
-created: '2022-02-08'
+created: 2022-02-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-91
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

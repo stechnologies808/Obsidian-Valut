@@ -2,16 +2,17 @@
 ticket_id: CITSD-792
 title: ARD666 - STAGE--LVM-missing HELCO apps in lvm-application-20240510
 status: Closed
-created: '2024-05-10'
+created: 2024-05-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-792
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

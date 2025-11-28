@@ -2,16 +2,17 @@
 ticket_id: CITSD-183
 title: HPALM-6 ICLM Kibana dashboards missing default index
 status: Closed
-created: '2023-03-09'
+created: 2023-03-09
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-183
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,22 +1,22 @@
 ---
 ticket_id: HESD-554
 title: INC0312539 - Error on OnSite Compliance
-status: Awaiting Deployment
+status: Deployed
 created: '2025-03-20'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-554
 project: hesd
 tags:
 - jira
 - ticket
-- awaiting-deployment
+- deployed
 - hesd
-updated: 2025-11-25T06:02
-last_synced: 2025-11-25T06:02
+updated: 2025-11-28T11:18
+last_synced: 2025-11-28T11:18
 ---
 
 # }:}
 ## Overview
-- **Status**: Awaiting Deployment
+- **Status**: Deployed
 - **Created**: 2025-03-20
 - **Project**: hesd
 - **Request Type**: Unknown

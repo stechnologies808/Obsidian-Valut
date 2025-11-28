@@ -2,16 +2,17 @@
 ticket_id: CIDSD-70
 title: Requester Type defaults to CONTRACTOR (GENERAL ELEC) in SAP
 status: Resolved
-created: '2022-01-18'
+created: 2022-01-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-70
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

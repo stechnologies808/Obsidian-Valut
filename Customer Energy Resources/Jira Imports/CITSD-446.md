@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-446
-title: 'ARD164 - CR: Property Owner Deed in wrong location'
+title: "ARD164 - CR: Property Owner Deed in wrong location"
 status: Resolved
-created: '2023-09-12'
+created: 2023-09-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-446
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

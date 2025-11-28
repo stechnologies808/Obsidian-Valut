@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-281
-title: '601292: User is unable to access Project Validation Review'
+title: "601292: User is unable to access Project Validation Review"
 status: Closed
-created: '2023-12-08'
+created: 2023-12-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-281
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

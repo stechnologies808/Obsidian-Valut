@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-72
-title: 'PROD: Unable to select Contractors from Contractor Approval drop down'
+title: "PROD: Unable to select Contractors from Contractor Approval drop down"
 status: Resolved
-created: '2022-05-10'
+created: 2022-05-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-72
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

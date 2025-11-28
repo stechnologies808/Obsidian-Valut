@@ -2,16 +2,17 @@
 ticket_id: CITSD-465
 title: ARD184 - NEM Plus project ID not appearing in correct format.
 status: Resolved
-created: '2023-09-18'
+created: 2023-09-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-465
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

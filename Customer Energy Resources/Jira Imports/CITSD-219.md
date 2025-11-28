@@ -2,16 +2,17 @@
 ticket_id: CITSD-219
 title: ALM 28 TEST UAT Application - Application > L6 not displayed
 status: Closed
-created: '2023-03-24'
+created: 2023-03-24
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-219
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

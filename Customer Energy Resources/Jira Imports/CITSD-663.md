@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-663
-title: 'ARD451 - 504: Gateway Timeout Error - CGS Plus'
+title: "ARD451 - 504: Gateway Timeout Error - CGS Plus"
 status: Closed
-created: '2024-01-19'
+created: 2024-01-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-663
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

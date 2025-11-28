@@ -2,16 +2,17 @@
 ticket_id: CITSD-340
 title: ARD037 - Panel STC rating autopopulating incorrect kW
 status: Resolved
-created: '2023-06-20'
+created: 2023-06-20
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-340
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

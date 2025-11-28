@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-70
-title: Unable to approve Contractor Company due to nonascii character in Company name
-  field
+title: Unable to approve Contractor Company due to nonascii character in Company name field
 status: Resolved
-created: '2022-05-06'
+created: 2022-05-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-70
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

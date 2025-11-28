@@ -2,16 +2,17 @@
 ticket_id: CITSD-91
 title: Update Program_Type_Computed_Name component STAGE & TEST
 status: Resolved
-created: '2022-03-19'
+created: 2022-03-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-91
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

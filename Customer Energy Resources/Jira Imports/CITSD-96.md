@@ -2,16 +2,17 @@
 ticket_id: CITSD-96
 title: Regression Testing Smart Export application missing Total kW on Project Summary
 status: Closed
-created: '2022-03-22'
+created: 2022-03-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-96
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

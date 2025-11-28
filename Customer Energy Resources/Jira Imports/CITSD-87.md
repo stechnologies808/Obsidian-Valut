@@ -2,16 +2,17 @@
 ticket_id: CITSD-87
 title: 0316 Regression Testing Message pop-up during CR of a CSS application
 status: Resolved
-created: '2022-03-16'
+created: 2022-03-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-87
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

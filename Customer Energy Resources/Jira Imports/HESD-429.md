@@ -1,13 +1,12 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-429"
 title: "ARD743 - Post-Go Live: Actions tab shows "View Extension Request" even after request was processed"
 status: "Resolved"
 created: "2024-06-20"
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-429"
 project: "hesd"
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
   - jira
   - ticket
   - hesd

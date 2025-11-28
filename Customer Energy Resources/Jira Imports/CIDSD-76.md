@@ -2,16 +2,17 @@
 ticket_id: CIDSD-76
 title: Stage - Defect 305 - Other Service Chevron - Unable to Submit
 status: Resolved
-created: '2022-01-25'
+created: 2022-01-25
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-76
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-551
 title: ARD271 - BYOD Verification Incomplete Email attachment shoud be included
 status: Resolved
-created: '2023-10-26'
+created: 2023-10-26
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-551
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

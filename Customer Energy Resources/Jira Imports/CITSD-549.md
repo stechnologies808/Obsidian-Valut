@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-549
-title: ARD295- Data missing for Project Type variable on CID Application Passed Completeness
-  Review email
+title: ARD295- Data missing for Project Type variable on CID Application Passed Completeness Review email
 status: Closed
-created: '2023-10-25'
+created: 2023-10-25
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-549
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-620
-title: 'ARD369 - Application Submittal: Process Phase is Holding Queue when it should
-  be Completeness Review'
+title: "ARD369 - Application Submittal: Process Phase is Holding Queue when it should be Completeness Review"
 status: Closed
-created: '2024-01-05'
+created: 2024-01-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-620
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

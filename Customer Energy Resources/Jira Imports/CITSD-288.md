@@ -2,16 +2,17 @@
 ticket_id: CITSD-288
 title: ALM 111 TEST - CID Dashboard Contact Information wrong
 status: Resolved
-created: '2023-04-19'
+created: 2023-04-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-288
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

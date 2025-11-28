@@ -2,7 +2,7 @@
 ticket_id: CITSD-824
 title: 'DFCT0010772: PV contractor information  disappears in project details view
   after execution'
-status: In Test
+status: Resolved
 created: '2024-09-28'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-824
 project: citsd
@@ -10,14 +10,14 @@ tags:
 - jira
 - ticket
 - citsd
-- in-test
-updated: 2025-11-25T06:01
-last_synced: 2025-11-25T06:01
+- resolved
+updated: 2025-11-28T11:18
+last_synced: 2025-11-28T11:18
 ---
 
 # }:}
 ## Overview
-- **Status**: In Test
+- **Status**: Resolved
 - **Created**: 2024-09-28
 - **Project**: citsd
 - **Request Type**: Unknown

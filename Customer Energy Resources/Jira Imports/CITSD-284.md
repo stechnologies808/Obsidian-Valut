@@ -2,16 +2,17 @@
 ticket_id: CITSD-284
 title: ALM 107 TEST UAT - AMEND COMPONENT - (REMOVE) TOTAL PANEL RATING DOES NOT AUTO-POPULATE
 status: Closed
-created: '2023-04-17'
+created: 2023-04-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-284
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

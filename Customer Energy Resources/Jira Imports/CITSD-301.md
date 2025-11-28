@@ -2,16 +2,17 @@
 ticket_id: CITSD-301
 title: ALM124 UAT CIT/CID login doesn't bring user to correct dashboard
 status: Resolved
-created: '2023-04-23'
+created: 2023-04-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-301
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-165
-title: '491230: Unable to unlock Project Validation'
+title: "491230: Unable to unlock Project Validation"
 status: Closed
-created: '2022-11-22'
+created: 2022-11-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-165
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

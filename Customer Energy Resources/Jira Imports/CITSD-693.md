@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-693
-title: 'ARD531 - CIT to DRMS Enrollment Integration: Participant Resource Capability
-  field does not populate on .xml file for enrollment'
+title: "ARD531 - CIT to DRMS Enrollment Integration: Participant Resource Capability field does not populate on .xml file for enrollment"
 status: Resolved
-created: '2024-02-01'
+created: 2024-02-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-693
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

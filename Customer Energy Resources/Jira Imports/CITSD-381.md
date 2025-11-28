@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-381
-title: 'Changes for DEV and repository: CR Confirmation page, label Submit'
+title: "Changes for DEV and repository: CR Confirmation page, label Submit"
 status: Resolved
-created: '2023-06-30'
+created: 2023-06-30
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-381
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

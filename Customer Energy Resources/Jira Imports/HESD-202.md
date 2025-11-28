@@ -2,16 +2,17 @@
 ticket_id: HESD-202
 title: Project summary page blank on app 405753
 status: Resolved
-created: '2023-02-10'
+created: 2023-02-10
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-202
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

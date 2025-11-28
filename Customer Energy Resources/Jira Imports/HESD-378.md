@@ -2,16 +2,17 @@
 ticket_id: HESD-378
 title: ARD675 - HOT FIX - ITR Confirmation - Internal Server Error
 status: Closed
-created: '2024-05-13'
+created: 2024-05-13
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-378
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

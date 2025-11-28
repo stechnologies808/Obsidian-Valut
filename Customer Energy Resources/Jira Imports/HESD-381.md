@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-381
-title: ARD678 - Unable to start application - when Contractor clicks on [Start new
-  application], they are taken back to the homepage
+title: ARD678 - Unable to start application - when Contractor clicks on [Start new application], they are taken back to the homepage
 status: Closed
-created: '2024-05-14'
+created: 2024-05-14
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-381
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

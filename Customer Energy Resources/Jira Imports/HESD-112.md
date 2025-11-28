@@ -2,16 +2,17 @@
 ticket_id: HESD-112
 title: User unable to start new Electrical Application
 status: Closed
-created: '2022-07-07'
+created: 2022-07-07
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-112
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-589
-title: 'ARD328 - CID Application Detail Page not matching Info: meter'
+title: "ARD328 - CID Application Detail Page not matching Info: meter"
 status: Closed
-created: '2023-11-28'
+created: 2023-11-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-589
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

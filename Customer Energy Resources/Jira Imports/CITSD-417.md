@@ -2,16 +2,17 @@
 ticket_id: CITSD-417
 title: ARD125 - reporting - lvm-circuits and Calculated Circuit Values
 status: Resolved
-created: '2023-08-11'
+created: 2023-08-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-417
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

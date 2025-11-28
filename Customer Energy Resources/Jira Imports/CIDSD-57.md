@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-57
-title: 'TEST: Email template field ${application.CID_Zipcode} not appearing'
+title: "TEST: Email template field ${application.CID_Zipcode} not appearing"
 status: Closed
-created: '2021-12-22'
+created: 2021-12-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-57
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

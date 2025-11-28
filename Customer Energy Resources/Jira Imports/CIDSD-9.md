@@ -2,16 +2,17 @@
 ticket_id: CIDSD-9
 title: test
 status: Closed
-created: '2021-09-01'
+created: 2021-09-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-9
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

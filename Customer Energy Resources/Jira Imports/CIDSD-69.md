@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-69
-title: 'STAGE - Platform: Reporting->CSV Export Max records 10K'
+title: "STAGE - Platform: Reporting->CSV Export Max records 10K"
 status: Resolved
-created: '2022-01-15'
+created: 2022-01-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-69
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

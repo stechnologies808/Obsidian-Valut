@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-154
-title: '377561: Completeness Review PASSED, application did NOT move forward to ITR'
+title: "377561: Completeness Review PASSED, application did NOT move forward to ITR"
 status: Resolved
-created: '2022-10-14'
+created: 2022-10-14
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-154
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

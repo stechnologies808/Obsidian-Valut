@@ -2,17 +2,18 @@
 ticket_id: HESD-358
 title: Contractor can't see hyperlinks or application
 status: Closed
-created: '2024-04-18'
+created: 2024-04-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-358
 project: hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
 tags:
-- jira
-- ticket
-- closed
-- hesd
-- watchlist
+  - jira
+  - ticket
+  - closed
+  - hesd
+  - watchlist
+Rank: 0
 ---
 
 # }:}

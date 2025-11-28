@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "CITSD-690"
 title: "ARD496 - Bottom half of "Superseding Sheet No.___" on Agreement pages 48A-2, 4, 5, 9 cut off on agreement"
 status: "Resolved"
@@ -10,8 +9,8 @@ project: "citsd"
   - ticket
   - citsd
   - resolved
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

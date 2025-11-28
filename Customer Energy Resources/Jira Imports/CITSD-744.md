@@ -2,16 +2,17 @@
 ticket_id: CITSD-744
 title: ARD566 - Milestones inputs/changes not populating in CIT
 status: Closed
-created: '2024-02-07'
+created: 2024-02-07
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-744
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

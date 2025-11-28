@@ -1,5 +1,4 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-636"
 title: "DMND0001924-SP-078: Auto archive "initiated" CID apps quarterly instead of yearly."
 status: "Under Review"
@@ -10,8 +9,8 @@ project: "hesd"
   - ticket
   - hesd
   - under-review
-updated: "2025-11-25T06:02"
-last_synced: "2025-11-25T06:02"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-147
-title: 'ALM 67: 6A/L6 DID NOT POPULATE FOR PROJECT ID H-NEW-22-175006'
+title: "ALM 67: 6A/L6 DID NOT POPULATE FOR PROJECT ID H-NEW-22-175006"
 status: Closed
-created: '2022-11-29'
+created: 2022-11-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-147
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

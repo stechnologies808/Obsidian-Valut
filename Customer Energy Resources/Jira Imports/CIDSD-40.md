@@ -2,16 +2,17 @@
 ticket_id: CIDSD-40
 title: STAGE; Unable to register internal HE employee[EDGE]
 status: Resolved
-created: '2021-12-13'
+created: 2021-12-13
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-40
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

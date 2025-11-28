@@ -2,7 +2,7 @@
 ticket_id: CITSD-598
 title: ARD339 - [UI Styling] Queue View table styling gone
 status: Backlog
-created: '2023-12-12'
+created: 2023-12-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-598
 project: citsd
 tags:
@@ -10,8 +10,9 @@ tags:
 - ticket
 - backlog
 - citsd
-updated: 2025-11-25T06:01
-last_synced: 2025-11-25T06:01
+updated: 2025-11-28T07:46
+last_synced: 2025-11-28T07:46
+rank: 0
 ---
 
 # }:}

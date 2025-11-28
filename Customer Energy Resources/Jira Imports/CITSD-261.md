@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-261
-title: 'ALM86 TEST UAT: AS/2 new function - Address Book: unable to add contacts'
+title: "ALM86 TEST UAT: AS/2 new function - Address Book: unable to add contacts"
 status: Resolved
-created: '2023-04-11'
+created: 2023-04-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-261
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

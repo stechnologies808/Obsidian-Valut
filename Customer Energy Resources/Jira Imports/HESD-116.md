@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-116
-title: 'STAGE: Unable to upload pdf while submitting CIT application'
+title: "STAGE: Unable to upload pdf while submitting CIT application"
 status: Resolved
-created: '2022-07-12'
+created: 2022-07-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-116
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

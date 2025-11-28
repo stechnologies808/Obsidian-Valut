@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-26
-title: CSV Reporting Export headers are always field names; previous to CID go-live
-  it was the Display Fields Using
+title: CSV Reporting Export headers are always field names; previous to CID go-live it was the Display Fields Using
 status: Closed
-created: '2022-03-21'
+created: 2022-03-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-26
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

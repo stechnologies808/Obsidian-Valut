@@ -2,16 +2,17 @@
 ticket_id: CITSD-197
 title: ALM-29 ICLM UAT System Components on Project Summary displaying quantity 0
 status: Closed
-created: '2023-03-19'
+created: 2023-03-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-197
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

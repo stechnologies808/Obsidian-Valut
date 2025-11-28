@@ -2,16 +2,17 @@
 ticket_id: CITSD-153
 title: Revision received email to customer/contractor does not include attachment.
 status: Resolved
-created: '2022-12-16'
+created: 2022-12-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-153
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

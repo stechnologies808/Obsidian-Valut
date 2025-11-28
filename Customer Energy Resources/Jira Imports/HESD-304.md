@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-304
-title: ' when trying to submit a revision on behalf of the customer/contractor, an
-  error message is repeatedly being received, and the revision cannot be submitted.  '
+title: " when trying to submit a revision on behalf of the customer/contractor, an error message is repeatedly being received, and the revision cannot be submitted.  "
 status: Closed
-created: '2024-01-19'
+created: 2024-01-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-304
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-81
-title: 'PROD: Remove Contractor with non-ascii character from PendingContractorCompanies
-  Drop down list'
+title: "PROD: Remove Contractor with non-ascii character from PendingContractorCompanies Drop down list"
 status: Resolved
-created: '2022-05-19'
+created: 2022-05-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-81
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

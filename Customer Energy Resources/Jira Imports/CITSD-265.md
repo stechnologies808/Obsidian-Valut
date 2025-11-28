@@ -2,16 +2,17 @@
 ticket_id: CITSD-265
 title: ALM 89 TEST UAT - CDC Login box not loading sometimes
 status: Resolved
-created: '2023-04-12'
+created: 2023-04-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-265
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

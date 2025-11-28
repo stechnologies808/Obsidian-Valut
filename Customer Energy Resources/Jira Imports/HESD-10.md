@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-10
-title: Post Go-Live Maui Pacific Solar, Inc. HE Internal View of Project Summary missing
-  4-lines
+title: Post Go-Live Maui Pacific Solar, Inc. HE Internal View of Project Summary missing 4-lines
 status: Closed
-created: '2022-03-17'
+created: 2022-03-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-10
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-73
-title: 'TEST: Unable to move pass CR. Blocking retesting other tickets'
+title: "TEST: Unable to move pass CR. Blocking retesting other tickets"
 status: Resolved
-created: '2022-03-08'
+created: 2022-03-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-73
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

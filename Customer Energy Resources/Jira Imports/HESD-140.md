@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-140
-title: 'CSV export: Inconsistent number of records reported. Discrepancy between CIT
-  Queue View and export. '
+title: "CSV export: Inconsistent number of records reported. Discrepancy between CIT Queue View and export. "
 status: Closed
-created: '2022-09-02'
+created: 2022-09-02
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-140
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

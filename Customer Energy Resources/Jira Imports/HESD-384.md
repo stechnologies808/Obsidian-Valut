@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-384
-title: ARD681 - HOT FIX - lvm-applications-20240513 file on 5/13/2024 did not include
-  applications from CIT - only legacy applications
+title: ARD681 - HOT FIX - lvm-applications-20240513 file on 5/13/2024 did not include applications from CIT - only legacy applications
 status: Closed
-created: '2024-05-14'
+created: 2024-05-14
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-384
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

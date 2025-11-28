@@ -2,16 +2,17 @@
 ticket_id: CITSD-531
 title: ARD258 - DRMS Enrollment File not in Q Drive
 status: Resolved
-created: '2023-10-02'
+created: 2023-10-02
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-531
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

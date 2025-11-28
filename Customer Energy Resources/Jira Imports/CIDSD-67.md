@@ -2,16 +2,17 @@
 ticket_id: CIDSD-67
 title: Stage - Defect 290 - First Time New User Login - Redirect to Application Page
 status: Resolved
-created: '2022-01-11'
+created: 2022-01-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-67
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

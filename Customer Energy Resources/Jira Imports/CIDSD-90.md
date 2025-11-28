@@ -2,16 +2,17 @@
 ticket_id: CIDSD-90
 title: Remove Service converted to Temp Service - cannot revert back to Remove Service
 status: Resolved
-created: '2022-02-04'
+created: 2022-02-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-90
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- resolved
+  - jira
+  - ticket
+  - cidsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

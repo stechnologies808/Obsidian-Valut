@@ -2,16 +2,17 @@
 ticket_id: CITSD-508
 title: ARD252 - Error message displayed when Initiating a Revision as a HECOProcessor
 status: Closed
-created: '2023-09-29'
+created: 2023-09-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-508
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-277
-title: ALM 100 TEST - ITR workflow > Hosting Capacity screen starts off as “pass”
-  even though no values have been entered.
+title: ALM 100 TEST - ITR workflow > Hosting Capacity screen starts off as “pass” even though no values have been entered.
 status: Closed
-created: '2023-04-15'
+created: 2023-04-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-277
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

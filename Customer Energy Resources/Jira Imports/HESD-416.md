@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-416
-title: 'ARD735 - Post-Go Live: [AppStuck] Unable to review Revision as internal user'
+title: "ARD735 - Post-Go Live: [AppStuck] Unable to review Revision as internal user"
 status: Resolved
-created: '2024-06-06'
+created: 2024-06-06
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-416
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

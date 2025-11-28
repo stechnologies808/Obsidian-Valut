@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-523
-title: 'ARD266 - Onsite Compliance Inspection: WVT Self Verification should be Optional'
+title: "ARD266 - Onsite Compliance Inspection: WVT Self Verification should be Optional"
 status: Resolved
-created: '2023-09-30'
+created: 2023-09-30
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-523
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

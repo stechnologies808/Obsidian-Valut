@@ -2,16 +2,17 @@
 ticket_id: CITSD-156
 title: The Total kW on the Project Summary page should be a negative number
 status: Closed
-created: '2022-12-19'
+created: 2022-12-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-156
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

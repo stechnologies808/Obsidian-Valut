@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-567
-title: 'ARD247 - Application Submittal: PV Contractor info should be disabled? (for
-  SDE/SDN not just interim)'
+title: "ARD247 - Application Submittal: PV Contractor info should be disabled? (for SDE/SDN not just interim)"
 status: Closed
-created: '2023-11-04'
+created: 2023-11-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-567
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

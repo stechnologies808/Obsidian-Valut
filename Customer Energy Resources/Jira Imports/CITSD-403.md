@@ -2,16 +2,17 @@
 ticket_id: CITSD-403
 title: ARD115 - 'Is this project self-insured?' not included in Completeness Review
 status: Closed
-created: '2023-07-31'
+created: 2023-07-31
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-403
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

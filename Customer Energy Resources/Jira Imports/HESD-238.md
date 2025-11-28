@@ -2,16 +2,17 @@
 ticket_id: HESD-238
 title: P-AMD-23-505986 Completeness Review failing incorrectly.
 status: Closed
-created: '2023-05-24'
+created: 2023-05-24
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-238
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

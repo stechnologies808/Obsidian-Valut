@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-753
-title: ARD 573:Interim program Smart Export app submitted; no hyperlink for the next
-  process phase
+title: ARD 573:Interim program Smart Export app submitted; no hyperlink for the next process phase
 status: Closed
-created: '2024-02-22'
+created: 2024-02-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-753
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-12
 title: Unable to assign roles due to scrolling windows
 status: Closed
-created: '2022-01-19'
+created: 2022-01-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-12
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

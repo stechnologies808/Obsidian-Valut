@@ -2,16 +2,17 @@
 ticket_id: CITSD-290
 title: ALM 113 TEST - Dashboard missing H1 header [ADA]
 status: Resolved
-created: '2023-04-19'
+created: 2023-04-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-290
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -2,16 +2,17 @@
 ticket_id: CITSD-249
 title: ALM 72 TEST UAT - [UI Styling] Menu Colors
 status: Resolved
-created: '2023-04-08'
+created: 2023-04-08
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-249
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

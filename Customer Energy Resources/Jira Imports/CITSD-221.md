@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-221
-title: 'ALM-20 TEST UAT: VAL RESUBMITTAL - Locked out / unable to proceed'
+title: "ALM-20 TEST UAT: VAL RESUBMITTAL - Locked out / unable to proceed"
 status: Resolved
-created: '2023-03-24'
+created: 2023-03-24
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-221
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

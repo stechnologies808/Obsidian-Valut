@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-784
-title: 'ARD631 - Transition: User Action that transitions Amendments with external
-  parent record does not validation project ID'
+title: "ARD631 - Transition: User Action that transitions Amendments with external parent record does not validation project ID"
 status: Resolved
-created: '2024-04-19'
+created: 2024-04-19
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-784
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

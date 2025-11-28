@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-628
-title: 'ARD414 - Interim program: Unable to start Project Validation - hyperlinks
-  not available'
+title: "ARD414 - Interim program: Unable to start Project Validation - hyperlinks not available"
 status: Resolved
-created: '2024-01-09'
+created: 2024-01-09
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-628
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

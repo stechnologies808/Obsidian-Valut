@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-738
-title: ARD475 - Thank you for updating your application email, while still actively
-  submitting the app
+title: ARD475 - Thank you for updating your application email, while still actively submitting the app
 status: Closed
-created: '2024-02-05'
+created: 2024-02-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-738
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

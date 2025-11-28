@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-659
-title: ARD381 - PV panel spec sheet field not triggered when selecting PV Panel Not
-  On List
+title: ARD381 - PV panel spec sheet field not triggered when selecting PV Panel Not On List
 status: Resolved
-created: '2024-01-18'
+created: 2024-01-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-659
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

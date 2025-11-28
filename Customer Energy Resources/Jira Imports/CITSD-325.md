@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-325
-title: ALM 147 TEST UAT - Ability to modify login page and dashboard content without
-  putting in a request to GU
+title: ALM 147 TEST UAT - Ability to modify login page and dashboard content without putting in a request to GU
 status: Resolved
-created: '2023-05-23'
+created: 2023-05-23
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-325
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

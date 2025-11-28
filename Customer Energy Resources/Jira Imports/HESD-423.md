@@ -1,22 +1,21 @@
 ---
-# Dataview Properties
 ticket_id: "HESD-423"
 title: "ARD672: Transition:  "Edit" user action is not available for transitioned amendments when it should be"
-status: "Awaiting Deployment"
+status: "Deployed"
 created: "2024-06-07"
 ticket_url: "https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-423"
 project: "hesd"
   - jira
   - ticket
-  - awaiting-deployment
+  - deployed
   - hesd
-updated: "2025-11-25T06:01"
-last_synced: "2025-11-25T06:01"
+updated: "2025-11-28T11:18"
+last_synced: "2025-11-28T11:18"
 ---
 
 # }:}
 ## Overview
-- **Status**: Awaiting Deployment
+- **Status**: Deployed
 - **Created**: 2024-06-07
 - **Project**: hesd
 - **Request Type**: Unknown

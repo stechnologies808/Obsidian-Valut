@@ -2,16 +2,17 @@
 ticket_id: CIDSD-117
 title: Change made in PROD to homepage and landing page 03/10
 status: Closed
-created: '2022-03-11'
+created: 2022-03-11
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-117
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

@@ -1,17 +1,18 @@
 ---
 ticket_id: CIDSD-107
-title: 'STAGE: Queue View Configure column order/visibility  not working as expected'
+title: "STAGE: Queue View Configure column order/visibility  not working as expected"
 status: Closed
-created: '2022-03-01'
+created: 2022-03-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/11/CIDSD-107
 project: cidsd
 tags:
-- jira
-- ticket
-- cidsd
-- closed
+  - jira
+  - ticket
+  - cidsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

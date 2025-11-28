@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-146
-title: '477272: Completeness Review link returns user to Landing page'
+title: "477272: Completeness Review link returns user to Landing page"
 status: Resolved
-created: '2022-09-28'
+created: 2022-09-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-146
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

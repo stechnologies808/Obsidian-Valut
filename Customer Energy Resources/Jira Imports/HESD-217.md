@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-217
-title: 576234 I submitted an AMEND application on behalf of a contractor, now in CR
-  it's labled as a Smart Export project
+title: 576234 I submitted an AMEND application on behalf of a contractor, now in CR it's labled as a Smart Export project
 status: Closed
-created: '2023-03-24'
+created: 2023-03-24
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-217
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

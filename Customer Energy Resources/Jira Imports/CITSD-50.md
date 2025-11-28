@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-50
-title: 'Activity links in progress tab not available '
+title: "Activity links in progress tab not available "
 status: Closed
-created: '2022-03-03'
+created: 2022-03-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-50
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

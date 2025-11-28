@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-714
-title: ARD548 - System Owner not cc'ed application submitted or completeness review
-  emails
+title: ARD548 - System Owner not cc'ed application submitted or completeness review emails
 status: Resolved
-created: '2024-02-03'
+created: 2024-02-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-714
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

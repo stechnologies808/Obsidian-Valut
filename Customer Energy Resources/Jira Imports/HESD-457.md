@@ -1,18 +1,18 @@
 ---
 ticket_id: HESD-457
-title: 'ARD774 - [App Stuck] HOTFIX PROD: Error Message appeared when Validation submittal
-  failed, No comms sent'
+title: "ARD774 - [App Stuck] HOTFIX PROD: Error Message appeared when Validation submittal failed, No comms sent"
 status: Closed
-created: '2024-07-18'
+created: 2024-07-18
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-457
 project: hesd
 tags:
-- jira
-- ticket
-- closed
-- hesd
+  - jira
+  - ticket
+  - closed
+  - hesd
 updated: 2025-11-25T06:02
 last_synced: 2025-11-25T06:02
+Rank: 0
 ---
 
 # }:}

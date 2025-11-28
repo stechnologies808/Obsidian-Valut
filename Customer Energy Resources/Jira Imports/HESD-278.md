@@ -1,17 +1,18 @@
 ---
 ticket_id: HESD-278
-title: '461733: Please RUSH. User not able to view project in Queue View'
+title: "461733: Please RUSH. User not able to view project in Queue View"
 status: Resolved
-created: '2023-12-04'
+created: 2023-12-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-278
 project: hesd
 tags:
-- jira
-- ticket
-- hesd
-- resolved
+  - jira
+  - ticket
+  - hesd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

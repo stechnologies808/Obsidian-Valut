@@ -1,17 +1,18 @@
 ---
 ticket_id: CITSD-227
-title: '[UI Styling] Table text color [ADA]'
+title: "[UI Styling] Table text color [ADA]"
 status: Resolved
-created: '2023-03-29'
+created: 2023-03-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-227
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

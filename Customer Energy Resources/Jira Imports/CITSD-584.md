@@ -1,17 +1,17 @@
 ---
 ticket_id: CITSD-584
-title: "ARD316 - \tDPS - ITR Confirmation page UI defect"
+title: ARD316 - 	DPS - ITR Confirmation page UI defect
 status: Resolved
-created: '2023-11-21'
+created: 2023-11-21
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-584
 project: citsd
-tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+rank: 0
 ---
 
 # }:}

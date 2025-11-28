@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-206
-title: ALM 10 TEST UAT Application - Application > Required fields not showing red
-  asterisk
+title: ALM 10 TEST UAT Application - Application > Required fields not showing red asterisk
 status: Resolved
-created: '2023-03-22'
+created: 2023-03-22
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-206
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

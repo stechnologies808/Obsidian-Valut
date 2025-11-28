@@ -2,16 +2,17 @@
 ticket_id: CITSD-373
 title: ARD084 - Manual Override field for energy storage should not be required field
 status: Closed
-created: '2023-06-29'
+created: 2023-06-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-373
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

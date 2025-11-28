@@ -2,16 +2,17 @@
 ticket_id: CITSD-313
 title: ALM 136 - Registration Page Company Logo
 status: Resolved
-created: '2023-04-28'
+created: 2023-04-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-313
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

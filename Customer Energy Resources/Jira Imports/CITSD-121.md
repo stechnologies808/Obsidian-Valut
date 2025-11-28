@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-121
-title: Pre-revision equipment still appearing on validation review page for no-changes
-  amendment.
+title: Pre-revision equipment still appearing on validation review page for no-changes amendment.
 status: Resolved
-created: '2022-11-04'
+created: 2022-11-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-121
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- resolved
+  - jira
+  - ticket
+  - citsd
+  - resolved
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}

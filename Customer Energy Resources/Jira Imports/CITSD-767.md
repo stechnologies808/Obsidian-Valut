@@ -1,18 +1,18 @@
 ---
 ticket_id: CITSD-767
-title: ARD582 - Error Message when processing HQ (Internal Server Error Rule 'smartder_holding_queue_approval'
-  failed)
+title: ARD582 - Error Message when processing HQ (Internal Server Error Rule 'smartder_holding_queue_approval' failed)
 status: Closed
-created: '2024-03-13'
+created: 2024-03-13
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-767
 project: citsd
 tags:
-- jira
-- ticket
-- citsd
-- closed
+  - jira
+  - ticket
+  - citsd
+  - closed
 updated: 2025-11-25T06:01
 last_synced: 2025-11-25T06:01
+Rank: 0
 ---
 
 # }:}
