@@ -2,16 +2,18 @@
 ticket_id: CITSD-383
 title: ITR Enhancement Request - Calculation modification
 status: Backlog
-created: '2023-07-12'
+created: 2023-07-12
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-383
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - LVM
 ---
 
 # }:}

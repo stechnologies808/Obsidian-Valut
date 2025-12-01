@@ -1,18 +1,20 @@
 ---
 ticket_id: CITSD-459
-title: 'ARD174 - CR: repeating headers within a section'
+title: "ARD174 - CR: repeating headers within a section"
 status: Backlog
 created: 2023-09-15
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-459
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-28T07:46
 last_synced: 2025-11-28T07:46
 rank: 0
+Focus:
+  - Internal
 ---
 
 # }:}

@@ -2,16 +2,18 @@
 ticket_id: CITSD-228
 title: ALM051 - [UI Styling] Form input border colors
 status: Backlog
-created: '2023-03-29'
+created: 2023-03-29
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-228
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - External
 ---
 
 # }:}
