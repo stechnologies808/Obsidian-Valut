@@ -9,11 +9,7 @@ project: citsd
 updated: 2025-11-29T06:02
 last_synced: 2025-11-29T06:02
 tags:
-- jira
-- ticket
-- citsd
-- resolved
-- watchlist
+  - watchlist
 ---
 
 # }:}

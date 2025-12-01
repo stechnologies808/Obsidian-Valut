@@ -1,7 +1,7 @@
 ---
 ticket_id: HESD-663
 title: 'INC0330762: Invalid Status Applications Were Added to LVM - Skip ITR '
-status: Open Prod_Skip_ITR_Invalid Status.xlsx
+status: Under Review
 created: '2025-11-24'
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-663
 project: hesd
@@ -10,13 +10,14 @@ tags:
 - ticket
 - hesd
 - open-prod_skip_itr_invalid-status.xlsx
-updated: 2025-11-29T06:02
-last_synced: 2025-11-29T06:02
+- under-review
+updated: 2025-11-30T18:02
+last_synced: 2025-11-30T18:02
 ---
 
 # }:}
 ## Overview
-- **Status**: Open Prod_Skip_ITR_Invalid Status.xlsx
+- **Status**: Under Review
 - **Created**: 2025-11-24
 - **Project**: hesd
 - **Request Type**: Unknown
