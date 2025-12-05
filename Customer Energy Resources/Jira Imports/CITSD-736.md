@@ -1,18 +1,19 @@
 ---
 ticket_id: CITSD-736
-title: ARD375 - [DD Update] Post Installation Photos Cont section heading should be
-  part of Post Installation Photos section
+title: ARD375 - [DD Update] Post Installation Photos Cont section heading should be part of Post Installation Photos section
 status: Backlog
-created: '2024-02-05'
+created: 2024-02-05
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-736
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - External
 ---
 
 # }:}

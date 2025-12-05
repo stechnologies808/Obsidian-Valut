@@ -2,16 +2,18 @@
 ticket_id: CITSD-730
 title: ARD563 - Should flagged comments show only comment text at validation resubmittal?
 status: Backlog
-created: '2024-02-03'
+created: 2024-02-03
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-730
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - Internal
 ---
 
 # }:}

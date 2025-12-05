@@ -2,16 +2,18 @@
 ticket_id: CITSD-610
 title: ARD353 - Form width at 1280px screen width breakpoint is too narrow
 status: Backlog
-created: '2023-12-28'
+created: 2023-12-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-610
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - Ux
 ---
 
 # }:}

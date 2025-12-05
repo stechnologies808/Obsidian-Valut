@@ -1,18 +1,20 @@
 ---
 ticket_id: CITSD-560
-title: 'ARD175 - CR: Lineside Tap should be under Additional System Info (DD Update)'
+title: "ARD175 - CR: Lineside Tap should be under Additional System Info (DD Update)"
 status: Backlog
 created: 2023-11-04
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-560
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-28T07:46
 last_synced: 2025-11-28T07:46
 rank: 0
+Focus:
+  - External
 ---
 
 # }:}
