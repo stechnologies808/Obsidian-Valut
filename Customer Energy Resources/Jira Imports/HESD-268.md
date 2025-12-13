@@ -2,16 +2,18 @@
 ticket_id: HESD-268
 title: GU Cyber Security - Possible Issue with our Hosted Website
 status: Deferred
-created: '2023-09-28'
+created: 2023-09-28
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/20/HESD-268
 project: hesd
 tags:
-- jira
-- ticket
-- deferred
-- hesd
+  - jira
+  - ticket
+  - deferred
+  - hesd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - Configuration
 ---
 
 # }:}

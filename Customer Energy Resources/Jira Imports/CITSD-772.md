@@ -1,18 +1,19 @@
 ---
 ticket_id: CITSD-772
-title: ARD498 - [DD Update] Project Executed when PVR Battery Bonus Summary was Pending
-  or Completed with missing info
+title: ARD498 - [DD Update] Project Executed when PVR Battery Bonus Summary was Pending or Completed with missing info
 status: Backlog
-created: '2024-04-17'
+created: 2024-04-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-772
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - Configuration
 ---
 
 # }:}

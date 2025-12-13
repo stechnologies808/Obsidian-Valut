@@ -1,19 +1,20 @@
 ---
 ticket_id: CITSD-781
-title: 'ARD446 - DD Update: Submitting application as Processor - Paper Application
-  field'
+title: "ARD446 - DD Update: Submitting application as Processor - Paper Application field"
 status: Backlog
 created: 2024-04-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-781
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-28T07:46
 last_synced: 2025-11-28T07:46
 rank: 0
+Focus:
+  - Configuration
 ---
 
 # }:}

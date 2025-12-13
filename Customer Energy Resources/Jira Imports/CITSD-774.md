@@ -1,18 +1,20 @@
 ---
 ticket_id: CITSD-774
-title: 'ARD403 - [DD update] Onsite Compliance Inspection: Drawings & Photo fields
-  should be in their own section (and not under County Inspection Compliance)'
+title: "ARD403 - [DD update] Onsite Compliance Inspection: Drawings & Photo fields should be in their own section (and not under County Inspection Compliance)"
 status: Backlog
-created: '2024-04-17'
+created: 2024-04-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-774
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - External
+  - Ux
 ---
 
 # }:}

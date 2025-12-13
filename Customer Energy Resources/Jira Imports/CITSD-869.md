@@ -2,16 +2,18 @@
 ticket_id: CITSD-869
 title: Deployment Check-List Modification (Move all templates from STAGE to PROD)
 status: Backlog
-created: '2025-07-14'
+created: 2025-07-14
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-869
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - Configuration
 ---
 
 # }:}

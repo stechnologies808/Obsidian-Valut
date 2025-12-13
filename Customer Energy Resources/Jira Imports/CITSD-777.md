@@ -2,16 +2,18 @@
 ticket_id: CITSD-777
 title: ARD372 - [DD update] Project Validation Final Review statement typo
 status: Backlog
-created: '2024-04-17'
+created: 2024-04-17
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-777
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - Ux
 ---
 
 # }:}

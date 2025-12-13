@@ -1,18 +1,20 @@
 ---
 ticket_id: CITSD-799
-title: 'ARD286 - [DD Update] AMEND: Validation Submittal - Inverter Compliance Equipment
-  Removal field'
+title: "ARD286 - [DD Update] AMEND: Validation Submittal - Inverter Compliance Equipment Removal field"
 status: Backlog
-created: '2024-05-16'
+created: 2024-05-16
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-799
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - External
+  - Ux
 ---
 
 # }:}

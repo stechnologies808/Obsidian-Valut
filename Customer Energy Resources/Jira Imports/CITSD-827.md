@@ -1,17 +1,20 @@
 ---
 ticket_id: CITSD-827
-title: 'DFCT0010775: Role ExportingPrivs Missing'
+title: "DFCT0010775: Role ExportingPrivs Missing"
 status: Backlog
-created: '2024-10-01'
+created: 2024-10-01
 ticket_url: https://gridunity.atlassian.net/servicedesk/customer/portal/19/CITSD-827
 project: citsd
 tags:
-- jira
-- ticket
-- backlog
-- citsd
+  - jira
+  - ticket
+  - backlog
+  - citsd
 updated: 2025-11-30T17:42
 last_synced: 2025-11-30T17:42
+Focus:
+  - Reporting
+  - Configuration
 ---
 
 # }:}
