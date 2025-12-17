@@ -1,6 +1,6 @@
 ---
 title: "Jira Tickets Index"
-created: "2025-12-16 18:01:40"
+created: "2025-12-17 06:01:43"
 tags:
   - index
   - jira
@@ -9,7 +9,7 @@ tags:
 
 # Jira Tickets Overview
 
-This directory contains 727 tickets converted from JSON exports.
+This directory contains 1617 tickets converted from JSON exports.
 
 ## Dataview Queries
 
@@ -79,4 +79,4 @@ SORT Count DESC
 ```
 
 ---
-*Generated on 2025-12-16 18:01:40*
+*Generated on 2025-12-17 06:01:43*
